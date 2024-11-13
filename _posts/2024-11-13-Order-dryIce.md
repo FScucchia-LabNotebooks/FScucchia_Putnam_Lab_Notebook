@@ -7,7 +7,7 @@ tags: [ Ordering, dry ice ]
 
 Phone number of the company: (401) 732-2920
 
-Send an email saying this:
+Send an email to Steve Connors <steve.connors@airgas.com> saying this:
 
 I would like to place an order under account #4027600 URI academic unit 3/CMB at the University of Rhode Island for delivery this week. The order includes the following item:
 
