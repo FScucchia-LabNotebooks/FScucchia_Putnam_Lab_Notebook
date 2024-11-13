@@ -1,8 +1,8 @@
 ---
 layout: post
-title: S. pistillata DNA/RNA extraction with Zymo kit
+title: Coral fragment DNA/RNA extraction with Zymo kit
 category: Extraction
-tags: [ RNA, DNA, Stylophora, pH, shallow, mesophotic ]
+tags: [ RNA, DNA, Zymo ]
 ---
 
 Using the [Zymo Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit) on _Stylophora pistillata_ shallow and mesophotic samples from the pH experiment. 
