@@ -25,22 +25,22 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 ### Sample preparation: 
 #### Adult Fragment Sample stored in Zymo DNA/RNA Shield
-This protocol utilizes coral clippings stored in 1mL of Zymo DNA/RNA shield and kept at -80 ºC. Thaw samples to room temperature on benchtop. On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative qualities such as buffer color and amount of tissue in tube.
-
+- This protocol utilizes coral clippings stored in 1mL of Zymo DNA/RNA shield and kept at -80 ºC. Thaw samples to room temperature on benchtop. On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative qualities such as buffer color and amount of tissue in tube.
+- Take 300 uL of the DNA/RNA shield from the sample tube into a clean 1.5 mL tube and performing a Proteinase K digestion in a new tube (described below). 
 ##### Notes on sample preparation
-This protocol will start by taking 300 uL of the DNA/RNA shield from the sample tube into a clean 1.5 mL tube and performing a Proteinase K digestion in a new tube. However, there are several adjustments that can be made at this step.
+- If the DNA/RNA shield looks very dark (ex: this occurs a lot with highly pigmented species such as _Porites_ spp.), only take 150 or 100 uL of the DNA/RNA shield from the sample tube into the new tube and dilute with 150 uL or 200 uL of clean DNA/RNA shield (provided in kit). 
 
-- If the DNA/RNA shield looks very dark (ex: this occurs a lot with highly pigmented species such as Porites spp.), only take 150 or 100 uL of the DNA/RNA shield from the sample tube into the new tube and dilute with 150 uL or 200 uL of clean DNA/RNA shield (provided in kit). Proceed as directed.
-
-- If the extraction is not yielding enough DNA or RNA and the DNA/RNA shield looks very light-colored, it could be that the lytic properties of the DNA/RNA shield did not break up the tissue enough to yield enough DNA and RNA from the buffer alone. In this case, you could bead beat this sample using the protocols described by other lab members Emma L. Strand, Dr. Kevin H. Wong, and Kristina Terpis. This bead beating step could be done by adding beads to the original sample tube, or by transferring an aliquot (300 uL) of the DNA/RNA shield from the sample tube along with a clipping of the tissue fragment into a new bead tube. Add 500-700 uL of clean DNA/RNA shield to make up 800 uL - 1 mL for bead-beating and bead beat for 1-2 minutes at maximum speed. Then, centrifuge briefly and take an aliquot of 300 uL from this homogenized mixture into a clean 1.5 mL tube. Proceed as directed.
-
+- If the extraction is not yielding enough DNA or RNA and the DNA/RNA shield looks very light-colored, it could be that the lytic properties of the DNA/RNA shield did not break up the tissue enough to yield enough DNA and RNA from the buffer alone. In this case, you could bead beat this sample using the protocols described by other lab members Emma L. Strand, Dr. Kevin H. Wong, and Kristina Terpis. This bead beating step could be done by adding beads to the original sample tube, or by transferring an aliquot (300 uL) of the DNA/RNA shield from the sample tube along with a clipping of the tissue fragment into a new bead tube. Add 500-700 uL of clean DNA/RNA shield to make up 800 uL - 1 mL for bead-beating and bead beat for 1-2 minutes at maximum speed. Then, centrifuge briefly and take an aliquot of 300 uL from this homogenized mixture into a clean 1.5 mL tube. Proceed with Proteinase K digestion.
+  
 #### Adult Fragment Sample flash frozen, not stored in Zymo DNA/RNA Shield
-With sterilized clippers (10% bleach, DEPC water, 70% ethanol, air-dried), cut small (5mm x 5mm) fragments from the frozen sample into a clean 1.5 mL screw-cap tube with 1000 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads, Work on ice (better if dry ice). Sterilize clippers between each sample.
-- Note: for species with a lot of mucus, like _Montipora capitata_, I used 1300 uL of DNA/RNA shield to try to dilute as much as possible the mucus and avoid getting it into the extraction column.
-Bead beat for 1-2 minutes on the vortex at max speed. 
-Briefly spin down and remove 400 uL of supernatant into a clean tube. Spin for 3-4 mins at 9,000 rcf.
-Put original samples and bead tubes back in -80 ºC freezer.
-Remove 300 uL of the supernatant into a new tube and continue on with the protocol below (from the Pro K step) as written.
+- With sterilized clippers (10% bleach, DEPC water, 70% ethanol, air-dried), cut small (5mm x 5mm) fragments from the frozen sample into a clean 1.5 mL screw-cap tube with 1000 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads, Work on ice (better if dry ice). Sterilize clippers between each sample.
+ _Note_: for species with a lot of mucus, like _Montipora capitata_, I used 1300 uL of DNA/RNA shield to try to dilute as much as possible the mucus and avoid getting it into the extraction column.
+- Bead beat for 1-2 minutes on the vortex at max speed. 
+- Briefly spin down and remove 400 uL of supernatant into a clean tube.
+  _Note_: for _Porites compressa_ the DNA/RNA shield looked very dark, so I only took 150 ff the DNA/RNA shield from the sample tube into the new tube and diluted with 250 uL of clean DNA/RNA shield.
+- Spin for 3-4 mins at 9,000 rcf.
+- Put original samples and bead tubes back in -80 ºC freezer.
+- Remove 300 uL of the supernatant into a new tube and continue on with the protocol below (from the Pro K step) as written.
 
 ### Proteinase K Digestion
 Add: 30 µl of PK digestion buffer to each 300 uL sample tube (1:10 ratio of PK Digestion Buffer:Sample)
