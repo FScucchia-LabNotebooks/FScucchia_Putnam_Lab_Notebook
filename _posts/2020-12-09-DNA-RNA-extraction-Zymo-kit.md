@@ -36,8 +36,9 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 - With sterilized clippers (10% bleach, DEPC water, 70% ethanol, air-dried), cut small (5mm x 5mm) fragments from the frozen sample into a clean 1.5 mL screw-cap tube with 1000 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads, Work on ice (better if dry ice). Sterilize clippers between each sample.                        
  _Note_: for species with a lot of mucus, like _Montipora capitata_, I used 1300 uL of DNA/RNA shield to try to dilute as much as possible the mucus and avoid getting it into the extraction column.
 - Bead beat for 1-2 minutes on the vortex at max speed. 
-- Briefly spin down and remove 400 uL of supernatant into a clean tube.                                                                                             _Note_: for _Porites compressa_ the DNA/RNA shield looked very dark, so I only took 150 ff the DNA/RNA shield from the sample tube into the new tube and diluted with 250 uL of clean DNA/RNA shield.
-- Spin for 3-4 mins at 9,000 rcf.
+- Briefly spin down and remove 400 uL of supernatant into a clean tube.
+ _Note_: for _Porites compressa_ the DNA/RNA shield looked very dark, so I only took 150 of the DNA/RNA shield from the sample tube into the new tube and diluted with 250 uL of clean DNA/RNA shield.
+- Spin for 3-4 mins at 9,000 rcf (a little pellet forms at the bottom of the tubes)
 - Put original samples and bead tubes back in -80 ºC freezer.
 - Remove 300 uL of the supernatant into a new tube and continue on with the protocol below (from the Pro K step) as written.
 
