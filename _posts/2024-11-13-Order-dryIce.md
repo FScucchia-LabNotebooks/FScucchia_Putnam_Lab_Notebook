@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ordering dry ice
-category: Ordering
+categories: Ordering
 tags: [ Ordering, dry ice ]
 ---
 
