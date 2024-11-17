@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ordering dry ice
+date: '2024-11-13'
 categories: Ordering
 tags: [ Ordering, dry ice ]
 ---
