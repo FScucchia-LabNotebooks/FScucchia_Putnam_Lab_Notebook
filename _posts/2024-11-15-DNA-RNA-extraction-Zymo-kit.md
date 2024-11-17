@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coral fragment DNA/RNA extraction with Zymo kit
+date: '2024-11-15'
 category: Extraction
 tags: [ RNA, DNA, Zymo ]
 ---
