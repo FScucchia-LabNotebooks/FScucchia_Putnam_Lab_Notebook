@@ -40,6 +40,7 @@ For the extraction, I followed the protocol [here](https://fscucchia-labnotebook
 ![McapD10.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/McapD10.png?raw=true)
 ![McapB8.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/McapB8.png?raw=true)
 ![PcompF8.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/PcompF8.png?raw=true)
-
+![PacuF8.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/PacuF8.png?raw=true)
+![PacuH10.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/PacuH10.png?raw=true)
 
 
