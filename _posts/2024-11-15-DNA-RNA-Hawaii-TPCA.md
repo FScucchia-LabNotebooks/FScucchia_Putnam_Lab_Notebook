@@ -29,12 +29,12 @@ For the extraction, I followed the protocol [here](https://fscucchia-labnotebook
 
 **TapeStation**
 
-| Extraction date  | colony_id  |     Species            | Temp.Cat   |   RNA Tape Station conc.   | RIN |
-| 20241116  |  Mcap-B8    | *Montipora capitata*         |   25       |  10.4         | 8 |
-| 20241114  |  Pacu-H10   | *Pocillopora acuta*          |   26.8     | 23.7          | 8.9 |
-| 20241116  |  Mcap-D10   | *Montipora capitata*         |   26.8     |  16.8         | 8.1 |
-| 20241116  |  Pacu-F8    | *Pocillopora acuta*          |   25       | 15.4          | 7.6 |
-| 20241116  |  Pcomp-F8   | *Porites compressa*          |   25       | 21.5          | 8.4 |
-| 20241119  |  Pcomp-E10  | *Porites compressa*          |   26.8     | 28.5          | 9 |
+| Extraction date  | colony_id  |     Species            | Temp.Cat   |   RNA_Tape_Station_conc.   | RIN |
+| 20241116  |  Mcap-B8    | *Montipora capitata*         | 25       |  10.4         | 8 |
+| 20241114  |  Pacu-H10   | *Pocillopora acuta*          | 26.8     | 23.7          | 8.9 |
+| 20241116  |  Mcap-D10   | *Montipora capitata*         | 26.8     |  16.8         | 8.1 |
+| 20241116  |  Pacu-F8    | *Pocillopora acuta*          | 25       | 15.4          | 7.6 |
+| 20241116  |  Pcomp-F8   | *Porites compressa*          | 25       | 21.5          | 8.4 |
+| 20241119  |  Pcomp-E10  | *Porites compressa*          | 26.8     | 28.5          | 9 |
 
 
