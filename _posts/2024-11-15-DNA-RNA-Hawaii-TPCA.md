@@ -16,14 +16,13 @@ For the extraction, I followed the protocol [here](https://fscucchia-labnotebook
 
 **Qubit Results**
 
-| Extraction date | colony_id | Species                     | Temp.Cat | RNA_QBIT_AVG |
-|-----------------|-----------|-----------------------------|----------|--------------|
-| 20241116 | Mcap-B8   | *Montipora capitata*         | 25       |  13.8         |
-| 20241114 | Pacu-H10  | *Pocillopora acuta*         | 26.8       | 19.5         |
-| 20241116 | Mcap-D10   | *Montipora capitata*         | 26.8       |  17.6         |
-| 20241116 | Pacu-F8  | *Pocillopora acuta*         | 25       | 17.9         |
-| 20241116 | Pcomp-F8   | *Porites compressa*         | 25       | 14.4          |
-| 20241119 | Pcomp-E10  | *Porites compressa*         | 26.8      | 27.2         |
+| Extraction date | colony_id |      Species            | Temp.Cat | RNA_QBIT_AVG |
+|   20241116 | Mcap-B8   | *Montipora capitata*         | 25       |  13.8         |
+|   20241114 | Pacu-H10  | *Pocillopora acuta*         | 26.8       | 19.5         |
+|   20241116 | Mcap-D10   | *Montipora capitata*         | 26.8       |  17.6         |
+|   20241116 | Pacu-F8  | *Pocillopora acuta*         | 25       | 17.9         |
+|   20241116 | Pcomp-F8   | *Porites compressa*         | 25       | 14.4          |
+|   20241119 | Pcomp-E10  | *Porites compressa*         | 26.8      | 27.2         |
 
 
 **Gel**
