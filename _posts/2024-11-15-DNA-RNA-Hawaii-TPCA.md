@@ -37,4 +37,6 @@ For the extraction, I followed the protocol [here](https://fscucchia-labnotebook
 | 20241116  |  Pcomp-F8   | *Porites compressa*          | 25       | 21.5          | 8.4 |
 | 20241119  |  Pcomp-E10  | *Porites compressa*          | 26.8     | 28.5          | 9 |
 
+![McapD10.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/tree/master/images/McapD10.png?raw=true)
+
 
