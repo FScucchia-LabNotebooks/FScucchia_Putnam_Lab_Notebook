@@ -15,11 +15,11 @@ For the library prep I followed the protocol of [Jill Ashey](https://github.com/
 
 After the library prep, I run samples on the tapestation (D5000).
 
-| Library prep date  | colony_id  |     Species            | Temp.Cat   |   Tape_Station_conc.   | Primer set  |
-| 20241120  |  Pacu-H10    | *Pocillopora acuta*          | 26.8       |  22.1         |  1  |
-| 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     | 6.52          |  2  |
-| 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |  8.01        |  3   |
-| 20241121  |  Mcav-F1   | *Montastraea cavernosa*          | 29     | Below 1         |  4  |
+| Library prep date  | colony_id  |     Species            | Temp.Cat   |    TapeStation conc.     |   Primer set  |
+| 20241120  |  Pacu-H10    | *Pocillopora acuta*          | 26.8       |    22.1          |  1  |
+| 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     |  6.52          |  2  |
+| 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |    8.01        |  3   |
+| 20241121  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  4  |
 
 ![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
 
