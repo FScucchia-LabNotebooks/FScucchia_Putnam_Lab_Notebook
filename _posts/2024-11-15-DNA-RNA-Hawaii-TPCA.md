@@ -26,6 +26,7 @@ For the extraction, I followed the protocol [here](https://fscucchia-labnotebook
 
 
 **Gel**
+![Gel_DNA_RNA_21Nov2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_21Nov2024.png?raw=true)
 
 **TapeStation**
 
