@@ -15,7 +15,7 @@ For the library prep I followed the protocol of [Jill Ashey](https://github.com/
 
 After the library prep, I run samples on the tapestation (D5000).
 
-| Library prep date  | colony_id  |     Species            | Temp.Cat   |    TapeStation conc.     |   Primer set  |
+| Library prep date  | colony_id  |     Species            | Temperature   |    TapeStation conc.     |   Primer set  |
 | 20241120  |  Pacu-H10    | *Pocillopora acuta*          | 26.8       |    22.1          |  1  |
 | 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     |  6.52          |  2  |
 | 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |    8.01        |  3   |
