@@ -20,9 +20,9 @@ After the library prep, I run samples on the tapestation (D5000).
 | 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     |  6.52          |  2  |
 | 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |    8.01        |  3   |
 | 20241121  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  4  |
-| 20241122  |  Mcav-A6   | *Montastraea cavernosa*          | 26     |            |  5  |
-| 20241122  |  Dlab-B6   | *Diploria labyrinthiformis*          | 26     |            |  6  |
-| 20241122  |  Mcap-D10   | *Montipora capitata*          | 26.8     |            |  7  |
+| 20241122  |  Mcav-A6   | *Montastraea cavernosa*          | 26     |   Below 1         |  5  |
+| 20241122  |  Dlab-B6   | *Diploria labyrinthiformis*          | 26     |   1.97         |  6  |
+| 20241122  |  Mcap-D10   | *Montipora capitata*          | 26.8     |    8.28        |  7  |
 
 ![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
 
