@@ -10,6 +10,16 @@ tags: [DNA, Zymo]
 Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. RNA extraction post about these extractions can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA/).
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md).
+The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA, which is a large range. Since some of the concentrations in these samples were low, I used 13ng of total RNA as input for all species. Here's a breakdown of input RNA volumes for each sample:
+
+| colony_id | TS RNA (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
+| Pacu-H10 | 13.8           | 0.67      | 4.33                  | 5.0                        |	
+| Pcomp-E10 | 27.2          | 0.48      | 4.52                 | 5.0                        |	
+| Mdec-D1 | 27.3           | 0.48     | 4.52                  | 5.0                        |
+| Mcav-F1 | 34.4           | 0.38      | 4.62                  | 5.0                        |
+| Mcav-A6 | 15.1           | 0.86      | 4.14                  | 5.0                        |
+| Dlab-B6 | 15.4            | 0.84     | 4.16                  | 5.0                        |
+| Mcap-D10 | 17.6            | 0.74      | 4.26                  | 5.0                        |
 
 **TapeStation**
 
