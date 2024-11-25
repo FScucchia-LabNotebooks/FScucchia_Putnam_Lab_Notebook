@@ -41,4 +41,6 @@ After the library prep, I run samples on the tapestation (D5000).
 
 ![LibraryPrepZymo2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo2.png?raw=true)
 
+![LibraryPrepZymo3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo3.png?raw=true)
+
 
