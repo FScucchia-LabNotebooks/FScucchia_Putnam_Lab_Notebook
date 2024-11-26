@@ -20,7 +20,7 @@ I will do the cleanup on just the Mcav-F1 sample, then do the library prep for t
 
 Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction by Zoe):
 
-|sample_id || RNA_QBIT_AVG (ng/uL)|| RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
+|sample_id   || RNA_QBIT_AVG (ng/uL)|| RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
 | Mcav-F1       || 34.4     ||     10      ||   40                 || 50                        |
 
 **QBIT after RNA cleanup**
@@ -53,10 +53,10 @@ Here's a breakdown of input RNA volume:
 
 After the library prep, I run samples on the tapestation (D5000).
 
-| Library prep date  | sample_id  |     Species            | Temp   |    TapeStation conc.     |   Primer set  |
-| 20241126  |  Mcav-F1_clean    | *Montastraea cavernosa*          | 29       |    22.1          |  8  |
-| 20241126  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  9  |
-| 20241126  |  Dlab-B6   | *Diploria labyrinthiformis*          | 29     |   1.97         |  10  |
+| Library prep date  || sample_id  ||     Species            || Temp   ||    TapeStation conc.     ||   Primer set  |
+| 20241126  ||  Mcav-F1_clean    || *Montastraea cavernosa*          || 29       ||    22.1          ||  8  |
+| 20241126  ||  Mcav-F1   || *Montastraea cavernosa*          || 29     ||   Below 1         ||  9  |
+| 20241126  ||  Dlab-B6   || *Diploria labyrinthiformis*          || 29     ||   1.97        ||  10  |
 
 
 ![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
