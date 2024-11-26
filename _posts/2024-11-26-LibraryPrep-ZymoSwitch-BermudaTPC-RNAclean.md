@@ -23,33 +23,39 @@ Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction
 | colony_id | RNA_QBIT_AVG (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
 | Mcav-F1 | 34.4           |   10      |   40                  | 50                        |
 
-**QBIT**
-I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned)
+**QBIT after RNA cleanup**
+I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned), I used the high sensitivity assay.
+
+Mcav-F1 cleaned: 7.82 ng/ul read 1, 7.44 read 2
+Mcav-F1 non-cleaned: 15.0 ng/ul read 1, 13.9 read 2 *much lower than Zoe's initial qbit
+
+**TapeStation after RNA cleanup**
+I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape. 
+The RNA concentration looks weirldy super low. The RIN of the cleaned RNA sample is lower than the non-cleaned.
 
 
-Here's a breakdown of input RNA volume for the RNA clean-up:
 
-| colony_id | TS RNA (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
-| Pacu-H10 | 13.8           | 0.67      | 4.33                  | 5.0                        |	
-| Pcomp-E10 | 27.2          | 0.48      | 4.52                 | 5.0                        |	
-| Mdec-D1 | 27.3           | 0.48     | 4.52                  | 5.0                        |
-| Mcav-F1 | 34.4           | 0.38      | 4.62                  | 5.0                        |
-| Mcav-A6 | 15.1           | 0.86      | 4.14                  | 5.0                        |
-| Dlab-B6 | 15.4            | 0.84     | 4.16                  | 5.0                        |
-| Mcap-D10 | 17.6            | 0.74      | 4.26                  | 5.0                        |
+## Library prep
+I run the library prep protocol anyway, with the 2 Mcav-F1 cleaned and non-cleaned samples and Dlab-A1 sample.
+Input RNA 15 ug total.
+
+Here's a breakdown of input RNA volume:
+
+| colony_id | RNA_QBIT_AVG (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
+| Mcav-F1_clean | 7.63           | 1.97     | 3.03                  | 5.0                        |
+| Mcav-F1 | 14.45           | 1.04      | 3.96                  | 5.0                        |
+| Dlab-B6 | 12.6            | 1.19     | 3.81                  | 5.0                        |
+
 
 **TapeStation**
 
 After the library prep, I run samples on the tapestation (D5000).
 
 | Library prep date  | colony_id  |     Species            | Temp   |    TapeStation conc.     |   Primer set  |
-| 20241120  |  Pacu-H10    | *Pocillopora acuta*          | 26.8       |    22.1          |  1  |
-| 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     |  6.52          |  2  |
-| 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |    8.01        |  3   |
-| 20241121  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  4  |
-| 20241122  |  Mcav-A6   | *Montastraea cavernosa*          | 26     |   Below 1         |  5  |
-| 20241122  |  Dlab-B6   | *Diploria labyrinthiformis*          | 26     |   1.97         |  6  |
-| 20241122  |  Mcap-D10   | *Montipora capitata*          | 26.8     |    8.28        |  7  |
+| 20241126  |  Mcav-F1_clean    | *Montastraea cavernosa*          | 29       |    22.1          |  8  |
+| 20241126  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  9  |
+| 20241126  |  Dlab-B6   | *Diploria labyrinthiformis*          | 29     |   1.97         |  10  |
+
 
 ![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
 
