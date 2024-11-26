@@ -23,6 +23,8 @@ Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction
 |sample_id   || RNA_QBIT_AVG (ng/uL)|| RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
 | Mcav-F1       || 34.4     ||     10      ||   40                 || 50                        |
 
+Sample eluted after the cleanup in 8ul.
+
 **QBIT after RNA cleanup**
 
 I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned), I used the high sensitivity assay.
@@ -33,8 +35,9 @@ I measured the RNA concentration of the cleaned RNA and of the original RNA samp
 **TapeStation after RNA cleanup**
 
 I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape. 
-The RNA concentration looks weirldy super low. The RIN of the cleaned RNA sample is lower than the non-cleaned.
+The RNA concentration looks weirldy super low. The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for the library prep kit (>4).
 
+![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
 
 
 ## Library prep
@@ -59,10 +62,4 @@ After the library prep, I run samples on the tapestation (D5000).
 | 20241126  ||  Dlab-B6   || *Diploria labyrinthiformis*          || 29     ||   1.97        ||  10  |
 
 
-![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
-
-![LibraryPrepZymo2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo2.png?raw=true)
-
-![LibraryPrepZymo3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo3.png?raw=true)
-
-
+![LibraryPrepZymo5.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo5.png?raw=true)
