@@ -24,12 +24,15 @@ Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction
 | Mcav-F1          |             34.4           |     10      |   40                 | 50                        |
 
 **QBIT after RNA cleanup**
+
 I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned), I used the high sensitivity assay.
 
 Mcav-F1 cleaned: 7.82 ng/ul read 1, 7.44 read 2
+
 Mcav-F1 non-cleaned: 15.0 ng/ul read 1, 13.9 read 2 *much lower than Zoe's initial qbit
 
 **TapeStation after RNA cleanup**
+
 I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape. 
 The RNA concentration looks weirldy super low. The RIN of the cleaned RNA sample is lower than the non-cleaned.
 
