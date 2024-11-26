@@ -20,8 +20,8 @@ I will do the cleanup on just the Mcav-F1 sample, then do the library prep for t
 
 Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction by Zoe):
 
-|sample_id| RNA_QBIT_AVG (ng/uL)| RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
-| Mcav-F1       | 34.4     |     10      |   40                 | 50                        |
+|sample_id || RNA_QBIT_AVG (ng/uL)|| RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
+| Mcav-F1       || 34.4     ||     10      ||   40                 || 50                        |
 
 **QBIT after RNA cleanup**
 
