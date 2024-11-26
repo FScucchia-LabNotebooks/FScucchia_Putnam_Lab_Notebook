@@ -1,21 +1,35 @@
 ---
 layout: post
-title: Library prep using Zymo SwitchFree kit - Hawaii and Bermuda TPC samples
-date: '2024-11-21'
+title: Try again with library prep using Zymo SwitchFree kit - Bermuda TPC samples
+date: '2024-11-26'
 category: Protocol
-tags: [DNA, Zymo]
+tags: [DNA, Zymo, RNA, library]
 ---
 
-#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of the Hawaii and Bermuda TPC samples
-Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. RNA extraction post about these extractions can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA/).
+#### Trying again with library prep using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for Bermuda TPC samples - Mcav and Dlab
+
+Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again by first cleaning the RNA with the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) and slightly increasing the input RNA concentration from 13 to 15ng.
+Cleaning the RNA should get rid of potential PCR inhibitors that might cause failure of the library prep for these species.
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md).
-The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA, which is a large range. Since some of the concentrations in these samples were low, I used 13ng of total RNA as input for all species. 
-Given the low input for these preps and previous experience of lab members with Zymo kits, I'm using 21 PCR amplification cycles (maximum recommended by the zymo kit for <100ng input RNA).
+The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using 15 ng and the same number of cycles as my previous attempts, 21 PCR amplification cycles (maximum recommended by the zymo kit for <100ng input RNA).
 
-Here's a breakdown of input RNA volumes for each sample:
+## RNA clean up
+I've followed the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) manual and [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Pooling-and-Concentrating-RNA-Clean-Concentrate-2023-05-05/) by Zoe. The minimun sample volume for this kit is 50ul and the column binding capacity is 10ng of RNA, so I'm taking an aliquot from the original RNA sample and adding RNAse-free water.
+I will do the cleanup on just the Mcav-F1 sample, then run do the library prep for the cleaned Mcav-F1, non-cleaned Mcav-F1 and an additional non-cleaned Dlab-A1 sample.
+
+Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction by Zoe):
 
 | colony_id | RNA_QBIT_AVG (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
+| Mcav-F1 | 34.4           |   10      |   40                  | 50                        |
+
+**QBIT**
+I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned)
+
+
+Here's a breakdown of input RNA volume for the RNA clean-up:
+
+| colony_id | TS RNA (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
 | Pacu-H10 | 13.8           | 0.67      | 4.33                  | 5.0                        |	
 | Pcomp-E10 | 27.2          | 0.48      | 4.52                 | 5.0                        |	
 | Mdec-D1 | 27.3           | 0.48     | 4.52                  | 5.0                        |
