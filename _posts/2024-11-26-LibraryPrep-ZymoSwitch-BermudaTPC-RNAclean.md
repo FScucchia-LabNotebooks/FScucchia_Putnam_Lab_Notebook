@@ -49,7 +49,7 @@ Here's a breakdown of input RNA volume:
 | sample_id | RNA_QBIT_AVG (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
 | Mcav-F1_clean | 7.63           | 1.97     | 3.03                  | 5.0                        |
 | Mcav-F1 | 14.45           | 1.04      | 3.96                  | 5.0                        |
-| Dlab-B6 | 12.6            | 1.19     | 3.81                  | 5.0                        |
+| Dlab-A1 | 12.6            | 1.19     | 3.81                  | 5.0                        |
 
 
 **TapeStation**
@@ -59,7 +59,7 @@ After the library prep, I run samples on the tapestation (D5000).
 | Library prep date  || sample_id  ||     Species            || Temp   ||    TapeStation conc.     ||   Primer set  |
 | 20241126  ||  Mcav-F1_clean    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  8  |
 | 20241126  ||  Mcav-F1   || *Montastraea cavernosa*          || 29     ||   Below 1         ||  9  |
-| 20241126  ||  Dlab-B6   || *Diploria labyrinthiformis*          || 29     ||   Below 1        ||  10  |
+| 20241126  ||  Dlab-A1   || *Diploria labyrinthiformis*          || 29     ||   Below 1        ||  10  |
 
 
 ![LibraryPrepZymo5.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo5.png?raw=true)
