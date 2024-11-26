@@ -35,7 +35,7 @@ I measured the RNA concentration of the cleaned RNA and of the original RNA samp
 **TapeStation after RNA cleanup**
 
 I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape. 
-The RNA concentration looks weirldy super low. The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for the library prep kit (>4).
+The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for the library prep kit (>4).
 
 ![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
 
