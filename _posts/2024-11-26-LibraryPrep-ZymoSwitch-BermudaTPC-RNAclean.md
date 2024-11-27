@@ -47,7 +47,7 @@ The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for
 
 ![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
 
-Tape station result for Dlba-A1
+Tape station result for Dlab-A1
 ![LibraryPrepZymo4_2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4_2.png?raw=true)
 
 
