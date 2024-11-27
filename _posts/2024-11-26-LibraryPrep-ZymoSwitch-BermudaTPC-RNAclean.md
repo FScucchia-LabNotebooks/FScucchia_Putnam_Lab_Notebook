@@ -25,7 +25,7 @@ The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RN
 I've followed the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) protocol above and [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Pooling-and-Concentrating-RNA-Clean-Concentrate-2023-05-05/) by Zoe. The minimun sample volume for this kit is 50ul and the column binding capacity is 10ng of RNA, so I'm taking an aliquot from the original RNA sample and adding RNAse-free water.
 I will do the cleanup on just the Mcav-F1 sample, then do the library prep for the cleaned Mcav-F1, non-cleaned Mcav-F1 and an additional non-cleaned Dlab-A1 sample.
 
-Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction by Zoe):
+Here's a breakdown of input RNA volume for the RNA clean-up (QBIT and extraction by Zoe, see [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2023-04-06/)):
 
 |sample_id   || RNA_QBIT_AVG (ng/uL)|| RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
 | Mcav-F1       || 34.4     ||     10      ||   40                 || 50                        |
@@ -48,7 +48,7 @@ The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for
 
 
 ## Library prep
-I run the library prep protocol linked above, with the 2 Mcav-F1 cleaned and non-cleaned samples and Dlab-A1 sample.
+I run the library prep protocol linked above, with the 2 Mcav-F1 cleaned and non-cleaned samples and Dlab-A1 sample (extracted by Zoe, see [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2023-01-18/)).
 Input RNA 15 ug total.
 
 Here's a breakdown of input RNA volume:
