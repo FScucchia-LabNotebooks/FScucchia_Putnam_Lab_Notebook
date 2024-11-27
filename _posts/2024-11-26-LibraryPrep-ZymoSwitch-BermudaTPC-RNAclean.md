@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Try again with library prep using Zymo SwitchFree kit - Bermuda TPC samples
+title: Try again with library prep using Zymo SwitchFree kit - Bermuda TPC samples - 112624
 date: '2024-11-26'
 category: Protocol
 tags: [DNA, Zymo, RNA, library]
 ---
 
-#### Trying again with library prep using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for Bermuda TPC samples - Mcav and Dlab - 112624
+#### Trying again with library prep using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for Bermuda TPC samples - Mcav and Dlab 
 
 **Protocols used**
 - [Zymo-Seq SwitchFree 3′ mRNA Library Kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r3008_r3009__zymo_seq_switchfree_3_mrna_library_kit.pdf)
 - [Zymo Clean & Concentrator-5 kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r1013_r1014_r1015_r1016_rna_clean_concentrator-5.pdf)
-
-
+- [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
+- [TapeStation protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/ScreenTape_HSRNA_QG.pdf)
 
 
 Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again by first cleaning the RNA with the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) and slightly increasing the input RNA concentration from 13 to 15ng.
