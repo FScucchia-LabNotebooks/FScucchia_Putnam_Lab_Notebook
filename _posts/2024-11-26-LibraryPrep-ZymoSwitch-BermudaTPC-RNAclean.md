@@ -47,6 +47,9 @@ The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for
 
 ![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
 
+Tape station result for Dlba-A1
+![LibraryPrepZymo4_2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4_2.png?raw=true)
+
 
 ## Library prep
 I run the library prep protocol linked above, with the 2 Mcav-F1 cleaned and non-cleaned samples and Dlab-A1 sample (extracted by Zoe, see [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2023-01-18/)).
