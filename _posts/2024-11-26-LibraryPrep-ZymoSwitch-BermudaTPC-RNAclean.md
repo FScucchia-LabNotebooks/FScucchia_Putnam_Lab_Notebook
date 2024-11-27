@@ -12,7 +12,8 @@ tags: [DNA, Zymo, RNA, library]
 - [Zymo-Seq SwitchFree 3′ mRNA Library Kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r3008_r3009__zymo_seq_switchfree_3_mrna_library_kit.pdf)
 - [Zymo Clean & Concentrator-5 kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r1013_r1014_r1015_r1016_rna_clean_concentrator-5.pdf)
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
-- [TapeStation protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/ScreenTape_HSRNA_QG.pdf)
+- [TapeStation protocol HS RNA](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/ScreenTape_HSRNA_QG.pdf)
+- [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 
 
 Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again by first cleaning the RNA with the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) and slightly increasing the input RNA concentration from 13 to 15ng.
@@ -41,7 +42,7 @@ I measured the RNA concentration of the cleaned RNA and of the original RNA samp
 
 **TapeStation after RNA cleanup**
 
-I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape. 
+I run the Mcav-F1 cleaned and non-cleaned on the TS using the High Sensitivity reagents and tape, protocol linked above. 
 The RIN of the cleaned RNA sample is lower than the non-cleaned but still ok for the library prep kit (>4).
 
 ![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
@@ -61,7 +62,7 @@ Here's a breakdown of input RNA volume:
 
 **TapeStation**
 
-After the library prep, I run samples on the tapestation (D5000).
+After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | Library prep date  || sample_id  ||     Species            || Temp   ||    TapeStation conc.     ||   Primer set  |
 | 20241126  ||  Mcav-F1_clean    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  8  |
