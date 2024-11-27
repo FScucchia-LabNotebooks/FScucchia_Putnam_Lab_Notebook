@@ -30,7 +30,7 @@ The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RN
 
 I run the samples on the TS using the RNA protocol linked above. 
 
-![LibraryPrepZymo4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo4.png?raw=true)
+![LibraryPrepZymo6.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo6.png?raw=true)
 
 
 ## Library prep
@@ -47,7 +47,7 @@ Here's a breakdown of input RNA volume and quantity:
 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
-| Library prep date  || sample_id  ||     Species            || Temp   ||    TapeStation conc.     ||   Primer set  |
+| Library prep date  || sample_id  ||     Species       || Temp   ||    TapeStation conc.     ||   Primer set  |
 | 20241127  ||  Mcav-B1    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  11  |
 | 20241127  ||  Dlab-D1   || *Diploria labyrinthiformis*       || 29     ||   Below 1         ||  12  |
 
