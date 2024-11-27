@@ -19,7 +19,7 @@ tags: [DNA, Zymo, RNA, library]
 Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again by first cleaning the RNA with the [Zymo Clean & Concentrator-5 kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) and slightly increasing the input RNA concentration from 13 to 15ng.
 Cleaning the RNA should get rid of potential PCR inhibitors that might cause failure of the library prep for these species.
 
-For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md).
+For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol linked above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using 15 ng and the same number of cycles as my previous attempts, 21 PCR amplification cycles (maximum recommended by the zymo kit for <100ng input RNA).
 
 ## RNA clean up
