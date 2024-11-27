@@ -48,6 +48,8 @@ Here's a breakdown of input RNA volume and quantity:
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | Library prep date  || sample_id  ||     Species       || Temp   ||    TapeStation conc.     ||   Primer set  |
-| 20241127  ||  Mcav-B1    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  11  |
+| 20241127  ||  Mcav-B1    || *Montastraea cavernosa*          || 29       ||    0          ||  11  |
 | 20241127  ||  Dlab-D1   || *Diploria labyrinthiformis*       || 29     ||   Below 1         ||  12  |
+
+![LibraryPrepZymo7.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo7.png?raw=true)
 
