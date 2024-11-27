@@ -35,10 +35,11 @@ Sample eluted after the cleanup in 8ul.
 
 **QBIT after RNA cleanup**
 
-I measured the RNA concentration of the cleaned RNA and of the original RNA sample (non-cleaned), I used the high sensitivity assay.
+I measured the RNA concentration of the cleaned Mcav-F1 RNA, of the original Mcav-F1 RNA sample (non-cleaned), and of the non-cleaned Dlab-A1 sample. I used the high sensitivity assay.
 
 - Mcav-F1 cleaned: 7.82 ng/ul read 1, 7.44 read 2
 - Mcav-F1 non-cleaned: 15.0 ng/ul read 1, 13.9 read 2 *much lower than Zoe's initial qbit
+- Dlab-A1 non-cleaned: 12.6 ng/ul read 1, 12.0 read 2
 
 **TapeStation after RNA cleanup**
 
@@ -63,7 +64,7 @@ Here's a breakdown of input RNA volume:
 | Dlab-A1 | 12.6            | 1.19     | 3.81                  | 5.0                        |
 
 
-**TapeStation**
+**TapeStation after library prep**
 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 

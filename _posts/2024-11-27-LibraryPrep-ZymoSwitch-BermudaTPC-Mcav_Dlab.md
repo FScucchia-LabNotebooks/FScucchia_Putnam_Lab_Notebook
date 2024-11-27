@@ -23,8 +23,8 @@ The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RN
 **QBIT before library prep**
 
 |sample_id   || RNA_QBIT_read1 (ng/uL)|| RNA_QBIT_read2 (ng/uL)|| RNA_QBIT_AVG (ng/uL) |
-| Mcav-       ||      ||           ||                   ||                 |
-| Dlab-       ||      ||           ||                    ||                 |
+| Mcav-B1       ||  13.5    ||    12.9       ||      13.2             |
+| Dlab-D1       ||  11.2    ||    9.6       ||       10.4             |
 
 **TapeStation before library prep**
 
@@ -36,12 +36,11 @@ I run the samples on the TS using the RNA protocol linked above.
 ## Library prep
 I run the library prep protocol linked above, with the Mcav- and Dlab- sample extracted by Zoe.
 
-Here's a breakdown of input RNA volume:
+Here's a breakdown of input RNA volume and quantity:
 
-| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total starting volume (ul) |
-| Mcav-       ||      ||    5       ||        0           ||        5         |
-| Dlab-       ||      ||    5       ||        0            ||       5          |
-
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Mcav-B1       ||   13.2           ||    5     ||        0             ||        66         |
+| Dlab-D1       ||   10.4           ||    5     ||        0             ||        52          |
 
 
 **TapeStation**
@@ -49,6 +48,6 @@ Here's a breakdown of input RNA volume:
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | Library prep date  || sample_id  ||     Species            || Temp   ||    TapeStation conc.     ||   Primer set  |
-| 20241127  ||  Mcav-    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  11  |
-| 20241127  ||  Mcav-   || *Diploria labyrinthiformis*       || 29     ||   Below 1         ||  12  |
+| 20241127  ||  Mcav-B1    || *Montastraea cavernosa*          || 29       ||    Below 1          ||  11  |
+| 20241127  ||  Dlab-D1   || *Diploria labyrinthiformis*       || 29     ||   Below 1         ||  12  |
 
