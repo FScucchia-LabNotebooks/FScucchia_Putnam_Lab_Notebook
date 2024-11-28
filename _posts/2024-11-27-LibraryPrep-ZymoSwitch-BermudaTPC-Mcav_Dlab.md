@@ -34,7 +34,7 @@ I run the samples on the TS using the RNA protocol linked above.
 
 
 ## Library prep
-I run the library prep protocol linked above, with the Mcav- and Dlab- sample extracted by Zoe.
+I ran the library prep protocol linked above, with the Mcav-B1 and Dlab-D1 sample extracted by Zoe.
 
 Here's a breakdown of input RNA volume and quantity:
 
