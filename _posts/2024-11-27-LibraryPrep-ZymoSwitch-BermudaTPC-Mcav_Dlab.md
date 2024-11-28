@@ -15,7 +15,7 @@ tags: [DNA, Zymo, RNA, library]
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 
 
-Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again maxing out the input RNA (5 uL of extracted RNA sample, max staerting volume for this kit). So far I've tried 13ng and 15ng RNA input.
+Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) to try again preparing libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii and Bermuda TPC project. The library prep for Mcav and Dlab RNA samples has not worked so far, so I'm trying again maxing out the input RNA (5 uL of extracted RNA sample, max starting volume for this kit). So far I've tried 13ng and 15ng RNA input.
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol linked above. These are the last 2 preps with this kit (12 prep kit).
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using the max volume of RNA input (5 ul) and a lower number of cycles as my previous attempts, 19 instead of 21 PCR amplification cycles (see the kit protocol for which number of cycles to choose based on input RNA).
