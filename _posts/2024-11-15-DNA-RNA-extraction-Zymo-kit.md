@@ -70,7 +70,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 17. Transfer yellow columns to new 1.5mL microcentrifuge tubes
 18. Add 50 µl warmed 10 mM Tris HCl to each yellow DNA column by dripping slowly directly on the filter
 19. Incubate at room temp for 5 minutes
-20. Centrifuge at 10,000 rcf (g) for 30 seconds
+20. Centrifuge at 10,000 rcf (g) for 30 seconds - higher than 10,000 rcf the tube caps will detach
 21. Repeat steps 18-20 for a final elution volume of 100 µl
 22. Label tubes, store at 4°C if quantifying the same day or the next (Nanodrop), if waiting longer store in -20°C
 
@@ -105,7 +105,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 24. Transfer green columns to new 1.5mL microcentrifuge tubes
 25. Add 50µl warmed DNase/RNase free water to each green RNA column by dripping slowly directly on the filer
 26. Incubate at room temp for 5 minutes
-27. Centrifuge at 10,000 rcf (g) for 30 seconds
+27. Centrifuge at 10,000 rcf (g) for 30 seconds - higher than 10,000 rcf the tube caps will detach
 28. Repeat steps 25-27 for a final elution volume of 100µl
 29. Label 1.5mL tubes on ice afterwards, and aliquot 5µl into PCR strip tubes to save for Nanodrop and Tape Station to avoid freeze-thaw of your stock sample
 30. Store all tubes in the -80°C
