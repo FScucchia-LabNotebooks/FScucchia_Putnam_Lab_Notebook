@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Continuing extracting RNA and DNA from Pacu, Mcap, Pcomp - Hawai TPC - 113024
-date: '2024-11-30'
+title: Continuing extracting RNA and DNA from Pacu, Mcap, Pcomp - Hawai TPC - 120424
+date: '2024-12-04'
 category: Extraction
 tags: [RNA, DNA, Zymo]
 ---
@@ -19,14 +19,24 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 
 **Qubit Results**
 - I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
-- Standard 1:433.38
-- Standard 2: 9549.36
+
+- Standard 1: 435.27
+- Standard 2: 9432.82
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241130 || 20241130 || Pacu-H1 || *Pocillopora acuta*  || 18  ||  20.8    ||  20.2    || 20.5 |           
-| 20241130 || 20241130 || Mcap-H1  || *Montipora capitata* || 18  ||  41.6   || 41.4 || 41.5  |
-| 20241130 || 20241130 || Pcomp-G8 || *Porites compressa* || 25  ||   36.2   || 36.0 || 36.1  |
-| 20241130 || 20241130 || Mcap-E8  || *Montipora capitata* || 25  ||  25.6   || 25.2 ||  25.4 |
+| 20241203 || 20241204 || Pacu-B8 || *Pocillopora acuta*  || 25  ||  23.6    ||  23.4    || 23.5 |           
+| 20241203 || 20241204 || Mcap-B7  || *Montipora capitata* || 35  ||  24.4   || 23.0 || 24.2  |
+| 20241202 || 20241204 || Pcomp-G1 || *Porites compressa* || 18 ||   31.6   || 30.2 ||  30.9 |
+| 20241129 || 20241204 || Mcap-G6  || *Montipora capitata* || 12  ||  21.4   || 21.0 || 21.2  |
+
+- Standard 1: 469.49
+- Standard 2: 10098.72
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241204 || Pacu-E9 || *Pocillopora acuta*  || 30  ||  64.4    ||  63.6   || 64.0 |           
+| 20241202 || 20241204 || Mcap-G1  || *Montipora capitata* || 18  ||  54.4   || 53.4 || 53.9  |
+| 20241202 || 20241204 || Pcom-E1 || *Porites compressa* || 18  ||   18.8   || 18.6 || 18.7  |
+| 20241203 || 20241204 || Pcom-B7  || *Porites compressa* || 35  ||  22.8   || 22.4 ||  22.6 |
 
 
 **Gel**
