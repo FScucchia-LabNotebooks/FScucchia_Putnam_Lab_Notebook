@@ -18,7 +18,7 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 - I eluted RNA samples in 80ul and DNA samples in 80ul.
 
 **Qubit Results**
-- I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
+I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
 - Standard 1: 435.27
 - Standard 2: 9432.82
