@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuing extracting RNA and DNA from Pacu, Mcap, Pcomp - Hawai TPC - 120424
+title: Continuing extracting RNA and DNA from Pacu, Mcap, Pcomp - Hawai TPC - 120524
 date: '2024-12-05'
 category: Extraction
 tags: [RNA, DNA, Zymo]
