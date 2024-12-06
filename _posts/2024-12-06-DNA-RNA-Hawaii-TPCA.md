@@ -29,14 +29,14 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 | 20241202 || 20241206 || Mcap-F10 || *Montipora capitata* || 26.8 ||     ||     ||   |
 | 20241202 || 20241206 || Pcom-H10 || *Porites compressa* || 26.8  ||     ||   ||    |
 
-- Standard 1: 496.25
-- Standard 2: 10161.14
+- Standard 1: 443.80
+- Standard 2: 10988.70
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241129 || 20241205 || Pcom-B6 || *Porites compressa*  || 12  || 23.0    || 19.4    ||  21.2  |           
-| 20241203 || 20241205 || Mcap-B9  || *Montipora capitata* || 30 ||  19.0   || 18.4    || 18.7  |
-| 20241203 || 20241205 || Mcap-G7 || *Montipora capitata* || 35  ||   18.6  || 17.0    || 17.8  |
-| 20241202 || 20241205 || Pacu-G10  || *Pocillopora acuta* || 26.8 || 30.0  || 29.8    || 29.9  |
+| 20241202 || 20241206 || Pcom-G10 || *Porites compressa*  || 26.8  ||    ||     ||    |           
+| 20241202 || 20241206 || Pacu-B1  || *Pocillopora acuta* || 18     ||   ||     ||    |
+| 20241129 || 20241206 || Mcap-B6 || *Montipora capitata* || 12     ||    ||     ||   |
+| 20241202 || 20241206 || Mcap-B10  || *Montipora capitata* || 26.8 ||  ||     ||    |
 
 
 **Gel**
