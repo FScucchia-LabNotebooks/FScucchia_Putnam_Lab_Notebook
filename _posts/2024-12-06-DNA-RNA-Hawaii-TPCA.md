@@ -20,14 +20,14 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 **Qubit Results**
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
-- Standard 1: 432.51
-- Standard 2: 10683.02
+- Standard 1: 445.69
+- Standard 2: 10670.05
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241202 || 20241205 || Pacu-H8 || *Pocillopora acuta*  || 25  ||  27.4    ||  26.8    || 27.1 |           
-| 20241202 || 20241205 || Pacu-G1  || *Pocillopora acuta* || 18  ||  61.0   || 59.6 || 60.3  |
-| 20241203 || 20241205 || Mcap-H9 || *Montipora capitata* || 30 ||   28.4  || 26.8 ||  27.6 |
-| 20241129 || 20241205 || Pcom-H6 || *Porites compressa* || 12  ||  16.4   || 16.0 || 16.2  |
+| 20241203 || 20241206 || Pacu-H9 || *Pocillopora acuta*  || 30  ||      ||      ||   |           
+| 20241203 || 20241206 || Pacu-F7  || *Pocillopora acuta* || 35  ||      ||     ||    |
+| 20241202 || 20241206 || Mcap-F10 || *Montipora capitata* || 26.8 ||     ||     ||   |
+| 20241202 || 20241206 || Pcom-H10 || *Porites compressa* || 26.8  ||     ||   ||    |
 
 - Standard 1: 496.25
 - Standard 2: 10161.14
