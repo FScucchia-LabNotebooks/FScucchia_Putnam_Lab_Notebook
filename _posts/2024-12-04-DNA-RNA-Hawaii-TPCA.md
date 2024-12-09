@@ -9,7 +9,7 @@ tags: [RNA, DNA, Zymo]
 #### Extracting RNA and DNA from fragments of _Pocillopora acuta_, _Montipora capitata_, _Porites compressa_ for the Hawaii TPC project
 
 **Protocols used**
-- [Dual RNA/DNA exatraction](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-extraction-Zymo-kit/)
+- [Dual RNA/DNA extraction](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-extraction-Zymo-kit/)
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
 - [Gel protocol](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2021-10-08-20211008-RNA-DNA-extractions-from-E5-project.md)
 
