@@ -29,14 +29,14 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 | 20241203 || 20241209 || Mcap-E9 || *Montipora capitata* || 30 ||  22.8   || 22.4    || 22.6  |
 | 20241203 || 20241209 || Pcom-E8 || *Porites compressa* || 25  ||  49.0   || 47.2  ||  48.1  |
 
-- Standard 1: 
-- Standard 2: 
+- Standard 1: 464.66
+- Standard 2: 8636.78
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241202 || 20241206 || Pcom-G10 || *Porites compressa*  || 26.8  ||    ||      ||     |           
-| 20241202 || 20241206 || Pacu-B1  || *Pocillopora acuta* || 18     ||    ||      ||     |
-| 20241129 || 20241206 || Mcap-B6 || *Montipora capitata* || 12     ||    ||      ||    |
-| 20241202 || 20241206 || Mcap-B10  || *Montipora capitata* || 26.8 ||    ||      ||    |
+| 20241203 || 20241209 || Mcap-F8 || *Montipora capitata* || 25    ||  29.4  || 28.8     ||  29.1   |           
+| 20241203 || 20241209 || Pcom-G9  || *Porites compressa* || 30    ||  64.0  ||  61.8    ||  62.9   |
+| 20241202 || 20241209 || Pcom-F10 || *Porites compressa* || 26.8  ||  44.0  ||  44.0    || 44.0   |
+| 20241202 || 20241209 || Pacu-E8  || *Pocillopora acuta* || 25    ||  26.0  ||  25.6    || 25.8   |
 
 
 **Gel**
