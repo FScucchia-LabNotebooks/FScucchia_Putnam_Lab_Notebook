@@ -16,7 +16,7 @@ tags: [RNA, DNA, Zymo]
 
 I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and Pcomp using the [Zymo Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit) and the protocol linked above. The kit protocol is found [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf).
 - I eluted RNA and DNA samples in 80ul.
-- Note, the DNA samples came out in a much bigger volume (must have messed up something, need to re-extract the first 4 DNA samples here)
+- Note, the DNA samples came out in a much bigger volume (must have added more volume by mistake, the gel looks ok though)
 
 **Qubit Results**
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
