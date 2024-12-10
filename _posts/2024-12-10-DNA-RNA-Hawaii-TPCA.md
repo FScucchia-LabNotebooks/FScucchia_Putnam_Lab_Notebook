@@ -19,6 +19,7 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 - I'm re-extracting here sample Pacu-H6 that didn't work on the 9th of December.
 
 **Qubit Results**
+
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
 - Standard 1: 445.16
