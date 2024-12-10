@@ -40,7 +40,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 
 
 **Gel**
-- I used the protocol linked above with few modifications. I ran 11ul of RNA and 9ul of DNA. I added 4ul og gel green to the gel.
+- I used the protocol linked above with few modifications. I ran 11ul of RNA and 9ul of DNA. I added 4ul of gel green to the gel.
 
 ![Gel_DNA_RNA_06Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_06Dec2024.png?raw=true)
 
