@@ -39,7 +39,6 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 | 20241203 || 20241210 || Pacu-G7 || *Pocillopora acuta* || 35  ||  39.4  ||  38.6    || 39.0   |
 | 20241202 || 20241210 || Pcom-H1  || *Porites compressa* || 18    ||  17.4  ||  17.2    || 17.3   |
 
-- Note: will re-extract Pacu-H6
 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 11ul of RNA and 9ul of DNA. I added 4ul og gel green to the gel.
