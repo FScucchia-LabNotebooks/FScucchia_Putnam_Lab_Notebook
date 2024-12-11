@@ -25,19 +25,19 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 - Standard 2: 9738.43
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241202 || 20241211 || Pcom-B1 || *Porites compressa*  || 18  ||      ||       ||    |           
-| 20241202 || 20241211 || Mcap-H10 || *Montipora capitata* || 26.8 ||     ||    ||    |
-| 20241203 || 20241211 || Pacu-E7 || *Montipora capitata* || 35 ||      ||     ||    |
-| 20241129 || 20241211 || Pacu-F6 || *Pocillopora acuta* || 12  ||     ||    ||     |
+| 20241202 || 20241211 || Pcom-B1 || *Porites compressa*  || 18  ||  23.8    || 26.2      || 25.0   |           
+| 20241202 || 20241211 || Mcap-H10 || *Montipora capitata* || 26.8 || 24.4    || 23.0   || 23.7   |
+| 20241203 || 20241211 || Pacu-E7 || *Montipora capitata* || 35 ||  41.8    ||  41.0   ||  41.4  |
+| 20241129 || 20241211 || Pacu-F6 || *Pocillopora acuta* || 12  ||  45.8   || 43.8   || 44.8    |
 
 - Standard 1: 437.49
 - Standard 2: 10800.73
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241203 || 20241211 || Pcom-B9 || *Porites compressa* ||  30  ||     ||      ||      |           
-| 20241203 || 20241211 || Mcap-H8 || *Montipora capitata* || 25  ||    ||      ||     |
-| 20241203 || 20241211 || Pacu-B7 || *Pocillopora acuta* || 35  ||    ||       ||    |
-| 20241203 || 20241211 || Mcap-G8 || *Montipora capitata* || 25  ||   ||       ||     |
+| 20241203 || 20241211 || Pcom-B9 || *Porites compressa* ||  30  || 33.2    ||   33.0   ||  33.1    |           
+| 20241203 || 20241211 || Mcap-H8 || *Montipora capitata* || 25  ||  11.4  ||  10.8    || 11.1    |
+| 20241203 || 20241211 || Pacu-B7 || *Pocillopora acuta* || 35  || 47.0   ||  48.6     || 47.8   |
+| 20241203 || 20241211 || Mcap-G8 || *Montipora capitata* || 25  ||  13.4 ||  11.0     || 12.2    |
 
 
 **Gel**
