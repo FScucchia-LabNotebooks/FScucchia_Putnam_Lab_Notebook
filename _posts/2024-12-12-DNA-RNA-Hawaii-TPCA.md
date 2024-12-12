@@ -32,14 +32,14 @@ These 4 extracted on the 11th
 | 20241202 || 20241211 || Mcap-F1 || *Montipora capitata* || 18  ||  17.0   || 17.6   || 17.3    |
 
 These 4 extracted on the 12th
-- Standard 1: 
-- Standard 2: 
+- Standard 1: 459.58
+- Standard 2: 11825.83
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241203 || 20241212 || Pcom-B9 || *Porites compressa* ||  30  ||     ||      ||       |           
-| 20241203 || 20241212 || Mcap-H8 || *Montipora capitata* || 25  ||     ||       ||     |
-| 20241203 || 20241212 || Pacu-B7 || *Pocillopora acuta* || 35  ||     ||       ||     |
-| 20241203 || 20241212 || Mcap-G8 || *Montipora capitata* || 25  ||    ||       ||     |
+| 20241203 || 20241212 || Pcom-F7 || *Porites compressa* ||  35  ||  43.4   ||  43.4    ||   43.4    |           
+| 20241203 || 20241212 || Mcap-E7 || *Montipora capitata* || 35  ||  57.6   ||  56.8    ||  57.2   |
+| 20241203 || 20241212 || Mcap-F9 || *Montipora capitata* || 30  ||  17.4   ||   16.4   ||  16.9   |
+| 20241202 || 20241212 || Pacu-F11 || *Pocillopora acuta* || 26.8  || 19.0   ||  19.0   ||  19.0  |
 
 
 **Gel**
