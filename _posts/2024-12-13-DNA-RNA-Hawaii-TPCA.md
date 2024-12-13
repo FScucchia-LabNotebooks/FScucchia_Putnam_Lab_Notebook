@@ -34,16 +34,16 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 - Standard 2: 10471.26
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241203 || 20241213 || Pcom-F7 || *Porites compressa* ||  35  ||  43.4   ||  43.4    ||   43.4    |           
-| 20241202 || 20241213 || Mcap-E7 || *Montipora capitata* || 35  ||  57.6   ||  56.8    ||  57.2   |
-| 20241203 || 20241213 || Mcap-F9 || *Montipora capitata* || 30  ||  17.4   ||   16.4   ||  16.9   |
-| 20241129 || 20241213 || Pacu-F11 || *Pocillopora acuta* || 26.8  || 19.0   ||  19.0   ||  19.0  |
+| 20241203 || 20241213 || Mcap-H7 || *Montipora capitata* ||  35  ||  43.2   ||  42.6    ||  42.9    |           
+| 20241202 || 20241213 || Mcap-E1 || *Montipora capitata* || 18  ||  48.8   ||  48.6    ||  48.7   |
+| 20241203 || 20241213 || Pacu-G9 || *Pocillopora acuta* || 30  ||  14.0   ||   13.8  ||  13.9   |
+| 20241129 || 20241213 || Pcom-E6 || *Porites compressa* || 12  || 24.4  ||  24.2   ||  24.3  |
 
 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 11ul of RNA and 9ul of DNA. I added 4ul of gel green to the gel.
 
-![Gel_DNA_RNA_12Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_12Dec2024.png?raw=true)
+![Gel_DNA_RNA_13Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_13Dec2024.png?raw=true)
 
 
 
