@@ -21,25 +21,23 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
-These 4 extracted on the 11th
-- Standard 1: 442.30
-- Standard 2: 9977.41
+- Standard 1: 448.39
+- Standard 2: 10241.59
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241129 || 20241211 || Pcom-G6 || *Porites compressa*  || 12  ||  35.8    || 35.8      || 35.8   |           
-| 20241203 || 20241211 || Pcom-E9 || *Porites compressa* || 30 || 45.8    || 46.0   || 45.9   |
-| 20241203 || 20241211 || Pacu-F9 || *Pocillopora acuta* || 30 ||  34.8    ||  33.4   || 34.1   |
-| 20241202 || 20241211 || Mcap-F1 || *Montipora capitata* || 18  ||  17.0   || 17.6   || 17.3    |
+| 20241202 || 20241213 || Mcap-G11 || *Montipora capitata*  || 26.8  ||  13.8    || 14.2      || 14.0   |           
+| 20241203 || 20241213 || Pcom-F9 || *Porites compressa* || 30 || 47.0   || 46.6   || 46.8   |
+| 20241202 || 20241213 || Pacu-B10 || *Pocillopora acuta* || 26.8 ||  155.0    ||  152.0   || 153.5   |
+| 20241129 || 20241213 || Pacu-G6 || *Pocillopora acuta* || 12 ||  45.0   || 42.6  || 43.8    |
 
-These 4 extracted on the 12th
-- Standard 1: 459.58
-- Standard 2: 11825.83
+- Standard 1: 481.35
+- Standard 2: 10471.26
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241203 || 20241212 || Pcom-F7 || *Porites compressa* ||  35  ||  43.4   ||  43.4    ||   43.4    |           
-| 20241203 || 20241212 || Mcap-E7 || *Montipora capitata* || 35  ||  57.6   ||  56.8    ||  57.2   |
-| 20241203 || 20241212 || Mcap-F9 || *Montipora capitata* || 30  ||  17.4   ||   16.4   ||  16.9   |
-| 20241202 || 20241212 || Pacu-F11 || *Pocillopora acuta* || 26.8  || 19.0   ||  19.0   ||  19.0  |
+| 20241203 || 20241213 || Pcom-F7 || *Porites compressa* ||  35  ||  43.4   ||  43.4    ||   43.4    |           
+| 20241202 || 20241213 || Mcap-E7 || *Montipora capitata* || 35  ||  57.6   ||  56.8    ||  57.2   |
+| 20241203 || 20241213 || Mcap-F9 || *Montipora capitata* || 30  ||  17.4   ||   16.4   ||  16.9   |
+| 20241129 || 20241213 || Pacu-F11 || *Pocillopora acuta* || 26.8  || 19.0   ||  19.0   ||  19.0  |
 
 
 **Gel**
