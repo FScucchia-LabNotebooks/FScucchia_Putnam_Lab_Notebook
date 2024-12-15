@@ -13,7 +13,7 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 ## Outline of Content
 
 - [Extractions](#extractions)
-  - [Protocols used](#protocols-used)
+  - [Extraction and Quality Check Protocols](#extraction-and-quality-check-protocols)
   - [Extraction of 2024-12-16](#extraction-of-2024-12-16)
   - [Extraction of 2024-12-15](#2024-12-15)
   - [Extraction of 2024-12-13](#2024-12-13)
@@ -27,10 +27,13 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
   - [Extraction of 2024-11-30](#2024-11-30)
   - [Extraction of 2024-11-15](#2024-11-15)
 - [Library prep](#library-prep)
+  - [Library Prep and Quality Check Protocols](#library-prep-and-quality-check-protocols)
 
 ---
+## Extractions
 
-### Protocols used
+---
+### Extraction and Quality Check Protocols
 
 - [Dual RNA/DNA extraction](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-extraction-Zymo-kit/)
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
@@ -40,11 +43,11 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 
 ---
-
-## Extractions
+### Extraction of 2024-12-16
 
 ---
 
-### Extraction of 2024-12-16
+## Library prep
 
-
+---
+### Library Prep and Quality Check Protocols
