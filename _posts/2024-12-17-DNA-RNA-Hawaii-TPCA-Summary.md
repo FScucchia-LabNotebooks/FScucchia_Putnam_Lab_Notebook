@@ -160,16 +160,208 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 
 ![Gel_DNA_RNA_11Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_11Dec2024.png?raw=true)
 
+---
+
+### Extraction of 2024-12-10
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA7/
+)
+
+**Qubit Results**
+
+- Standard 1: 445.16
+- Standard 2: 9603.57
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241129 || 20241210 || Pacu-H6 || *Pocillopora acuta*  || 12  || 36.6     ||  36.4    || 36.5  |           
+| 20241203 || 20241210 || Pcom-H9  || *Porites compressa* || 30  ||  47.6    ||  46.6   ||  47.1  |
+| 20241203 || 20241210 || Mcap-G9 || *Montipora capitata* || 30 ||  16.8   || 16.4    || 16.6  |
+| 20241129 || 20241210 || Mcap-H6 || *Montipora capitata* || 12  ||  22.0   || 21.6  ||  21.8  |
+
+- Standard 1: 451.33
+- Standard 2: 10324.23
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241202 || 20241210 || Mcap-E10 || *Montipora capitata* ||  26.8   || 21.2   || 20.6     ||  20.9   |           
+| 20241129 || 20241210 || Pcom-F6  || *Porites compressa* || 12    ||  56.4  ||  55.6    ||  56.0   |
+| 20241203 || 20241210 || Pacu-G7 || *Pocillopora acuta* || 35  ||  39.4  ||  38.6    || 39.0   |
+| 20241202 || 20241210 || Pcom-H1  || *Porites compressa* || 18    ||  17.4  ||  17.2    || 17.3   |
+
+**Gel**
+
+![Gel_DNA_RNA_10Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_10Dec2024.png?raw=true)
 
 ---
 
+### Extraction of 2024-12-09
 
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA6/
+)
 
+**Qubit Results**
+
+- Standard 1: 432.49
+- Standard 2: 8043.39
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241129 || 20241209 || Pacu-H6 || *Pocillopora acuta*  || 12  || LOW     ||  LOW    ||   |           
+| 20241202 || 20241209 || Mcap-B1  || *Montipora capitata* || 18  ||  18.8    ||  18.4   ||  18.6  |
+| 20241203 || 20241209 || Mcap-E9 || *Montipora capitata* || 30 ||  22.8   || 22.4    || 22.6  |
+| 20241203 || 20241209 || Pcom-E8 || *Porites compressa* || 25  ||  49.0   || 47.2  ||  48.1  |
+
+- Standard 1: 464.66
+- Standard 2: 8636.78
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241209 || Mcap-F8 || *Montipora capitata* || 25    ||  29.4  || 28.8     ||  29.1   |           
+| 20241203 || 20241209 || Pcom-G9  || *Porites compressa* || 30    ||  64.0  ||  61.8    ||  62.9   |
+| 20241202 || 20241209 || Pcom-F10 || *Porites compressa* || 26.8  ||  44.0  ||  44.0    || 44.0   |
+| 20241202 || 20241209 || Pacu-E8  || *Pocillopora acuta* || 25    ||  26.0  ||  25.6    || 25.8   |
+
+- Note: Pacu-H6 re-extracted the day after
+
+**Gel**
+
+![Gel_DNA_RNA_09Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_09Dec2024.png?raw=true)
+
+---
+
+### Extraction of 2024-12-06
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA5/
+)
+
+**Qubit Results**
+
+- Standard 1: 445.69
+- Standard 2: 10670.05
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241206 || Pacu-H9 || *Pocillopora acuta*  || 30  || 50.0     ||  49.0    || 49.5  |           
+| 20241203 || 20241206 || Pacu-F7  || *Pocillopora acuta* || 35  ||  34.8    ||  34.0   ||  34.4  |
+| 20241202 || 20241206 || Mcap-F10 || *Montipora capitata* || 26.8 ||  14.2   || 13.4    || 13.8  |
+| 20241202 || 20241206 || Pcom-H10 || *Porites compressa* || 26.8  ||  54.8   || 53.8  ||  108.6  |
+
+- Standard 1: 443.80
+- Standard 2: 10988.70
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241202 || 20241206 || Pcom-G10 || *Porites compressa*  || 26.8  ||  53.2  ||   50.4  ||  51.8  |           
+| 20241202 || 20241206 || Pacu-B1  || *Pocillopora acuta* || 18     ||  38.4 ||  36.2   ||  37.3  |
+| 20241129 || 20241206 || Mcap-B6 || *Montipora capitata* || 12     ||  13.2  ||  12.6   || 12.9  |
+| 20241202 || 20241206 || Mcap-B10  || *Montipora capitata* || 26.8 || 14.2 ||  10.0   ||  12.1  |
+
+**Gel**
+
+![Gel_DNA_RNA_06Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_06Dec2024.png?raw=true)
+
+---
+
+### Extraction of 2024-12-05
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA4/)
+
+**Qubit Results**
+
+- Standard 1: 432.51
+- Standard 2: 10683.02
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241202 || 20241205 || Pacu-H8 || *Pocillopora acuta*  || 25  ||  27.4    ||  26.8    || 27.1 |           
+| 20241202 || 20241205 || Pacu-G1  || *Pocillopora acuta* || 18  ||  61.0   || 59.6 || 60.3  |
+| 20241203 || 20241205 || Mcap-H9 || *Montipora capitata* || 30 ||   28.4  || 26.8 ||  27.6 |
+| 20241129 || 20241205 || Pcom-H6 || *Porites compressa* || 12  ||  16.4   || 16.0 || 16.2  |
+
+- Standard 1: 496.25
+- Standard 2: 10161.14
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241129 || 20241205 || Pcom-B6 || *Porites compressa*  || 12  || 23.0    || 19.4    ||  21.2  |           
+| 20241203 || 20241205 || Mcap-B9  || *Montipora capitata* || 30 ||  19.0   || 18.4    || 18.7  |
+| 20241203 || 20241205 || Mcap-G7 || *Montipora capitata* || 35  ||   18.6  || 17.0    || 17.8  |
+| 20241202 || 20241205 || Pacu-G10  || *Pocillopora acuta* || 26.8 || 30.0  || 29.8    || 29.9  |
+
+**Gel**
+
+![Gel_DNA_RNA_05Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_05Dec2024.png?raw=true)
+
+---
+
+### Extraction of 2024-12-04
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA3/)
+
+**Qubit Results**
+
+- Standard 1: 435.27
+- Standard 2: 9432.82
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241204 || Pacu-B8 || *Pocillopora acuta*  || 25  ||  23.6    ||  23.4    || 23.5 |           
+| 20241203 || 20241204 || Mcap-B7  || *Montipora capitata* || 35  ||  24.4   || 23.0 || 24.2  |
+| 20241202 || 20241204 || Pcomp-G1 || *Porites compressa* || 18 ||   31.6   || 30.2 ||  30.9 |
+| 20241129 || 20241204 || Mcap-G6  || *Montipora capitata* || 12  ||  21.4   || 21.0 || 21.2  |
+
+- Standard 1: 469.49
+- Standard 2: 10098.72
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241204 || Pacu-E9 || *Pocillopora acuta*  || 30  ||  64.4    ||  63.6   || 64.0 |           
+| 20241202 || 20241204 || Mcap-G1  || *Montipora capitata* || 18  ||  54.4   || 53.4 || 53.9  |
+| 20241202 || 20241204 || Pcom-E1 || *Porites compressa* || 18  ||   18.8   || 18.6 || 18.7  |
+| 20241203 || 20241204 || Pcom-B7  || *Porites compressa* || 35  ||  22.8   || 22.4 ||  22.6 |
+
+**Gel**
+
+![Gel_DNA_RNA_04Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_04Dec2024.png?raw=true)
+
+---
+
+### Extraction of 2024-11-30
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA2/)
+
+**Qubit Results**
+
+- Standard 1:433.38
+- Standard 2: 9549.36
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241130 || 20241130 || Pacu-H1 || *Pocillopora acuta*  || 18  ||  20.8    ||  20.2    || 20.5 |           
+| 20241130 || 20241130 || Mcap-H1  || *Montipora capitata* || 18  ||  41.6   || 41.4 || 41.5  |
+| 20241130 || 20241130 || Pcomp-G8 || *Porites compressa* || 25  ||   36.2   || 36.0 || 36.1  |
+| 20241130 || 20241130 || Mcap-E8  || *Montipora capitata* || 25  ||  25.6   || 25.2 ||  25.4 |
+
+**Gel**
+
+![Gel_DNA_RNA_30Nov2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_30Nov2024.png?raw=true)
+
+---
+
+### Extraction of 2024-11-15
+
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA1/)
+
+**Qubit Results**
+
+| Extraction date || colony_id ||      Species            || Temp.Cat || RNA_QBIT_AVG |
+|   20241116 || Mcap-B8   || *Montipora capitata*         || 25       ||  13.8         |
+|   20241114 || Pacu-H10  || *Pocillopora acuta*         || 26.8       || 19.5         |
+|   20241116 || Mcap-D10   || *Montipora capitata*         || 26.8       ||  17.6         |
+|   20241116 || Pacu-F8  || *Pocillopora acuta*         || 25       || 17.9         |
+|   20241116 || Pcomp-F8   || *Porites compressa*         || 25       || 14.4          |
+|   20241119 || Pcomp-E10  || *Porites compressa*         || 26.8      || 27.2         |
+
+**Gel**
+![Gel_DNA_RNA_21Nov2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_21Nov2024.png?raw=true)
+
+---
 
 ## Library prep
 
----
 ### Library Prep and Quality Check Protocols
 
 - [Zymo-Seq SwitchFree 3′ mRNA Library protocol](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md)
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
+
+---
