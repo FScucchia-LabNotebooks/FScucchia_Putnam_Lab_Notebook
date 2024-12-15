@@ -14,7 +14,17 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 
 - [Extractions](#extractions)
   - [Protocols used](#protocols-used)
+  - [Extraction of 2024-12-16](#2024-12-16)
   - [Extraction of 2024-12-15](#2024-12-15)
+  - [Extraction of 2024-12-13](#2024-12-13)
+  - [Extraction of 2024-12-12](#2024-12-12)
+  - [Extraction of 2024-12-11](#2024-12-11)
+  - [Extraction of 2024-12-10](#2024-12-10)
+  - [Extraction of 2024-12-09](#2024-12-09)
+  - [Extraction of 2024-12-06](#2024-12-06)
+  - [Extraction of 2024-12-05](#2024-12-05)
+  - [Extraction of 2024-12-04](#2024-12-04)
+  - [Extraction of 2024-11-30](#2024-11-30)
 - [Library prep](#library-prep)
 
 ---
@@ -27,5 +37,13 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 - [TapeStation protocol RNA](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-07-RNA-TapeStation-Protocol.md)
 - [Zymo-Seq SwitchFree 3′ mRNA Library protocol](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md)
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
+
+---
+
+## Extractions
+
+---
+
+### Extraction of 2024-12-16
 
 
