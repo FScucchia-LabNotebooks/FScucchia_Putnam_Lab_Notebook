@@ -354,6 +354,8 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 |   20241119 || Pcomp-E10  || *Porites compressa*         || 26.8      || 27.2         |
 
 **Gel**
+- Note: these samples where checked on TapeStation as well for RNA quality
+
 ![Gel_DNA_RNA_21Nov2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_21Nov2024.png?raw=true)
 
 ---
