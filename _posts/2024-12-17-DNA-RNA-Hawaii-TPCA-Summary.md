@@ -28,6 +28,7 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
   - [Extraction of 2024-11-15](#2024-11-15)
 - [Library prep](#library-prep)
   - [Library Prep and Quality Check Protocols](#library-prep-and-quality-check-protocols)
+  - [Library prep of 2024-11-21](#library-prep-of-2024-11-21)
 
 ---
 ## Extractions
@@ -365,3 +366,35 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 
 ---
+
+### Library prep of 2024-11-21
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep-ZymoSwitch-Hawaii-TPCA/)
+
+**Input RNA volumes for each sample**
+
+| colony_id | RNA_QBIT_AVG (ng/uL) | RNA (uL) | Ultrapure water (uL) | Total starting volume (ul) |
+| Pacu-H10 | 13.8           | 0.67      | 4.33                  | 5.0                        |	
+| Pcomp-E10 | 27.2          | 0.48      | 4.52                 | 5.0                        |	
+| Mdec-D1 | 27.3           | 0.48     | 4.52                  | 5.0                        |
+| Mcav-F1 | 34.4           | 0.38      | 4.62                  | 5.0                        |
+| Mcav-A6 | 15.1           | 0.86      | 4.14                  | 5.0                        |
+| Dlab-B6 | 15.4            | 0.84     | 4.16                  | 5.0                        |
+| Mcap-D10 | 17.6            | 0.74      | 4.26                  | 5.0                        |
+
+**TapeStation**
+
+| Library prep date  | colony_id  |     Species            | Temp   |    TapeStation conc.     |   Primer set  |
+| 20241120  |  Pacu-H10    | *Pocillopora acuta*          | 26.8       |    22.1          |  1  |
+| 20241120  |  Pcomp-E10   | *Porites compressa*          | 26.8     |  6.52          |  2  |
+| 20241121  |  Mdec-D1    | *Madracis decactis*          | 29      |    8.01        |  3   |
+| 20241121  |  Mcav-F1   | *Montastraea cavernosa*          | 29     |   Below 1         |  4  |
+| 20241122  |  Mcav-A6   | *Montastraea cavernosa*          | 26     |   Below 1         |  5  |
+| 20241122  |  Dlab-B6   | *Diploria labyrinthiformis*          | 26     |   1.97         |  6  |
+| 20241122  |  Mcap-D10   | *Montipora capitata*          | 26.8     |    8.28        |  7  |
+
+![LibraryPrepZymo1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo1.png?raw=true)
+
+![LibraryPrepZymo2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo2.png?raw=true)
+
+![LibraryPrepZymo3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo3.png?raw=true)
