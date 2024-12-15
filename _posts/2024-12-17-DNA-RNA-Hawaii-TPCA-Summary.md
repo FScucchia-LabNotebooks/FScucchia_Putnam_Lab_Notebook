@@ -2,7 +2,7 @@
 layout: post
 title: Project Summary - RNA and DNA Extractions from Pacu, Mcap, Pcomp - Hawai TPC Project
 date: '2024-12-17'
-category: Extraction
+category: Summary
 tags: [RNA, DNA, Zymo]
 ---
 
