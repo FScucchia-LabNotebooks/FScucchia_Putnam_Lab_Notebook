@@ -44,6 +44,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 
 ![Gel_DNA_RNA_04Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_04Dec2024.png?raw=true)
 
+Note: Looks like for McapG6 the DNAse tretment didn't work well, I'm re-extracting this sample on the 16th
 
 
 
