@@ -45,6 +45,31 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 
 - Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA12/)
 
+**Qubit Results**
+
+- Standard 1: 485.09
+- Standard 2: 10423.38
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241203 || 20241216 || Pcom-H7 || *Porites compressa*  || 35  ||  31.8    || 30.4      || 31.1 |           
+| 20241203 || 20241216 || Mcap-F7 || *Montipora capitata* || 35 || 21.6  || 20.8   || 21.2   |
+| 20241202 || 20241216 || Pacu-F10 || *Pocillopora acuta* || 26.8 ||  14.4    ||  14.4   || 14.4   |
+| 20241129 || 20241216 || Pacu-B6 || *Pocillopora acuta* || 12 ||  23.2  || 22.2  ||  22.7    |
+
+- Standard 1: 459.78
+- Standard 2: 10345.31
+
+|Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
+| 20241129 || 20241216 || Mcap-G6 || *Montipora capitata* ||  12  ||  26.8   ||  25.4    ||  26.1    |           
+| 20241203 || 20241216 || Pcom-B8 || *Porites compressa* || 25  ||  43.6   ||  40.4    ||  42.0   |
+| 20241203 || 20241216 || Pcom-H8 || *Porites compressa* || 25  ||  53.2   ||   54.4 ||  53.8   |
+| 20241203 || 20241216 || Pacu-B9 || *Pocillopora acuta* || 30  || 40.2  ||  37.0   ||  38.6  |
+
+
+**Gel**
+
+![Gel_DNA_RNA_16Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_16Dec2024.png?raw=true)
+
 ---
 ### Extraction of 2024-12-15
 
