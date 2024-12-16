@@ -21,17 +21,17 @@ I'm continuing extracting RNA and DNA from frozen fragments of Pacuta, Mcap and 
 
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
-- Standard 1: 440.45
-- Standard 2: 9772.55
+- Standard 1: 485.09
+- Standard 2: 10423.38
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20241129 || 20241215 || Mcap-E6 || *Montipora capitata*  || 12  ||  28.6    || 27.8      || 28.2 |           
-| 20241202 || 20241215 || Pcom-B10 || *Porites compressa* || 26.8 || 80.6  || 80.2   || 80.4   |
-| 20241129 || 20241215 || Pacu-E6 || *Pocillopora acuta* || 12 ||  99.2    ||  98.2   || 98.7   |
-| 20241203 || 20241215 || Pacu-G8 || *Pocillopora acuta* || 25 ||  58.6  || 57.8  ||  58.2    |
+| 20241203 || 20241216 || Pcom-H7 || *Porites compressa*  || 35  ||  31.8    || 30.4      || 31.1 |           
+| 20241203 || 20241216 || Mcap-F7 || *Montipora capitata* || 35 || 21.6  || 20.8   || 21.2   |
+| 20241202 || 20241216 || Pacu-F10 || *Pocillopora acuta* || 26.8 ||  14.4    ||  14.4   || 14.4   |
+| 20241129 || 20241216 || Pacu-B6 || *Pocillopora acuta* || 12 ||  23.2  || 22.2  ||  22.7    |
 
-- Standard 1: 469.58
-- Standard 2: 11090.29
+- Standard 1: 
+- Standard 2: 
 
 |Clipping date||Extraction date || colony_id || Species || Temp.Cat || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
 | 20241129 || 20241215 || Pcom-G7 || *Porites compressa* ||  35  ||  80.6   ||  80.0    ||  80.3    |           
@@ -43,7 +43,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 11ul of RNA and 9ul of DNA. I added 4ul of gel green to the gel.
 
-![Gel_DNA_RNA_15Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_15Dec2024.png?raw=true)
+![Gel_DNA_RNA_16Dec2024.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Gel_DNA_RNA_16Dec2024.png?raw=true)
 
 
 
