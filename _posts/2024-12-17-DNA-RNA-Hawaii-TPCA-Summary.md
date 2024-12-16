@@ -43,6 +43,8 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 ---
 ### Extraction of 2024-12-16
 
+- Link to extraction [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA12/)
+
 ---
 ### Extraction of 2024-12-15
 
