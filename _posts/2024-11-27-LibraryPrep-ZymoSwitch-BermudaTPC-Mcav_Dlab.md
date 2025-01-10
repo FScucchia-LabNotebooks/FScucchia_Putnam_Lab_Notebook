@@ -24,7 +24,7 @@ I ran the library prep protocol linked above. I used 19 PCR cycles.
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-| Pacu-H10      ||   20.5           ||    2.71     ||        2.29             ||        55.5          |
+| Pacu-H10      ||   19.5           ||    2.85     ||        2.15             ||        55.5          |
 | Mcap-H1      ||    41.5           ||    1.34     ||        3.66             ||        55.5          |
 | Pcomp-G8      ||   36.1           ||    1.54     ||        3.46             ||        55.5          |
 | Mcap-E8      ||    25.4           ||    2.19     ||        2.81             ||        55.5          |
@@ -33,18 +33,36 @@ Here's a breakdown of input RNA volume and quantity:
 | Pcomp-G1     ||   30.9           ||    1.80     ||        3.20             ||        55.5          |
 | Pacu-E9      ||   64.0           ||    0.87     ||        4.13             ||        55.5          |
 
+
+## Qubit Results
+I used Broad range dsDNA Qubit Protocol inked above. DNA samples were read twice, standard only read once.
+
+- Standard 1: 
+- Standard 2: 
+
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8   ||      ||               ||
+|  20250110  || Mcap-H1    || *Montipora capitata* || 18     ||     ||               ||
+|  20250110    || Pcomp-G8   || *Porites compressa*  ||  25   ||    ||               ||
+|  20250110    || Mcap-E8    || *Montipora capitata* ||  25   ||    ||               ||
+|  20250110    || Pacu-B8    || *Pocillopora acuta*  ||  25   ||    ||               ||
+|  20250110    || Mcap-B7    || *Montipora capitata* ||  35   ||     ||              ||
+|  20250110    || Pcomp-G1   || *Porites compressa*  ||  18   ||    ||              ||
+|  20250110    || Pacu-E9    || *Pocillopora acuta*  ||  30   ||    ||              ||
+
+
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | Library prep date  || sample_id  ||     Species       || Temp   ||    TapeStation conc.     ||   Primer set  |
-|                    || Pacu-H10   || *Pocillopora acuta* || 18       ||                          ||    3           |
-|                    || Mcap-H1    || *Montipora capitata* || 18       ||                          ||   4            |
-|                    || Pcomp-G8   || *Porites compressa*  ||  25      ||                          ||   5            |
-|                    || Mcap-E8    || *Montipora capitata* ||  25      ||                          ||   6            |
-|                    || Pacu-B8    || *Pocillopora acuta*  ||  25      ||                          ||   8            |
-|                    || Mcap-B7    || *Montipora capitata* ||  35      ||                          ||   9            |
-|                    || Pcomp-G1   || *Porites compressa*  ||  18      ||                          ||   10            |
-|                    || Pacu-E9    || *Pocillopora acuta*  ||  30      ||                          ||   11            |
+|  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8      ||                         ||    3           |
+|  20250110  || Mcap-H1    || *Montipora capitata* || 18       ||                          ||   4            |
+|  20250110    || Pcomp-G8   || *Porites compressa*  ||  25      ||                         ||   5            |
+|  20250110    || Mcap-E8    || *Montipora capitata* ||  25      ||                         ||   6            |
+|  20250110    || Pacu-B8    || *Pocillopora acuta*  ||  25      ||                         ||   8            |
+|  20250110    || Mcap-B7    || *Montipora capitata* ||  35      ||                         ||   9            |
+|  20250110    || Pcomp-G1   || *Porites compressa*  ||  18      ||                        ||   10            |
+|  20250110    || Pacu-E9    || *Pocillopora acuta*  ||  30      ||                        ||   11            |
 
 ![LibraryPrepZymo.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo.png?raw=true)
 

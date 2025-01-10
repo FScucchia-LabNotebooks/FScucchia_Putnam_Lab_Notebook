@@ -29,6 +29,7 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 - [Library prep](#library-prep)
   - [Library Prep and Quality Check Protocols](#library-prep-and-quality-check-protocols)
   - [Library prep of 2024-11-21](#library-prep-of-2024-11-21)
+  - [Library prep of 2025-01-10](#library-prep-of-2025-01-10)
 
 ---
 ## Extractions
@@ -427,3 +428,8 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 ![LibraryPrepZymo2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo2.png?raw=true)
 
 ![LibraryPrepZymo3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibraryPrepZymo3.png?raw=true)
+
+
+### Library prep of 2025-01-10
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep-ZymoSwitch-Hawaii-TPCA/)
