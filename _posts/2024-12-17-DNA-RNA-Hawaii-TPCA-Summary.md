@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Summary - RNA-DNA Extractions and Library Prep - Pacu, Mcap, Pcomp and Library Prep - Hawai TPC Project
+title: Project Summary - RNA-DNA Extractions and Library Prep - Pacu, Mcap, Pcomp - Hawai TPC Project
 date: '2024-12-16'
 category: Summary
 tags: [RNA, DNA, Zymo]
