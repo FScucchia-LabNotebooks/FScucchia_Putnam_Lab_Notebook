@@ -494,4 +494,29 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 
 **Qubit**
 
+- Standard 1: 70.26
+- Standard 2: 26525.05
+
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250111  || Pacu-E9   || *Pocillopora acuta*  || 30   ||   1.79    ||   1.75         ||    1.77        |
+|  20250111 || Pacu-H1    || *Pocillopora acuta* || 18     ||   1.77  ||    1.79       ||  1.78    |
+|  20250111    || Mcap-G1   || *Montipora capitata*  ||  18   || 0.708   ||  0.688     || 0.698 |
+|  20250111    || Pcom-E1   || *Porites compressa* ||  18   ||  5.00  ||    4.9       ||  4.95 |
+|  20250111   || Pcom-B7     || *Porites compressa*  ||  35   ||  4.48  ||  4.34       || 4.41  |
+|  20250111   || Pacu-H8    || *Pocillopora acuta* ||  25   ||  3.31    ||  3.17        || 3.24 |
+|  20250111   || Pacu-G1   || *Pocillopora acuta*  ||  18   ||   1.11  ||   1.07      || 1.09  |
+|  20250111   || Pcom-E10    || *Porites compressa*  ||  26.8   ||  3.33  ||    3.29       || 3.31  |
+
 **TapeStation**
+
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+|  20250111  || Pacu-E9   || *Pocillopora acuta*  || 30   ||   3.71    ||     11       |
+|  20250111 || Pacu-H1    || *Pocillopora acuta* || 18     ||   2.84  ||       12    |
+|  20250111    || Mcap-G1   || *Montipora capitata*  ||  18   || 1.02   ||     13      |
+|  20250111    || Pcom-E1   || *Porites compressa* ||  18   ||  5.80  ||       14    |
+|  20250111   || Pcom-B7     || *Porites compressa*  ||  35   ||  4.77  ||      15      |
+|  20250111   || Pacu-H8    || *Pocillopora acuta* ||  25   ||  4.38    ||      16    |
+|  20250111   || Pacu-G1   || *Pocillopora acuta*  ||  18   ||  1.41   ||      17   |
+|  20250111   || Pcom-E10    || *Porites compressa*  ||  26.8   ||  5.19  ||   18        |
+
+![LibraryPrepZymoRun2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun2.png?raw=true)
