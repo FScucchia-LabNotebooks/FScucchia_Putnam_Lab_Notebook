@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Library prep using Zymo SwitchFree kit - Hawaii TPC samples - 011025
-date: '2025-01-10'
+title: Library prep using Zymo SwitchFree kit - Hawaii TPC samples - 011125
+date: '2025-01-11'
 category: Protocol
 tags: [DNA, Zymo, RNA, library]
 ---
 
-#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of the Hawaii TPC samples - 011025
+#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of the Hawaii TPC samples - 011125
 
 **Protocols used**
 - [Zymo-Seq SwitchFree 3′ mRNA Library Kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r3008_r3009__zymo_seq_switchfree_3_mrna_library_kit.pdf)
@@ -21,41 +21,42 @@ The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RN
 All samples were eluted in 20uL of elution buffer.
 
 ## Library prep
-I ran the library prep protocol linked above. I used 19 PCR cycles.
+I ran the library prep protocol linked above. I used 20 PCR cycles.
 
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-| Pacu-H10      ||   19.5           ||    2.85     ||        2.15             ||        55.5          |
-| Mcap-H1      ||    41.5           ||    1.34     ||        3.66             ||        55.5          |
-| Pcomp-G8      ||   36.1           ||    1.54     ||        3.46             ||        55.5          |
-| Mcap-E8      ||    25.4           ||    2.19     ||        2.81             ||        55.5          |
-| Pacu-B8      ||    23.5           ||    2.36     ||        2.64             ||        55.5          |
-| Mcap-B7      ||    24.2           ||    2.29     ||        2.71             ||        55.5          |
-| Pcomp-G1     ||   30.9           ||    1.80     ||        3.20             ||        55.5          |
-| Pacu-E9      ||   64.0           ||    0.87     ||        4.13             ||        55.5          |
+| Pacu-E9      ||   64.0           ||    0.87     ||        4.13           ||        55.5          |
+| Pacu-H1      ||    20.5           ||   2.71     ||        2.29             ||        55.5          |
+| Mcap-G1     ||   53.9           ||    1.03     ||        3.97             ||        55.5          |
+| Pcom-E1      ||    18.7           ||    2.97     ||        2.03             ||        55.5          |
+| Pcom-B7      ||    22.6           ||    2.46     ||        2.54             ||        55.5          |
+| Pacu-H8      ||    27.1           ||    2.05     ||        2.95             ||        55.5          |
+| Pacu-G1     ||   60.3           ||    0.92     ||        4.08             ||        55.5          |
+| Pcom-E10      ||   27.2           ||    2.04    ||        2.96             ||        55.5          |
 
+I'm re-doing sample Pacu-E9 from the day before. This time I'm using UDI primer 11 from the 12prep kit (CAT. D3008, LOT. 250968).
 
 ## Qubit Results
 I used Broad range dsDNA Qubit Protocol inked above. DNA samples were read twice, standard only read once.
-- Standard 1: 181.49
-- Standard 2: 30941.59
+- Standard 1: 
+- Standard 2: 
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8   ||  8    ||    8.38        ||    8.19        |
-|  20250110  || Mcap-H1    || *Montipora capitata* || 18     ||  LOW   ||  LOW          ||    LOW |
-|  20250110    || Pcomp-G8   || *Porites compressa*  ||  25   ||  6.14  ||   5.76        || 5.95 |
-|  20250110    || Mcap-E8    || *Montipora capitata* ||  25   || LOW   ||   LOW         ||  LOW |
-|  20250110    || Pacu-B8    || *Pocillopora acuta*  ||  25   ||  2.86  ||   2.94         || 2.9 |
-|  20250110    || Mcap-B7    || *Montipora capitata* ||  35   ||  2.50   ||  2.86        || 2.68 |
-|  20250110    || Pcomp-G1   || *Porites compressa*  ||  18   ||  3.6  ||    3.64       || 3.62 |
-|  20250110    || Pacu-E9    || *Pocillopora acuta*  ||  30   || LOW   ||    LOW        ||  LOW |
+|  20250111  || Pacu-E9   || *Pocillopora acuta*  || 30   ||       ||            ||            |
+|  20250111 || Pacu-H1    || *Pocillopora acuta* || 18     ||     ||           ||      |
+|  20250111    || Mcap-G1   || *Montipora capitata*  ||  18   ||    ||           ||  |
+|  20250111    || Pcom-E1   || *Porites compressa* ||  18   ||    ||           ||   |
+|  20250111   || Pcom-B7     || *Porites compressa*  ||  35   ||    ||            ||   |
+|  20250111   || Pacu-H8    || *Pocillopora acuta* ||  25   ||      ||          ||  |
+|  20250111   || Pacu-G1   || *Pocillopora acuta*  ||  18   ||     ||         ||   |
+|  20250111   || Pcom-E10    || *Porites compressa*  ||  26.8   ||    ||           ||   |
 
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
-| Library prep date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
 |  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8      ||    7.12       ||    3           |
 |  20250110  || Mcap-H1    || *Montipora capitata* || 18       ||     1.85            ||   4            |
 |  20250110    || Pcomp-G8   || *Porites compressa*  ||  25      ||   5.38         ||   5            |
@@ -68,5 +69,5 @@ After the library prep, I run samples on the tapestation (D5000), protocol linke
 ![LibPrepRun1_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun1_complete.png?raw=true)
 
 
- - _Things to consider for next time_: I got pretty low concentrations, next time I will use 20 PCR cycles instead of 19. I will also use the high sensitivity assay for the QBIT, since the broad range doesn't always give the concentration. Samples Pacu-E9 is the one that look the worst (both from the TapeStation and the qbit) so I will re-do this sample on the 01/11.
+ - _Things to consider for next time_: I got pretty low concentrations, next time I will use 20 PCR cycles instead of 19. I will also use the high sensitivity assay for the QBIT, since the broad range doesn't always give the concentration. Samples Pacu-E9 is the one that look the worst (both from the TapeStation and the qbit) so I will re-do it
 
