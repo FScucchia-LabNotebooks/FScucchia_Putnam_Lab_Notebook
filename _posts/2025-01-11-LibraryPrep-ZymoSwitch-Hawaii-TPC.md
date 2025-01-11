@@ -18,6 +18,7 @@ Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.c
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using the max volume of RNA input (5 ul) for the sample with the lowest RNA concentration among all, which is 11.1 ng/uL, which corresponds to a total of _55.5 ng_. I will use this 55.5 as inpout for all other samples. 
 
+I've used the primers in the 96 well plate (CAT. D3096, LOT. 250838) provided with the kit. For sample Pacu-E9, I've used UDI primer 11 from the 12 prep kit (CAT. D3008, LOT. 250968), as I've used the day before primer 11 from the 96 plate.
 All samples were eluted in 20uL of elution buffer.
 
 ## Library prep
