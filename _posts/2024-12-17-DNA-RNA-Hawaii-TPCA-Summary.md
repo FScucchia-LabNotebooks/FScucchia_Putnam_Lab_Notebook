@@ -30,6 +30,7 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
   - [Library Prep and Quality Check Protocols](#library-prep-and-quality-check-protocols)
   - [Library prep of 2024-11-21](#library-prep-of-2024-11-21)
   - [Library prep of 2025-01-10](#library-prep-of-2025-01-10)
+  - [Library prep of 2025-01-11](#library-prep-of-2025-01-11)
 
 ---
 ## Extractions
@@ -463,7 +464,7 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 
 **TapeStation**
 
-| Library prep date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
 |  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8      ||    7.12       ||    3           |
 |  20250110  || Mcap-H1    || *Montipora capitata* || 18       ||     1.85            ||   4            |
 |  20250110    || Pcomp-G8   || *Porites compressa*  ||  25      ||   5.38         ||   5            |
@@ -474,3 +475,23 @@ This is the project summary for RNA and DNA extractions for TagSeq sequencing fo
 |  20250110    || Pacu-E9    || *Pocillopora acuta*  ||  30      ||    1.98      ||   11            |
 
 ![LibraryPrepZymoRun1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun1.png?raw=true)
+
+### Library prep of 2025-01-11
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Pacu-E9      ||   64.0           ||    0.87     ||        4.13           ||        55.5          |
+| Pacu-H1      ||    20.5           ||   2.71     ||        2.29             ||        55.5          |
+| Mcap-G1     ||   53.9           ||    1.03     ||        3.97             ||        55.5          |
+| Pcom-E1      ||    18.7           ||    2.97     ||        2.03             ||        55.5          |
+| Pcom-B7      ||    22.6           ||    2.46     ||        2.54             ||        55.5          |
+| Pacu-H8      ||    27.1           ||    2.05     ||        2.95             ||        55.5          |
+| Pacu-G1     ||   60.3           ||    0.92     ||        4.08             ||        55.5          |
+| Pcom-E10      ||   27.2           ||    2.04    ||        2.96             ||        55.5          |
+
+**Qubit**
+
+**TapeStation**

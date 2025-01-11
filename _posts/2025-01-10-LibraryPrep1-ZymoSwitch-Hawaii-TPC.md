@@ -13,7 +13,7 @@ tags: [DNA, Zymo, RNA, library]
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
 
-Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit)(CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii TPC project. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA-Summary/).
+Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) (CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii TPC project. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA-Summary/).
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using the max volume of RNA input (5 ul) for the sample with the lowest RNA concentration among all, which is 11.1 ng/uL, which corresponds to a total of _55.5 ng_. I will use this 55.5 as inpout for all other samples. 
@@ -56,7 +56,7 @@ I used Broad range dsDNA Qubit Protocol inked above. DNA samples were read twice
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
-| Library prep date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
 |  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8      ||    7.12       ||    3           |
 |  20250110  || Mcap-H1    || *Montipora capitata* || 18       ||     1.85            ||   4            |
 |  20250110    || Pcomp-G8   || *Porites compressa*  ||  25      ||   5.38         ||   5            |

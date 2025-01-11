@@ -13,7 +13,7 @@ tags: [DNA, Zymo, RNA, library]
 - [TapeStation protocol DNA D5000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
 
-Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit)(CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii TPC project. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA-Summary/).
+Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) (CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from adult coral fragments from the Hawaii TPC project. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA-Summary/).
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using the max volume of RNA input (5 ul) for the sample with the lowest RNA concentration among all, which is 11.1 ng/uL, which corresponds to a total of _55.5 ng_. I will use this 55.5 as inpout for all other samples. 
@@ -58,17 +58,15 @@ I used Broad range dsDNA Qubit Protocol inked above. DNA samples were read twice
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250110  || Pacu-H10   || *Pocillopora acuta*  || 26.8      ||    7.12       ||    3           |
-|  20250110  || Mcap-H1    || *Montipora capitata* || 18       ||     1.85            ||   4            |
-|  20250110    || Pcomp-G8   || *Porites compressa*  ||  25      ||   5.38         ||   5            |
-|  20250110    || Mcap-E8    || *Montipora capitata* ||  25      ||    2.01        ||   6            |
-|  20250110    || Pacu-B8    || *Pocillopora acuta*  ||  25      ||    2.77       ||   8            |
-|  20250110    || Mcap-B7    || *Montipora capitata* ||  35      ||    2.94       ||   9            |
-|  20250110    || Pcomp-G1   || *Porites compressa*  ||  18      ||    4.06     ||   10            |
-|  20250110    || Pacu-E9    || *Pocillopora acuta*  ||  30      ||    1.98      ||   11            |
+|  20250111  || Pacu-E9   || *Pocillopora acuta*  || 30   ||       ||     11       |
+|  20250111 || Pacu-H1    || *Pocillopora acuta* || 18     ||     ||       12    |
+|  20250111    || Mcap-G1   || *Montipora capitata*  ||  18   ||    ||     13      |
+|  20250111    || Pcom-E1   || *Porites compressa* ||  18   ||    ||       14    |
+|  20250111   || Pcom-B7     || *Porites compressa*  ||  35   ||    ||      15      |
+|  20250111   || Pacu-H8    || *Pocillopora acuta* ||  25   ||      ||      16    |
+|  20250111   || Pacu-G1   || *Pocillopora acuta*  ||  18   ||     ||      17   |
+|  20250111   || Pcom-E10    || *Porites compressa*  ||  26.8   ||    ||   18        |
 
-![LibPrepRun1_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun1_complete.png?raw=true)
+![LibPrepRun2_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun2_complete.png?raw=true)
 
-
- - _Things to consider for next time_: I got pretty low concentrations, next time I will use 20 PCR cycles instead of 19. I will also use the high sensitivity assay for the QBIT, since the broad range doesn't always give the concentration. Samples Pacu-E9 is the one that look the worst (both from the TapeStation and the qbit) so I will re-do it
-
+ - _Things to consider for next time_: I
