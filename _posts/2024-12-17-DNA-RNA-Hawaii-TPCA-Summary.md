@@ -478,7 +478,7 @@ This is the project summary for RNA extractions and library preparation for TagS
 
 ### Library prep of 2025-01-11
 
-- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep-ZymoSwitch-Hawaii-TPC/)
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep2-ZymoSwitch-Hawaii-TPC/)
 
 **Input RNA volumes for each sample**
 
