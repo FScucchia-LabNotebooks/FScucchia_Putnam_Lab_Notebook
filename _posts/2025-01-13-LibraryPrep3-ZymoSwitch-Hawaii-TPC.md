@@ -41,32 +41,32 @@ I'm re-doing sample Pacu-E9 from the day before. This time I'm using UDI primer 
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1: 
-- Standard 2: 
+- Standard 1: 70.54 
+- Standard 2: 27629.65
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250113  || Pacu-H1   || *Pocillopora acuta*  || 18   ||            ||             ||                 |
-|  20250113 || Pacu-F8    || *Pocillopora acuta* || 25     ||            ||             ||                 |
-|  20250113    || Pcom-F8   || *Porites compressa*  ||  25   ||            ||             ||                 |
-|  20250113    || Mcap-G6   || *Montipora capitata* ||  12   ||            ||             ||                 |
-|  20250113   || Mcap-H9     || *Montipora capitata*  ||  30   ||            ||             ||                 |
-|  20250113   || Pcom-H6    || *Porites compressa* ||  12   ||            ||             ||                 |
-|  20250113   || Pcom-B6   || *Porites compressa*  ||  12   ||            ||             ||                 |
-|  20250113   || Mcap-B9    || *Montipora capitata*  ||  30   ||            ||             ||                 |
+|  20250113  || Pacu-H1   || *Pocillopora acuta*  || 18   ||  0.476          ||    0.376     ||  0.426         |
+|  20250113 || Pacu-F8    || *Pocillopora acuta* || 25     ||     1.06       ||   0.91       ||  0.985         |
+|  20250113    || Pcom-F8   || *Porites compressa*  ||  25   ||   3.31         ||   2.99      ||  3.15          |
+|  20250113    || Mcap-G6   || *Montipora capitata* ||  12   ||  2.61         ||   2.31       ||  2.46          |
+|  20250113   || Mcap-H9     || *Montipora capitata*  ||  30   ||  1.31      ||   1.18    ||  1.245         |
+|  20250113   || Pcom-H6    || *Porites compressa* ||  12   ||    1.68        ||   1.57          ||  1.625         |
+|  20250113   || Pcom-B6   || *Porites compressa*  ||  12   ||   LOW         ||   LOW          ||  LOW           |
+|  20250113   || Mcap-B9    || *Montipora capitata*  ||  30   ||   0.299         ||  0.301    ||  0.3           |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250113  || Pacu-H1   || *Pocillopora acuta*  || 18   ||   3.71    ||     12       |
-|  20250113 || Pacu-F8    || *Pocillopora acuta* || 25     ||   2.84  ||       19    |
-|  20250113    || Pcom-F8   || *Porites compressa*  ||  25   || 1.02   ||     20     |
-|  20250113    || Mcap-G6   || *Montipora capitata* ||  12   ||  5.80  ||      21    |
-|  20250113   || Mcap-H9     || *Montipora capitata*  ||  30   ||  4.77  ||    22      |
-|  20250113   || Pcom-H6    || *Porites compressa* ||  12   ||  4.38    ||     23    |
-|  20250113   || Pcom-B6   || *Porites compressa*  ||  12   ||  1.41   ||      24   |
-|  20250113   || Mcap-B9    || *Montipora capitata*  ||  30   ||  5.19  ||   25      |
+|  20250113  || Pacu-H1   || *Pocillopora acuta*  || 18   ||   0.746    ||     12       |
+|  20250113 || Pacu-F8    || *Pocillopora acuta* || 25     ||   1.84  ||       19    |
+|  20250113    || Pcom-F8   || *Porites compressa*  ||  25   || 5.02   ||     20     |
+|  20250113    || Mcap-G6   || *Montipora capitata* ||  12   ||  4.55 ||      21    |
+|  20250113   || Mcap-H9     || *Montipora capitata*  ||  30   ||  2.48  ||    22      |
+|  20250113   || Pcom-H6    || *Porites compressa* ||  12   ||  2.88    ||     23    |
+|  20250113   || Pcom-B6   || *Porites compressa*  ||  12   ||  0.034   ||      24   |
+|  20250113   || Mcap-B9    || *Montipora capitata*  ||  30   ||  0.6 ||   25      |
 
 ![LibPrepRun3_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun3_complete.png?raw=true)
 
- - _Things to consider for next time_: 
+ - _Things to consider for next time_: Decreasing the input RNA didn't help, samples look worse. I will increase the input again to 25ng, and keep 21 PCR cycles.
