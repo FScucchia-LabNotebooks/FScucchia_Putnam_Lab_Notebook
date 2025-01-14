@@ -63,4 +63,4 @@ After the library prep, I run samples on the tapestation (D5000), protocol linke
 
 ![LibPrepRun4_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun4_complete.png?raw=true)
 
- - _Things to consider for next time_: 
+ - _Things to consider for next time_: 25 ng worked much better than the previous concentrations I tried. I will keep using 25 ng and 21 PCR cycles.

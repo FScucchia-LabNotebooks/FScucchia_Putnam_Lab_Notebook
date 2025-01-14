@@ -32,6 +32,7 @@ This is the project summary for RNA extractions and library preparation for TagS
   - [Library prep of 2025-01-10](#library-prep-of-2025-01-10)
   - [Library prep of 2025-01-11](#library-prep-of-2025-01-11)
   - [Library prep of 2025-01-13](#library-prep-of-2025-01-13)
+  - [Library prep of 2025-01-14](#library-prep-of-2025-01-14)
   
 ---
 ## Extractions
@@ -566,3 +567,40 @@ This is the project summary for RNA extractions and library preparation for TagS
 |  20250113   || Mcap-B9    || *Montipora capitata*  ||  30   ||  0.6 ||   25      |
 
 ![LibraryPrepZymoRun3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun3.png?raw=true)
+
+### Library prep of 2025-01-14
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep4-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Mcap-H1      ||      41.5        ||    0.6     ||        4.4           ||        25          |
+| Mcap-G7      ||      17.8        ||   1.4     ||        3.6             ||        25          |
+| Pacu-G10     ||      29.9       ||     0.84    ||         4.16            ||        25          |
+| Pacu-H9      ||      49.5        ||    0.51    ||       4.49             ||        25          |
+| Pacu-F7      ||      34.4        ||    0.73   ||        4.27             ||        25          |
+| Mcap-F10      ||     13.8          ||   1.81    ||     3.19              ||      25          |
+
+**Qubit**
+
+- Standard 1: 81.16
+- Standard 2: 27173.68
+
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250114  || Mcap-H1   || *Montipora capitata*  || 18   ||  6.32          ||   6.51      ||  6.415        |
+|  20250114 || Mcap-G7   || *Montipora capitata* || 35     ||   1.51     ||   1.47      ||  1.49         |
+|  20250114    || Pacu-G10   || *Pocillopora acuta*  || 26.8   ||  5.38    ||  5.17      ||  5.275       |
+|  20250114    || Pacu-H9    || *Pocillopora acuta* ||  30   ||  8.33    ||    8.12      ||  8.225       |
+|  20250114   || Pacu-F7    || *Pocillopora acuta*  ||  35   ||  3.95   ||  3.79   ||  3.87        |
+|  20250114   || Mcap-F10   || *Montipora capitata* ||  26.8   ||   1.15       ||    1.05     ||  1.10      |
+
+**TapeStation**
+
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+|  20250114  || Mcap-H1   || *Montipora capitata*  || 18   ||   7.93   ||    4     |
+|  20250114 || Mcap-G7    || *Montipora capitata* || 35     ||  2.68   ||       26    |
+|  20250114    || Pacu-G10   || *Pocillopora acuta*  ||  26.8 ||  5.73    ||     27     |
+|  20250114    || Pacu-H9   || *Pocillopora acuta* ||  30   ||  10.0  ||      28    |
+|  20250114   || Pacu-F7     || *Pocillopora acuta*  ||  35   ||  6.37   ||    29      |
+|  20250114   || Mcap-F10    || *Montipora capitata* ||  26.8   ||  null    ||     30    |
