@@ -43,12 +43,12 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 - Standard 2: 
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250114  || Pacu-H1   || *Pocillopora acuta*  || 18   ||  0.476          ||    0.376     ||  0.426         |
-|  20250114 || Pacu-F8    || *Pocillopora acuta* || 25     ||     1.06       ||   0.91       ||  0.985         |
-|  20250114    || Pcom-F8   || *Porites compressa*  ||  25   ||   3.31         ||   2.99      ||  3.15          |
-|  20250114    || Mcap-G6   || *Montipora capitata* ||  12   ||  2.61         ||   2.31       ||  2.46          |
-|  20250114   || Mcap-H9     || *Montipora capitata*  ||  30   ||  1.31      ||   1.18    ||  1.245         |
-|  20250114   || Pcom-H6    || *Porites compressa* ||  12   ||    1.68        ||   1.57          ||  1.625         |
+|  20250114  || Mcap-H1   || *Montipora capitata*  || 18   ||  0.476          ||    0.376     ||  0.426         |
+|  20250114 || Mcap-G7   || *Montipora capitata* || 35     ||     1.06       ||   0.91       ||  0.985         |
+|  20250114    || Pacu-G10   || *Pocillopora acuta*  || 26.8   ||   3.31         ||   2.99      ||  3.15          |
+|  20250114    || Pacu-H9    || *Pocillopora acuta* ||  30   ||  2.61         ||   2.31       ||  2.46          |
+|  20250114   || Pacu-F7    || *Pocillopora acuta*  ||  35   ||  1.31      ||   1.18    ||  1.245         |
+|  20250114   || Mcap-F10   || *Montipora capitata* ||  26.8   ||    1.68        ||   1.57          ||           |
 
 
 ## TapeStation
