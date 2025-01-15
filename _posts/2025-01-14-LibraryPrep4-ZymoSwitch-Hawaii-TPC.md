@@ -17,7 +17,7 @@ Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.c
 
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. I'm using 13 ng of input RNA, since it's the amount the gave me the highest concentration of library with the first samples I tried prepping. 
-I'm trying thsi time with 25 ng of RNA input, 13 ng and 55.5 ng didn't work well (see previous posts).
+I'm trying this time with 25 ng of RNA input, 13 ng and 55.5 ng didn't work well (see previous posts).
 
 I've used the primers in the 96 well plate (CAT. D3096, LOT. 250838) provided with the kit. For sample Mcap-H1, I've used UDI primer 4 from the 12 prep kit (CAT. D3008, LOT. 250968).
 All samples were eluted in 20uL of elution buffer.
