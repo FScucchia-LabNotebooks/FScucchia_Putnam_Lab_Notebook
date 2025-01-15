@@ -33,6 +33,7 @@ This is the project summary for RNA extractions and library preparation for TagS
   - [Library prep of 2025-01-11](#library-prep-of-2025-01-11)
   - [Library prep of 2025-01-13](#library-prep-of-2025-01-13)
   - [Library prep of 2025-01-14](#library-prep-of-2025-01-14)
+  - [Library prep of 2025-01-15](#library-prep-of-2025-01-15)
   
 ---
 ## Extractions
@@ -604,3 +605,29 @@ This is the project summary for RNA extractions and library preparation for TagS
 |  20250114    || Pacu-H9   || *Pocillopora acuta* ||  30   ||  10.0  ||      28    |
 |  20250114   || Pacu-F7     || *Pocillopora acuta*  ||  35   ||  6.37   ||    29      |
 |  20250114   || Mcap-F10    || *Montipora capitata* ||  26.8   ||  null    ||     30    |
+
+![LibraryPrepZymoRun4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun4.png?raw=true)
+
+### Library prep of 2025-01-15
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep5-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Pcom-H10     ||     54.0         ||   0.42    ||        4.77         ||        25          |
+| Pcom-G10      ||    51.8        ||   0.48    ||       4.52             ||        25          |
+| Pacu-B1     ||     37.3     ||     0.67    ||         4.33            ||        25          |
+| Mcap-B6      ||    12.9         ||    1.94    ||       3.06             ||        25          |
+| Mcap-B10      ||   12.1          ||    2.07  ||        2.93             ||        25          |
+| Mcap-B1      ||    18.6          ||   1.34    ||     3.66              ||      25          |
+| Mcap-E9      ||    22.6          ||   1.11    ||     3.89              ||      25          |
+| Pcom-E8     ||     48.1       ||    0.52     ||        4.48           ||        25          |
+
+**Qubit**
+
+**TapeStation**
+
+
+
+![LibraryPrepZymoRun5.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun5.png?raw=true)
