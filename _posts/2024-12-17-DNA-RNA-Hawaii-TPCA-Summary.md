@@ -626,8 +626,26 @@ This is the project summary for RNA extractions and library preparation for TagS
 
 **Qubit**
 
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250115  || Pcom-H10   || *Porites compressa*  || 26.8   ||   2.26       ||   2.26      ||  2.26        |
+|  20250115 || Pcom-G10   || *Porites compressa* || 26.8     ||  1.2    ||    1.22      ||  1.21         |
+|  20250115    || Pacu-B1   || *Pocillopora acuta*  || 18   ||    1.41   ||   1.38     ||  1.395       |
+|  20250115    || Mcap-B6    || *Montipora capitata* || 12   ||   1.66  ||    1.62      ||  1.64        |
+|  20250115   || Mcap-B10    || *Montipora capitata*  ||  26.8 || 1.4   ||  1.35    ||  1.375       |
+|  20250115   || Mcap-B1   || *Montipora capitata* ||  18   ||   1.45      ||   1.40       ||  1.425      |
+|  20250115   || Mcap-E9    || *Montipora capitata*  || 30   ||  0.789    ||  0.77    ||  0.7795      |
+|  20250115   || Pcom-E8   || *Porites compressa* ||  25   ||   1.62     ||   1.55     ||  1.585      |
+
 **TapeStation**
 
-
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+|  20250115  || Pcom-H10   || *Porites compressa*  || 26.8   || 4.07    ||   31    |
+|  20250115 || Pcom-G10    || *Porites compressa* || 26.8   || 1.8    ||    32    |
+|  20250115  || Pacu-B1   || *Pocillopora acuta*  ||  18 ||  1.94   ||     33   |
+|  20250115  || Mcap-B6   || *Montipora capitata* ||  12   || 2.87    ||      34    |
+|  20250115   || Mcap-B10   || *Montipora capitata*  ||  26.8  || 1.91   ||  35      |
+|  20250115   || Mcap-B1    || *Montipora capitata* ||  18   ||  2.35    ||     36    |
+|  20250115   || Mcap-E9    || *Montipora capitata*  ||  30   ||  1.07   ||    37      |
+|  20250115   || Pcom-E8    || *Porites compressa* ||  25   ||  3.12   ||     38    |
 
 ![LibraryPrepZymoRun5.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun5.png?raw=true)
