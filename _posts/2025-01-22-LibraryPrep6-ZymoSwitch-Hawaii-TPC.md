@@ -54,13 +54,13 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250122  || Pcom-H10   || *Porites compressa*  || 26.8   || 4.07    ||   31    |
-|  20250122 || Pcom-G10    || *Porites compressa* || 26.8   || 1.8    ||    32    |
-|  20250122  || Pacu-B1   || *Pocillopora acuta*  ||  18 ||  1.94   ||     33   |
-|  20250122  || Mcap-B6   || *Montipora capitata* ||  12   || 2.87    ||      34    |
-|  20250122   || Mcap-B10   || *Montipora capitata*  ||  26.8  || 1.91   ||  35      |
-|  20250122   || Mcap-B1    || *Montipora capitata* ||  18   ||  2.35    ||     36    |
+|  20250122  || Mcap-F8   || *Montipora capitata*  || 25   ||     ||   39    |
+|  20250122 || Pcom-G9    || *Porites compressa* || 30   ||     ||    40    |
+|  20250122  || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||     ||     41   |
+|  20250122  || Pacu-E8   || *Pocillopora acuta* ||  25   ||     ||      42    |
+|  20250122   || Pacu-H6   || *Pocillopora acuta*  ||  12  ||    ||  43      |
+|  20250122   || Pcom-H9    || *Porites compressa* ||  30   ||      ||     44    |
 
-![LibPrepRun5_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun5_complete.png?raw=true)
+![LibPrepRun6_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun6_complete.png?raw=true)
 
- - _Things to consider for next time_: Only one sample, Pcom-H10, seems to have enough concentration for the sequencing (>2 ng/ul). Something during this run of library prep maybe went wrong? Will re-do the other 7 samples.
+ - _Things to consider for next time_: 
