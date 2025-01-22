@@ -35,7 +35,6 @@ Here's a breakdown of input RNA volume and quantity:
 | Pacu-H6     ||  36.5     ||   0.82  ||    4.18            ||        30         |
 | Pcom-H9     ||  47.1     ||   0.64    ||    4.36             ||      30         |
 
-
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
 - Standard 1: 
