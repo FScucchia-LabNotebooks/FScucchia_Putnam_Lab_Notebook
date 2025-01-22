@@ -23,17 +23,17 @@ I've used the primers in the 96 well plate (CAT. D3096, LOT. 250838) provided wi
 All samples were eluted in 20uL of elution buffer.
 
 ## Library prep
-I ran the library prep protocol linked above. I used 21 PCR cycles.
+I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 samples, it takes about 6 hours to run the protocol and do QC on the final library.
 
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-| Mcap-F8     ||            ||   1.03    ||     3.97       ||        30         |
-| Pcom-G9     ||            ||   0.48  ||      4.52           ||        30         |
-| Pcom-F10    ||            ||   0.68  ||      4.32           ||        30         |
-| Pacu-E8     ||            ||  1.16  ||      3.84           ||        30         |
-| Pacu-H6     ||             ||   0.82  ||    4.18            ||        30         |
-| Pcom-H9     ||           ||   0.64    ||    4.36             ||      30         |
+| Mcap-F8     ||   29.1     ||   1.03    ||     3.97       ||        30         |
+| Pcom-G9     ||   62.9     ||   0.48  ||      4.52           ||        30         |
+| Pcom-F10    ||   44.0     ||   0.68  ||      4.32           ||        30         |
+| Pacu-E8     ||  25.8      ||  1.16  ||      3.84           ||        30         |
+| Pacu-H6     ||  36.5     ||   0.82  ||    4.18            ||        30         |
+| Pcom-H9     ||  47.1     ||   0.64    ||    4.36             ||      30         |
 
 
 ## Qubit Results

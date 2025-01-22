@@ -23,7 +23,7 @@ I've used the primers in the 96 well plate (CAT. D3096, LOT. 250838) provided wi
 All samples were eluted in 20uL of elution buffer.
 
 ## Library prep
-I ran the library prep protocol linked above. I used 21 PCR cycles.
+I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 samples, it takes about 6 hours to run the protocol and do QC on the final library.
 
 Here's a breakdown of input RNA volume and quantity:
 
