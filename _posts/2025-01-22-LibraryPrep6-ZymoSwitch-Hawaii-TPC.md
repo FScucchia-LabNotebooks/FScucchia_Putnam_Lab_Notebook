@@ -37,29 +37,28 @@ Here's a breakdown of input RNA volume and quantity:
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1: 
-- Standard 2: 
+- Standard 1: 68.80
+- Standard 2: 26748.39
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250122  || Mcap-F8 || *Montipora capitata*  || 25   ||      ||        ||          |
-|  20250122 || Pcom-G9   || *Porites compressa* || 30    ||      ||       ||         |
-|  20250122  || Pcom-F10 || *Pocillopora acuta*  || 26.8 ||      ||      ||         |
-|  20250122  || Pacu-E8  || *Pocillopora acuta* || 25   ||       ||       ||         |
-|  20250122   || Pacu-H6 || *Pocillopora acuta*  ||  12 ||       ||      ||         |
-|  20250122   || Pcom-H9  || *Porites compressa* ||  30  ||       ||      ||        |
-
+|  20250122  || Mcap-F8 || *Montipora capitata*  || 25   ||  0.362    ||  0.342      ||  0.352        |
+|  20250122 || Pcom-G9   || *Porites compressa* || 30    ||  0.891    ||  0.860     ||  0.8755       |
+|  20250122  || Pcom-F10 || *Pocillopora acuta*  || 26.8 ||  1.46    || 1.40     ||  1.43        |
+|  20250122  || Pacu-E8  || *Pocillopora acuta* || 25   ||  0.176     || 0.163      ||  0.1695       |
+|  20250122   || Pacu-H6 || *Pocillopora acuta*  ||  12 ||  0.214     ||  0.195    ||  0.2045       |
+|  20250122   || Pcom-H9  || *Porites compressa* ||  30  || 0.371      || 0.353     ||  0.362        |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250122  || Mcap-F8   || *Montipora capitata*  || 25   ||     ||   39    |
-|  20250122 || Pcom-G9    || *Porites compressa* || 30   ||     ||    40    |
-|  20250122  || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||     ||     41   |
-|  20250122  || Pacu-E8   || *Pocillopora acuta* ||  25   ||     ||      42    |
-|  20250122   || Pacu-H6   || *Pocillopora acuta*  ||  12  ||    ||  43      |
-|  20250122   || Pcom-H9    || *Porites compressa* ||  30   ||      ||     44    |
+|  20250122  || Mcap-F8   || *Montipora capitata*  || 25   || 0.577    ||   39    |
+|  20250122 || Pcom-G9    || *Porites compressa* || 30   || 1.36    ||    40    |
+|  20250122  || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||  2.41   ||     41   |
+|  20250122  || Pacu-E8   || *Pocillopora acuta* ||  25   ||  0.183   ||      42    |
+|  20250122   || Pacu-H6   || *Pocillopora acuta*  ||  12  ||  0.302  ||  43      |
+|  20250122   || Pcom-H9    || *Porites compressa* ||  30   || 0.315     ||     44    |
 
 ![LibPrepRun6_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun6_complete.png?raw=true)
 
- - _Things to consider for next time_: 
+ - _Things to consider for next time_: at this point I tried with different amounts of input RNA and most of the samples didn't work. I will try next time to skip the step in the Zymo protocol that says "for low quality RNA" and see what output I get.
