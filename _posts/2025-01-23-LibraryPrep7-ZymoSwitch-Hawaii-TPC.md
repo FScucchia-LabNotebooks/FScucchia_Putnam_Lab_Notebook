@@ -37,28 +37,28 @@ Here's a breakdown of input RNA volume and quantity:
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1:  
-- Standard 2:  
+- Standard 1: 66.02  
+- Standard 2: 26117.11 
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250123 || Mcap-G9 || *Montipora capitata*  || 30   ||            ||             ||                 |
-|  20250123 || Mcap-H6   || *Montipora capitata* || 12    ||            ||             ||                 |
-|  20250123 || Mcap-E10 || *Montipora capitata*  || 26.8 ||            ||             ||                 |
-|  20250123 || Pcom-F6  || *Porites compressa* || 12   ||            ||             ||                 |
-|  20250123  || Pacu-G7 || *Pocillopora acuta*  ||  35 ||            ||             ||                 |
-|  20250123  || Pcom-H1  || *Porites compressa* ||  18  ||            ||             ||                 |
+|  20250123 || Mcap-G9 || *Montipora capitata*  || 30   || 0.479   || 0.466     || 0.4725            |
+|  20250123 || Mcap-H6   || *Montipora capitata* || 12    || 2.45  ||  2.33    || 2.39            |
+|  20250123 || Mcap-E10 || *Montipora capitata*  || 26.8 ||   1.25       ||  1.22   || 1.235            |
+|  20250123 || Pcom-F6  || *Porites compressa* || 12   ||  4.11     ||    4.0      || 4.055            |
+|  20250123  || Pacu-G7 || *Pocillopora acuta*  ||  35 ||   14.2    ||   13.8      || 14.0            |
+|  20250123  || Pcom-H1  || *Porites compressa* ||  18  ||  4.95   ||   4.74      || 4.845            |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250123 || Mcap-G9   || *Montipora capitata*  || 30   ||     ||   45    |
-|  20250123 || Mcap-H6    || *Montipora capitata* || 12   ||      ||    46    |
-|  20250123 || Mcap-E10  || *Montipora capitata*  || 26.8 ||      ||    47   |
-|  20250123 || Pcom-F6   || *Porites compressa* ||  12   ||      ||     48    |
-|  20250123  || Pacu-G7   || *Pocillopora acuta*  ||  35  ||     ||  49      |
-|  20250123  || Pcom-H1    || *Porites compressa* ||  18   ||     ||  50   |
+|  20250123 || Mcap-G9   || *Montipora capitata*  || 30   || 0.491    ||   45    |
+|  20250123 || Mcap-H6    || *Montipora capitata* || 12   || 3.11     ||    46    |
+|  20250123 || Mcap-E10  || *Montipora capitata*  || 26.8 || 1.96     ||    47   |
+|  20250123 || Pcom-F6   || *Porites compressa* ||  12   ||  5.50    ||     48    |
+|  20250123  || Pacu-G7   || *Pocillopora acuta*  ||  35  ||  7.66   ||  49      |
+|  20250123  || Pcom-H1    || *Porites compressa* ||  18   || 7.14    ||  50   |
 
 ![LibPrepRun7_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun7_complete.png?raw=true)
 
- - _Things to consider for next time_: at this point I tried with different amounts of input RNA and most of the samples didn't work. I will try next time to skip the step in the Zymo protocol that says "for low quality RNA" and see what output I get.
+ - _Things to consider for next time_: skipping the step in the Zymo protocol that says "for low quality RNA" worked much better! I got higher concentrations that previous preps, altough some of the samples have weird peaks (see TapeStation results). I'll try again skipping that step with samples that didn't work before and see what happens.

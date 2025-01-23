@@ -704,7 +704,22 @@ This is the project summary for RNA extractions and library preparation for TagS
 
 **Qubit**
 
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250123 || Mcap-G9 || *Montipora capitata*  || 30   || 0.479   || 0.466     || 0.4725            |
+|  20250123 || Mcap-H6   || *Montipora capitata* || 12    || 2.45  ||  2.33    || 2.39            |
+|  20250123 || Mcap-E10 || *Montipora capitata*  || 26.8 ||   1.25       ||  1.22   || 1.235            |
+|  20250123 || Pcom-F6  || *Porites compressa* || 12   ||  4.11     ||    4.0      || 4.055            |
+|  20250123  || Pacu-G7 || *Pocillopora acuta*  ||  35 ||   14.2    ||   13.8      || 14.0            |
+|  20250123  || Pcom-H1  || *Porites compressa* ||  18  ||  4.95   ||   4.74      || 4.845            |
+
 **TapeStation**
 
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+|  20250123 || Mcap-G9   || *Montipora capitata*  || 30   || 0.491    ||   45    |
+|  20250123 || Mcap-H6    || *Montipora capitata* || 12   || 3.11     ||    46    |
+|  20250123 || Mcap-E10  || *Montipora capitata*  || 26.8 || 1.96     ||    47   |
+|  20250123 || Pcom-F6   || *Porites compressa* ||  12   ||  5.50    ||     48    |
+|  20250123  || Pacu-G7   || *Pocillopora acuta*  ||  35  ||  7.66   ||  49      |
+|  20250123  || Pcom-H1    || *Porites compressa* ||  18   || 7.14    ||  50   |
 
 ![LibraryPrepZymoRun7.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun7.png?raw=true)
