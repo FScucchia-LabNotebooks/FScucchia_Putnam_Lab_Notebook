@@ -28,36 +28,36 @@ I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 sam
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-|      ||   29.1     ||   1.03    ||     3.97       ||        30         |
-|     ||   62.9     ||   0.48  ||      4.52           ||        30         |
-|     ||   44.0     ||   0.68  ||      4.32           ||        30         |
-|      ||  25.8      ||  1.16  ||      3.84           ||        30         |
-|     ||  36.5     ||   0.82  ||    4.18            ||        30         |
-|     ||  47.1     ||   0.64    ||    4.36             ||      30         |
+| Mcap-G9     ||   16.6     ||   1.2      ||   3.8          ||        20         |
+| Mcap-H6    ||    21.8    ||   0.92  ||   4.08            ||        20         |
+| Mcap-E10    ||   20.9     ||  0.96  ||   4.04             ||        20         |
+| Pcom-F6     ||   56.0     ||  0.36  ||   4.64             ||      20         |
+| Pacu-G7    ||    39.0     ||  0.51    ||   4.49            ||        20         |
+| Pcom-H1    ||    17.3     ||   1.16     ||   3.84             ||     20         |
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1: 68.80
-- Standard 2: 26748.39
+- Standard 1:  
+- Standard 2:  
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250122  || Mcap-F8 || *Montipora capitata*  || 25   ||  0.362    ||  0.342      ||  0.352        |
-|  20250122 || Pcom-G9   || *Porites compressa* || 30    ||  0.891    ||  0.860     ||  0.8755       |
-|  20250122  || Pcom-F10 || *Pocillopora acuta*  || 26.8 ||  1.46    || 1.40     ||  1.43        |
-|  20250122  || Pacu-E8  || *Pocillopora acuta* || 25   ||  0.176     || 0.163      ||  0.1695       |
-|  20250122   || Pacu-H6 || *Pocillopora acuta*  ||  12 ||  0.214     ||  0.195    ||  0.2045       |
-|  20250122   || Pcom-H9  || *Porites compressa* ||  30  || 0.371      || 0.353     ||  0.362        |
+|  20250123 || Mcap-G9 || *Montipora capitata*  || 30   ||            ||             ||                 |
+|  20250123 || Mcap-H6   || *Montipora capitata* || 12    ||            ||             ||                 |
+|  20250123 || Mcap-E10 || *Montipora capitata*  || 26.8 ||            ||             ||                 |
+|  20250123 || Pcom-F6  || *Porites compressa* || 12   ||            ||             ||                 |
+|  20250123  || Pacu-G7 || *Pocillopora acuta*  ||  35 ||            ||             ||                 |
+|  20250123  || Pcom-H1  || *Porites compressa* ||  18  ||            ||             ||                 |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250122  || Mcap-F8   || *Montipora capitata*  || 25   || 0.577    ||   39    |
-|  20250122 || Pcom-G9    || *Porites compressa* || 30   || 1.36    ||    40    |
-|  20250122  || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||  2.41   ||     41   |
-|  20250122  || Pacu-E8   || *Pocillopora acuta* ||  25   ||  0.183   ||      42    |
-|  20250122   || Pacu-H6   || *Pocillopora acuta*  ||  12  ||  0.302  ||  43      |
-|  20250122   || Pcom-H9    || *Porites compressa* ||  30   || 0.315     ||     44    |
+|  20250123 || Mcap-F8   || *Montipora capitata*  || 25   || 0.577    ||   39    |
+|  20250123|| Pcom-G9    || *Porites compressa* || 30   || 1.36    ||    40    |
+|  20250123 || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||  2.41   ||     41   |
+|  20250123 || Pacu-E8   || *Pocillopora acuta* ||  25   ||  0.183   ||      42    |
+|  20250123  || Pacu-H6   || *Pocillopora acuta*  ||  12  ||  0.302  ||  43      |
+|  20250123  || Pcom-H9    || *Porites compressa* ||  30   || 0.315     ||     44    |
 
 ![LibPrepRun6_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun6_complete.png?raw=true)
 
