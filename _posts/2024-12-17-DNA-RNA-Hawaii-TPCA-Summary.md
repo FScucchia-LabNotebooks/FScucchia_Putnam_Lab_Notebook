@@ -35,6 +35,7 @@ This is the project summary for RNA extractions and library preparation for TagS
   - [Library prep of 2025-01-14](#library-prep-of-2025-01-14)
   - [Library prep of 2025-01-15](#library-prep-of-2025-01-15)
   - [Library prep of 2025-01-22](#library-prep-of-2025-01-22)
+  - [Library prep of 2025-01-23](#library-prep-of-2025-01-23)
   
 ---
 ## Extractions
@@ -686,3 +687,24 @@ This is the project summary for RNA extractions and library preparation for TagS
 |  20250122   || Pcom-H9    || *Porites compressa* ||  30   || 0.315     ||     44    |
 
 ![LibraryPrepZymoRun6.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun6.png?raw=true)
+
+### Library prep of 2025-01-23
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep7-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Mcap-G9     ||   16.6     ||   1.2      ||   3.8          ||        20         |
+| Mcap-H6    ||    21.8    ||   0.92  ||   4.08            ||        20         |
+| Mcap-E10    ||   20.9     ||  0.96  ||   4.04             ||        20         |
+| Pcom-F6     ||   56.0     ||  0.36  ||   4.64             ||      20         |
+| Pacu-G7    ||    39.0     ||  0.51    ||   4.49            ||        20         |
+| Pcom-H1    ||    17.3     ||   1.16     ||   3.84             ||     20         |
+
+**Qubit**
+
+**TapeStation**
+
+
+![LibraryPrepZymoRun7.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun7.png?raw=true)
