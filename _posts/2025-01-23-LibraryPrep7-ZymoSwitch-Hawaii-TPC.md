@@ -52,13 +52,13 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250123 || Mcap-F8   || *Montipora capitata*  || 25   || 0.577    ||   39    |
-|  20250123|| Pcom-G9    || *Porites compressa* || 30   || 1.36    ||    40    |
-|  20250123 || Pcom-F10  || *Pocillopora acuta*  ||  26.8 ||  2.41   ||     41   |
-|  20250123 || Pacu-E8   || *Pocillopora acuta* ||  25   ||  0.183   ||      42    |
-|  20250123  || Pacu-H6   || *Pocillopora acuta*  ||  12  ||  0.302  ||  43      |
-|  20250123  || Pcom-H9    || *Porites compressa* ||  30   || 0.315     ||     44    |
+|  20250123 || Mcap-G9   || *Montipora capitata*  || 30   ||     ||   45    |
+|  20250123 || Mcap-H6    || *Montipora capitata* || 12   ||      ||    46    |
+|  20250123 || Mcap-E10  || *Montipora capitata*  || 26.8 ||      ||    47   |
+|  20250123 || Pcom-F6   || *Porites compressa* ||  12   ||      ||     48    |
+|  20250123  || Pacu-G7   || *Pocillopora acuta*  ||  35  ||     ||  49      |
+|  20250123  || Pcom-H1    || *Porites compressa* ||  18   ||     ||  50   |
 
-![LibPrepRun6_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun6_complete.png?raw=true)
+![LibPrepRun7_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun7_complete.png?raw=true)
 
  - _Things to consider for next time_: at this point I tried with different amounts of input RNA and most of the samples didn't work. I will try next time to skip the step in the Zymo protocol that says "for low quality RNA" and see what output I get.
