@@ -36,6 +36,7 @@ This is the project summary for RNA extractions and library preparation for TagS
   - [Library prep of 2025-01-15](#library-prep-of-2025-01-15)
   - [Library prep of 2025-01-22](#library-prep-of-2025-01-22)
   - [Library prep of 2025-01-23](#library-prep-of-2025-01-23)
+  - [Library prep of 2025-01-24](#library-prep-of-2025-01-24)
   
 ---
 ## Extractions
@@ -723,3 +724,41 @@ This is the project summary for RNA extractions and library preparation for TagS
 |  20250123  || Pcom-H1    || *Porites compressa* ||  18   || 7.14    ||  50   |
 
 ![LibraryPrepZymoRun7.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun7.png?raw=true)
+
+### Library prep of 2025-01-24
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep8-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+| Mcap-F8     ||   29.1     ||   0.69   ||     4.31      ||        20         |
+| Pcom-G9     ||   62.9     ||   0.32  ||      4.68           ||        20         |
+| Pcom-F10    ||   44.0     ||   0.45  ||      4.55           ||        20         |
+| Pacu-E8     ||  25.8      ||  0.78  ||      4.22           ||        20         |
+| Pacu-H6     ||  36.5     ||   0.55  ||    4.45            ||        20         |
+| Pcom-H9     ||  47.1     ||   0.42    ||    4.58             ||      20         |
+
+**Qubit**
+
+| QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250124  || Mcap-F8 || *Montipora capitata*  || 25   ||   0.057    ||  0.051     || 0.054            |
+|  20250124 || Pcom-G9   || *Porites compressa* || 30    ||   LOW     ||  LOW        ||                 |
+|  20250124  || Pcom-F10 || *Pocillopora acuta*  || 26.8 ||   LOW     ||  LOW        ||                 |
+|  20250124  || Pacu-E8  || *Pocillopora acuta* || 25   ||   LOW      || LOW         ||                 |
+|  20250124   || Pacu-H6 || *Pocillopora acuta*  ||  12 ||   0.072    || 0.07        ||   0.071         |
+|  20250124   || Pcom-H9  || *Porites compressa* ||  30  ||  LOW      ||  LOW        ||                 |
+
+*LOW: out of range
+
+**TapeStation**
+
+| TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
+|  20250124  || Mcap-F8 || *Montipora capitata*  || 25   ||  0   ||   39    |
+|  20250124 || Pcom-G9   || *Porites compressa* || 30    ||  0    ||   40    |
+|  20250124  || Pcom-F10 || *Montipora capitata*  || 26.8 || 0      ||   41   |
+|  20250124  || Pacu-E8  || *Porites compressa* ||  12   ||  0    ||    42    |
+|  20250124   || Pacu-H6 || *Pocillopora acuta*  ||  35  ||  0    ||  43     |
+|  20250124   || Pcom-H9  || *Porites compressa* ||  18   || 0.054    ||  44   |
+
+![LibPrepRun8_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun8_complete.png?raw=true)
