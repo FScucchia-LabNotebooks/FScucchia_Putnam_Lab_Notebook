@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Library prep using Zymo SwitchFree kit - Hawaii TPC samples - 012325
-date: '2025-01-23'
+title: Library prep using Zymo SwitchFree kit - Hawaii TPC samples - 012425
+date: '2025-01-24'
 category: Protocol
 tags: [DNA, Zymo, RNA, library]
 ---
 
-#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of the Hawaii TPC samples - 012325
+#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of the Hawaii TPC samples - 012425
 
 **Protocols used**
 - [Zymo-Seq SwitchFree 3′ mRNA Library Kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r3008_r3009__zymo_seq_switchfree_3_mrna_library_kit.pdf)
@@ -18,23 +18,24 @@ Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.c
 For the library prep I followed the protocol of [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-03-29-Zymo-SwitchFree.md) and the kit protocol above.
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA.
 I'm using 20 ng of RNA input, 13 ng, 30 ng and 55.5 ng didn't work well. 25 ng has worked for only some of the samples (see previous posts).
-I will try skipping the step in the Zymo protocol (see above) that is recommended "for low quality RNA".
+Skipping the step in the Zymo protocol that says "for low quality RNA" worked with the last batch of samples (see post of 23rd), so I will try again with these samples skipping it.
 
 I've used the primers in the 96 well plate (CAT. D3096, LOT. 250838) provided with the kit. 
 All samples were eluted in 18uL of elution buffer.
 
 ## Library prep
 I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 samples, it takes about 6 hours to run the protocol and do QC on the final library.
+I've re-prepped the following samples, that had failed on the 22nd, skipping the "low quality RNA" step according to the Zymo kit protocol above.
 
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-| Mcap-G9     ||   16.6     ||   1.2      ||   3.8          ||        20         |
-| Mcap-H6    ||    21.8    ||   0.92  ||   4.08            ||        20         |
-| Mcap-E10    ||   20.9     ||  0.96  ||   4.04             ||        20         |
-| Pcom-F6     ||   56.0     ||  0.36  ||   4.64             ||      20         |
-| Pacu-G7    ||    39.0     ||  0.51    ||   4.49            ||        20         |
-| Pcom-H1    ||    17.3     ||   1.16     ||   3.84             ||     20         |
+| Mcap-F8     ||   29.1     ||   1.03    ||     3.97       ||        30         |
+| Pcom-G9     ||   62.9     ||   0.48  ||      4.52           ||        30         |
+| Pcom-F10    ||   44.0     ||   0.68  ||      4.32           ||        30         |
+| Pacu-E8     ||  25.8      ||  1.16  ||      3.84           ||        30         |
+| Pacu-H6     ||  36.5     ||   0.82  ||    4.18            ||        30         |
+| Pcom-H9     ||  47.1     ||   0.64    ||    4.36             ||      30         |
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
