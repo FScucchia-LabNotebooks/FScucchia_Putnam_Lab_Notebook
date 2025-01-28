@@ -30,25 +30,25 @@ I've re-prepped the following samples, that had failed on the 22nd, skipping the
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-| Pcom-B1     ||   29.1     ||   0.69   ||     4.31      ||        20         |
-| Mcap-H10    ||   62.9     ||   0.32  ||      4.68           ||        20         |
-| Pacu-E7    ||   44.0     ||   0.45  ||      4.55           ||        20         |
-| Pacu-F6     ||  25.8      ||  0.78  ||      4.22           ||        20         |
-| Pcom-B9    ||  36.5     ||   0.55  ||    4.45            ||        20         |
-| Mcap-H8     ||  47.1     ||   0.42    ||    4.58             ||      20         |
+| Pcom-B1     ||   25     ||   0.80   ||     4.20      ||       51         |
+| Mcap-H10    ||   23.7     || 0.84  ||      4.16      ||      52         |
+| Pacu-E7    ||   41.4     ||   0.48  ||      4.52     ||        53         |
+| Pacu-F6     ||  44.8      ||  0.45 ||      4.55      ||       54         |
+| Pcom-B9    ||  33.1    ||   0.60  ||    4.40         ||        55       |
+| Mcap-H8     ||  11.1     ||   1.80 ||   3.20         ||     56        |
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1: 66.42   
-- Standard 2: 27992.47 
+- Standard 1:    
+- Standard 2:  
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250128  || Mcap-F8 || *Montipora capitata*  || 25   ||   0.057    ||  0.051     || 0.054            |
-|  20250128 || Pcom-G9   || *Porites compressa* || 30    ||   LOW     ||  LOW        ||                 |
-|  20250128  || Pcom-F10 || *Pocillopora acuta*  || 26.8 ||   LOW     ||  LOW        ||                 |
-|  20250128  || Pacu-E8  || *Pocillopora acuta* || 25   ||   LOW      || LOW         ||                 |
-|  20250128   || Pacu-H6 || *Pocillopora acuta*  ||  12 ||   0.072    || 0.07        ||   0.071         |
-|  20250128   || Pcom-H9  || *Porites compressa* ||  30  ||  LOW      ||  LOW        ||                 |
+|  20250128  || Pcom-B1 || *Porites compressa*  || 18   ||             ||             ||                 |
+|  20250128 || Mcap-H10   || *Montipora capitata* || 26.8 ||             ||             ||                 |
+|  20250128  || Pacu-E7 || *Pocillopora acuta*  || 35 ||             ||             ||                 |
+|  20250128  || Pacu-F6  || *Pocillopora acuta* || 12  ||             ||             ||                 |
+|  20250128   || Pcom-B9 || *Porites compressa*  || 30||             ||             ||                 |
+|  20250128   || Mcap-H8  || *Montipora capitata* ||  25 ||             ||             ||                 |
 
 *LOW: out of range
 
@@ -56,12 +56,12 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250128  || Mcap-F8 || *Montipora capitata*  || 25   ||  0   ||   39    |
-|  20250128 || Pcom-G9   || *Porites compressa* || 30    ||  0    ||   40    |
-|  20250128  || Pcom-F10 || *Montipora capitata*  || 26.8 || 0      ||   41   |
-|  20250128  || Pacu-E8  || *Porites compressa* ||  12   ||  0    ||    42    |
-|  20250128   || Pacu-H6 || *Pocillopora acuta*  ||  35  ||  0    ||  43     |
-|  20250128   || Pcom-H9  || *Porites compressa* ||  18   || 0.054    ||  44   |
+|  20250128  || Pcom-B1 || *Porites compressa*  || 18   ||  0   ||   39    |
+|  20250128 || Mcap-H10   || *Montipora capitata* || 26.8    ||  0    ||   40    |
+|  20250128  || Pacu-E7 || *Pocillopora acuta*  || 35 || 0      ||   41   |
+|  20250128  || Pacu-F6  || *Pocillopora acuta* || 12   ||  0    ||    42    |
+|  20250128   || Pcom-B9 || *Porites compressa*  ||  30  ||  0    ||  43     |
+|  20250128   || Mcap-H8  || *Montipora capitata* ||  25   || 0.054    ||  44   |
 
 ![LibPrepRun8_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun8_complete.png?raw=true)
 
