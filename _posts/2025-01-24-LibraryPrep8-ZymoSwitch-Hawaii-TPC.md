@@ -65,4 +65,4 @@ After the library prep, I run samples on the tapestation (D5000), protocol linke
 
 ![LibPrepRun8_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun8_complete.png?raw=true)
 
- - _Things to consider for next time_: None of the samples worked, which is strange. I think this primers that I used (not part of the kit, already in the lab, were not good)
+ - _Things to consider for next time_: I got nothing for all samples on the Tapestation, which is strange. I think it might have been because of the primers that I used (not part of the kit, already in the lab)

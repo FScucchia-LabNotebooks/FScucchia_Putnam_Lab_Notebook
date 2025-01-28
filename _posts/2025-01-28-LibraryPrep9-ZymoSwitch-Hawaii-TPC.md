@@ -63,6 +63,6 @@ After the library prep, I run samples on the tapestation (D5000), protocol linke
 |  20250128   || Pcom-B9 || *Porites compressa*  ||  30  ||  0    ||  43     |
 |  20250128   || Mcap-H8  || *Montipora capitata* ||  25   || 0.054    ||  44   |
 
-![LibPrepRun8_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun8_complete.png?raw=true)
+![LibPrepRun9_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun9_complete.png?raw=true)
 
- - _Things to consider for next time_: None of the samples worked, which is strange. I think this primers that I used (not part of the kit, already in the lab, were not good)
+ - _Things to consider for next time_: 
