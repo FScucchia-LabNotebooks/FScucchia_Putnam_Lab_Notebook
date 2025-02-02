@@ -41,9 +41,9 @@ Here I'm checking the quality of 6 RNA samples (n=2 per species, _Pocillopora ac
 **TapeStation**
 
 | sample_id  ||  Species  || Temp  ||  RNA_conc (ng/ul) before || RNA_conc (ng/ul) after || RIN before || RIN after |
-| Pcom-E10   || *Porites compressa*  || 26.8   ||     ||          ||             |
-| Pcom-F8   || *Porites compressa* || 25     ||     ||           ||              |
-| Pacu-H1   || *Pocillopora acuta*  ||  18   ||    ||             ||            |
-| Pacu-D8   || *Pocillopora acuta* ||  25   ||    ||            ||             |
-| Mcap-H1   || *Montipora capitata*  ||  18  ||    ||           ||             |
-| Mcap-D10  || *Montipora capitata* ||  26.8  ||    ||         ||              |
+| Pcom-E10   || *Porites compressa*  || 26.8   || 28.5    ||          ||    9         ||           |
+| Pcom-F8   || *Porites compressa* || 25     ||  21.5   ||           ||     8.4       ||        |
+| Pacu-H1   || *Pocillopora acuta*  ||  18   ||  23.2  ||             ||    8.8        ||               |
+| Pacu-D8   || *Pocillopora acuta* ||  25   ||  28.0  ||            ||     9        ||                |
+| Mcap-H1   || *Montipora capitata*  ||  18  || 40.4   ||           ||     9.5        ||                 |
+| Mcap-D10  || *Montipora capitata* ||  26.8  ||  16.8  ||         ||      8.1        ||                  |
