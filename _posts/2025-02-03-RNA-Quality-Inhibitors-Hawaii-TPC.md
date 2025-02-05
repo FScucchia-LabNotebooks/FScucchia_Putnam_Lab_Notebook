@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RNA quality check after PCR inhibitors removal - Hawai TPC
-date: '2025-02-03'
+date: '2025-02-05'
 category: PCR inhibitors
 tags: [RNA, Zymo]
 ---
@@ -14,24 +14,25 @@ tags: [RNA, Zymo]
 - [QBIT protocol](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-03-08-Qubit-Protocol.md)
 
 Here I'm checking the quality of 6 RNA samples (n=2 per species, _Pocillopora acuta_, _Montipora capitata_, _Porites compressa_) by TapeStation, Nanodrop and QBIT before and after using the [Zymo OneStep PCR Inhibitor Removal Kit](https://www.zymoresearch.com/collections/onestep-pcr-inhibitor-removal-kits/products/onestep-pcr-inhibitor-removal-new-kit). Library prep hasn't been very successful, see [summary](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-TPCA-Summary/) so we want to test for the presence of potential PCR inhibitors.
+I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minimum of 50 ul).
 
 **Qubit**
 
 | sample_id  ||     Species       || Temp   ||  RNA_AVG (ng/ul) before || RNA_AVG (ng/ul) after |
-| Pcom-E10   || *Porites compressa*  || 26.8   || 27.2    ||          |
-| Pcom-F8   || *Porites compressa* || 25     ||   14.4  ||           |
-| Pacu-H1   || *Pocillopora acuta*  ||  18   || 20.5  ||             |
-| Pacu-D8   || *Pocillopora acuta* ||  25   ||  19.3  ||            |
-| Mcap-H1   || *Montipora capitata*  ||  18  ||  41.5 ||           |
-| Mcap-D10  || *Montipora capitata* ||  26.8  ||  17.6  ||         |
+| Pcom-E10   || *Porites compressa*  || 26.8   || 27.2    ||   13       |
+| Pcom-F8   || *Porites compressa* || 25     ||   14.4  ||    17.8       |
+| Pacu-H1   || *Pocillopora acuta*  ||  18   || 20.5  ||      11.5       |
+| Pacu-D8   || *Pocillopora acuta* ||  25   ||  19.3  ||     13.3       |
+| Mcap-H1   || *Montipora capitata*  ||  18  ||  41.5 ||     12.7      |
+| Mcap-D10  || *Montipora capitata* ||  26.8  ||  17.6  ||    12.5     |
 
 *before* PCR inhibitors removal
 *after* PCR inhibitors removal
 
 **Nanodrop**
 
-| sample_id  ||  Species  || Temp  ||  RNA_AVG (ng/ul) before || RNA_AVG (ng/ul) after || 260/230 || 260/280 |
-| Pcom-E10   || *Porites compressa*  || 26.8   ||     ||          ||             |
+| sample_id  ||  Species  || Temp  ||  RNA_AVG (ng/ul) before || RNA_AVG (ng/ul) after || 260/230 before || 260/230 after || 260/280 before || 260/280 after |
+| Pcom-E10   || *Porites compressa*  || 26.8   || 24.35    ||    19.2      ||     1.08        ||  0.88 || 3.03    ||   2.24     |
 | Pcom-F8   || *Porites compressa* || 25     ||     ||           ||              |
 | Pacu-H1   || *Pocillopora acuta*  ||  18   ||    ||             ||            |
 | Pacu-D8   || *Pocillopora acuta* ||  25   ||    ||            ||             |
