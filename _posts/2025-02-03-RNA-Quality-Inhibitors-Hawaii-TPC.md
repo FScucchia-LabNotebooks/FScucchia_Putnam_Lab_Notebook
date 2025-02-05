@@ -46,9 +46,9 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 **TapeStation**
 
 | sample_id  ||  Species  || Temp  ||  RNA_conc (ng/ul) before || RNA_conc (ng/ul) after || RIN before || RIN after |
-| Pcom-E10   || *Porites compressa*  || 26.8   || 28.5    ||          ||    9         ||           |
-| Pcom-F8   || *Porites compressa* || 25     ||  21.5   ||           ||     8.4       ||        |
-| Pacu-H1   || *Pocillopora acuta*  ||  18   ||  23.2  ||             ||    8.8        ||               |
-| Pacu-D8   || *Pocillopora acuta* ||  25   ||  28.0  ||            ||     9        ||                |
-| Mcap-H1   || *Montipora capitata*  ||  18  || 40.4   ||           ||     9.5        ||                 |
-| Mcap-D10  || *Montipora capitata* ||  26.8  ||  16.8  ||         ||      8.1        ||                  |
+| Pcom-E10   || *Porites compressa*  || 26.8   || 28.5    ||  13.0        ||    9         ||    8.4       |
+| Pcom-F8   || *Porites compressa* || 25     ||  21.5   ||   20.8        ||     8.4       ||    8.7    |
+| Pacu-H1   || *Pocillopora acuta*  ||  18   ||  23.2  ||    11.3         ||    8.8        ||   8.1            |
+| Pacu-D8   || *Pocillopora acuta* ||  25   ||  28.0  ||     14.6       ||     9        ||      8.4          |
+| Mcap-H1   || *Montipora capitata*  ||  18  || 40.4   ||    13.0       ||     9.5        ||      8.5           |
+| Mcap-D10  || *Montipora capitata* ||  26.8  ||  16.8  ||   13.0      ||      8.1        ||      7.9            |
