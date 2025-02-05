@@ -43,6 +43,17 @@ I'm using the same input for all samples, 759 ng in 55 ul (the kit wants a minim
 
 ![Nanodrop_RNA_PCRinhibitors.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Nanodrop_RNA_PCRinhibitors.png?raw=true)
 
+**Nanodrop results before the cleanup and previous library prep attempt**
+I'm putting Nanodrop results right next to my previous library prep attempts to look for potential patterns in the 260 ratios and library prep concentration.
+
+| sample_id  || Species || Temp  ||  RNA_AVG (ng/ul) before || 260/230 before || 260/280 before || library QBIT (ng/ul)
+| Pcom-G10   || *Porites compressa*  || 26.8   || 24.35    ||    1.08      ||  3.03    || 1.21 |
+| Pcom-F8   || *Porites compressa* || 25     || 26.1    ||     3.88      || 2.99    || 3.15 |
+| Pacu-H1   || *Pocillopora acuta*  ||  18   ||  20.1  ||    0.76     || 3.30    ||  0.43 | 
+| Pacu-D8   || *Pocillopora acuta* ||  25   || 12.1   ||        0.99   || 3.96   || not prepped yet |  
+| Mcap-G1   || *Montipora capitata*  ||  18  || 28.96  ||         3.65   || 3.11   ||   0.7 |
+| Mcap-F10  || *Montipora capitata* ||  26.8  || 12.6   ||      1.67  || 5.45   ||   1.1  |
+
 **TapeStation**
 
 | sample_id  ||  Species  || Temp  ||  RNA_conc (ng/ul) before || RNA_conc (ng/ul) after || RIN before || RIN after |
