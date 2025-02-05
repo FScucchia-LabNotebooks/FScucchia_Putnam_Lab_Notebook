@@ -30,14 +30,17 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 *after* PCR inhibitors removal
 
 **Nanodrop**
+- Expected 260/230 values are commonly in the range of 2.0-2.2. If the ratio is appreciably lower than
+expected, it may indicate the presence of contaminants which absorb at 230 nm (carbohydrates and phenol all have absorbance near 230 nm) 
+- A 260/280 ratio of around 2.0 is generally considered pure for RNA. Abnormal 260/280 ratios usually indicate that a sample is contaminated by residual phenol, guanidine, or other reagent used in the extraction protocol
 
 | sample_id  ||  Species  || Temp  ||  RNA_AVG (ng/ul) before || RNA_AVG (ng/ul) after || 260/230 before || 260/230 after || 260/280 before || 260/280 after |
 | Pcom-E10   || *Porites compressa*  || 26.8   || 24.35    ||    19.2      ||     1.08        ||  0.88 || 3.03    ||   2.24     |
-| Pcom-F8   || *Porites compressa* || 25     ||     ||           ||              |
-| Pacu-H1   || *Pocillopora acuta*  ||  18   ||    ||             ||            |
-| Pacu-D8   || *Pocillopora acuta* ||  25   ||    ||            ||             |
-| Mcap-H1   || *Montipora capitata*  ||  18  ||    ||           ||             |
-| Mcap-D10  || *Montipora capitata* ||  26.8  ||    ||         ||              |
+| Pcom-F8   || *Porites compressa* || 25     || 26.1    ||    25.25       ||         3.88      || 1.03 || 2.99    ||   2.33     |
+| Pacu-H1   || *Pocillopora acuta*  ||  18   ||  20.1  ||    12.95        ||  0.76     || 0.59 || 3.30    ||   2.72     |
+| Pacu-D8   || *Pocillopora acuta* ||  25   || 12.1   ||    31.3        ||    0.99    || 0.68 || 3.96   ||   2.70     |
+| Mcap-H1   || *Montipora capitata*  ||  18  || 28.96  ||  15.45         ||    3.65   || 0.95 || 3.11   ||   2.58     |
+| Mcap-D10  || *Montipora capitata* ||  26.8  || 12.6   ||  20.65       ||    1.67   || 0.73 || 5.45   ||   2.89     |
 
 **TapeStation**
 
