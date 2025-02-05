@@ -52,3 +52,9 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 | Pacu-D8   || *Pocillopora acuta* ||  25   ||  28.0  ||     14.6       ||     9        ||      8.4          |
 | Mcap-H1   || *Montipora capitata*  ||  18  || 40.4   ||    13.0       ||     9.5        ||      8.5           |
 | Mcap-D10  || *Montipora capitata* ||  26.8  ||  16.8  ||   13.0      ||      8.1        ||      7.9            |
+
+*before* PCR inhibitors removal (first tape run per sample in the image below)
+*after* PCR inhibitors removal (second tape run per sample in the image below)
+
+![TapeStation_RNA_PCRinhibitors.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/TapeStation_RNA_PCRinhibitors.png?raw=true)
+
