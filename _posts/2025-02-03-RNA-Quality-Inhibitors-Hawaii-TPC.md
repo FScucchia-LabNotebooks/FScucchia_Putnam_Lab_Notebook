@@ -20,7 +20,7 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 
 | sample_id  ||     Species       || Temp   ||  RNA_AVG (ng/ul) before || RNA_AVG (ng/ul) after |
 | Pcom-E10   || *Porites compressa*  || 26.8   || 27.2    ||   13.0       |
-| Pcom-F8   || *Porites compressa* || 25     ||   14.4  ||    17.8       |
+| Pcom-F8   || *Porites compressa* || 25     ||   17.9  ||    17.8       |
 | Pacu-H1   || *Pocillopora acuta*  ||  18   || 20.5  ||      11.5       |
 | Pacu-D8   || *Pocillopora acuta* ||  25   ||  19.3  ||     13.3       |
 | Mcap-H1   || *Montipora capitata*  ||  18  ||  41.5 ||     12.7      |
