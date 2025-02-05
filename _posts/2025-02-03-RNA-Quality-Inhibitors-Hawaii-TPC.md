@@ -26,8 +26,8 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 | Mcap-H1   || *Montipora capitata*  ||  18  ||  41.5 ||     12.7      |
 | Mcap-D10  || *Montipora capitata* ||  26.8  ||  17.6  ||    12.5     |
 
-*before* PCR inhibitors removal
-*after* PCR inhibitors removal
+*before* PCR inhibitors removal - *after* PCR inhibitors removal
+
 
 **Nanodrop**
 - Expected 260/230 values are commonly in the range of 2.0-2.2. If the ratios are lower or abnormally higher it indicates the contamination of the samples with certain protein or phenolic compounds 
@@ -53,8 +53,7 @@ I'm using the same input for all samples, 924 ng in 55 ul (the kit wants a minim
 | Mcap-H1   || *Montipora capitata*  ||  18  || 40.4   ||    13.0       ||     9.5        ||      8.5           |
 | Mcap-D10  || *Montipora capitata* ||  26.8  ||  16.8  ||   13.0      ||      8.1        ||      7.9            |
 
-*before* PCR inhibitors removal (first tape run per sample in the image below)
-*after* PCR inhibitors removal (second tape run per sample in the image below)
+*before* PCR inhibitors removal (first tape run per sample in the image below) - *after* PCR inhibitors removal (second tape run per sample in the image below)
 
 ![TapeStation_RNA_PCRinhibitors.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/TapeStation_RNA_PCRinhibitors.png?raw=true)
 
