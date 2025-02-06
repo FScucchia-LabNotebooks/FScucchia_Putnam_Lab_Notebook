@@ -53,13 +53,11 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8   ||    ||  20   |
+|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8   || 0.208   ||  20   |
 |  20250205 || Pcom-F8   || *Porites compressa* || 25    ||      ||   32    |
-|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||        ||   12   |
+|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   1.41     ||   12   |
 |  20250205  || Pacu-D8  || *Pocillopora acuta* || 25   ||      ||    13    |
-|  20250205   || Mcap-G1 || *Montipora capitata*  || 18  ||     ||  30  |
-|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8  ||    ||  57   |
+|  20250205   || Mcap-G1 || *Montipora capitata*  || 18  ||  0.508   ||  30  |
+|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8  || 0.389   ||  57   |
 
 ![LibPrepRun10_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun10_complete.png?raw=true)
-
- - _Things to consider for next time_: 
