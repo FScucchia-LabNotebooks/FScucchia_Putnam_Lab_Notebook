@@ -38,16 +38,16 @@ Here's a breakdown of input RNA volume and quantity:
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1:     
-- Standard 2: 
+- Standard 1: 75.28   
+- Standard 2: 28194.13
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8  ||        ||      ||              |
-|  20250205 || Pcom-F8   || *Porites compressa* || 25 ||      ||     ||           |
-|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||         ||     ||            |
-|  20250205  || Pacu-D8  || *Pocillopora acuta* || 25  ||        ||         ||            |
-|  20250205   || Mcap-G1 || *Montipora capitata*  || 18 ||        ||       ||          |
-|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8 ||      ||        ||            |
+|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8  ||   0.222     || 0.210      || 0.216          |
+|  20250205 || Pcom-F8   || *Porites compressa* || 25 ||  too low    ||  too low    ||    too low        |
+|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   0.699      ||   0.701  || 0.700          |
+|  20250205  || Pacu-D8  || *Pocillopora acuta* || 25  ||  too low   ||   too low   ||    too low        |
+|  20250205   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
+|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
