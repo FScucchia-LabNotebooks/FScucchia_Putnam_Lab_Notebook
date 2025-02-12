@@ -41,30 +41,30 @@ Here's a breakdown of input RNA volume and quantity:
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1:     
-- Standard 2:  
+- Standard 1: 67.78     
+- Standard 2: 26433.03 
 
 | QBIT date  || sample_id  ||     Species       || Temp ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250212  || Pcom-G6 || *Porites compressa*  || 12 ||             ||             ||                 |
-|  20250212 || Pcom-E9   || *Porites compressa* || 30 ||             ||             ||                 |
-|  20250212  || Pacu-F9 || *Pocillopora acuta*  || 30 ||             ||             ||                 |
-|  20250212  || Mcap-F1  || *Montipora capitata* || 18 ||             ||             ||                 |
-|  20250212   || Pcom-F7 || *Porites compressa*  || 35 ||             ||             ||                 |
-|  20250212   || Mcap-E7  || *Montipora capitata* || 35 ||             ||             ||                 |
-|  20250212   || Mcap-F9 || *Montipora capitata*  || 30 ||             ||             ||                 |
-|  20250212   || Pacu-F11  || *Pocillopora acuta* || 26.8 ||           ||             ||                 |
+|  20250212  || Pcom-G6 || *Porites compressa*  || 12 ||    0.098   ||   0.09        || 0.094           |
+|  20250212 || Pcom-E9   || *Porites compressa* || 30 ||    2.90   ||    2.74         || 2.82            |
+|  20250212  || Pacu-F9 || *Pocillopora acuta*  || 30 ||    0.281  ||    0.27         || 0.276           |
+|  20250212  || Mcap-F1  || *Montipora capitata* || 18 ||   0.394  ||  0.362          || 0.378           |
+|  20250212   || Pcom-F7 || *Porites compressa*  || 35 ||   0.134  ||  0.120          || 0.127           |
+|  20250212   || Mcap-E7  || *Montipora capitata* || 35 ||  0.654  || 0.621           || 0.6375          |
+|  20250212   || Mcap-F9 || *Montipora capitata*  || 30 ||  1.56   ||   1.49          || 1.525           |
+|  20250212   || Pacu-F11  || *Pocillopora acuta* || 26.8 ||  0.271||  0.25           || 0.2605          |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250212  || Pcom-G6 || *Porites compressa*  || 12   ||       ||  59     |
-|  20250212 || Pcom-E9   || *Porites compressa* || 30    ||       ||  60     |
-|  20250212  || Pacu-F9 || *Pocillopora acuta*  || 30 ||       ||  61     |
-|  20250212  || Mcap-F1  || *Montipora capitata* || 18 ||       ||   62    |
-|  20250212   || Pcom-F7 || *Porites compressa*  || 35 ||       ||     63  |
-|  20250212   || Mcap-E7  || *Montipora capitata* || 35  ||       ||   64    |
-|  20250212   || Mcap-F9 || *Montipora capitata*  || 30  ||       ||   65    |
-|  20250212   || Pacu-F11  || *Pocillopora acuta* || 26.8  ||       ||  66     |
+|  20250212  || Pcom-G6 || *Porites compressa*  || 12   ||   0    ||  59     |
+|  20250212 || Pcom-E9   || *Porites compressa* || 30    || 4.09      ||  60     |
+|  20250212  || Pacu-F9 || *Pocillopora acuta*  || 30 ||  0.531     ||  61     |
+|  20250212  || Mcap-F1  || *Montipora capitata* || 18 ||  0.686     ||   62    |
+|  20250212   || Pcom-F7 || *Porites compressa*  || 35 ||  0.0547     ||     63  |
+|  20250212   || Mcap-E7  || *Montipora capitata* || 35  ||  1.02     ||   64    |
+|  20250212   || Mcap-F9 || *Montipora capitata*  || 30  || 1.31      ||   65    |
+|  20250212   || Pacu-F11  || *Pocillopora acuta* || 26.8  ||  0.343     ||  66     |
 
 ![LibPrepRun11_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun11_complete.png?raw=true)
