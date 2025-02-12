@@ -45,14 +45,14 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 - Standard 2:  
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250212  || Pcom-G10 || *Porites compressa*  || 26.8  ||   0.222     || 0.210      || 0.216          |
-|  20250212 || Pcom-F8   || *Porites compressa* || 25 ||  too low    ||  too low    ||    too low        |
-|  20250212  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   0.699      ||   0.701  || 0.700          |
-|  20250212  || Pacu-D8  || *Pocillopora acuta* || 25  ||  too low   ||   too low   ||    too low        |
-|  20250212   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
-|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
-|  20250212   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
-|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
+|  20250212  || Pcom-G6 || *Porites compressa*  || 26.8  ||   0.222     || 0.210      || 0.216          |
+|  20250212 || Pcom-E9   || *Porites compressa* || 25 ||  too low    ||  too low    ||    too low        |
+|  20250212  || Pacu-F9 || *Pocillopora acuta*  || 18 ||   0.699      ||   0.701  || 0.700          |
+|  20250212  || Mcap-F1  || *Montipora capitata* || 25  ||      ||     ||         |
+|  20250212   || Pcom-F7 || *Porites compressa*  || 18 ||  0.432      || 0.430      || 0.431          |
+|  20250212   || Mcap-E7  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
+|  20250212   || Mcap-F9 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
+|  20250212   || Pacu-F11  || *Pocillopora acuta* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
