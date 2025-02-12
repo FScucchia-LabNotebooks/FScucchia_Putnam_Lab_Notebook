@@ -30,14 +30,14 @@ I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 sam
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-|  Pcom-G6    || 35.8   ||    ||      ||       20        |
-|  Pcom-E9    || 45.9   ||    ||          ||      20       |
-|  Pacu-F9    || 34.1   ||     ||       ||        20        |
-|  Mcap-F1    || 17.3   ||    ||       ||       20        |
-|  Pcom-F7    || 43.4   ||     ||         ||       20     |
-|  Mcap-E7    || 57.2   ||    ||           ||    20       |
-|  Mcap-F9    || 16.9   ||    ||            ||       20     |
-|  Pacu-F11   || 19     ||     ||             ||    20       |
+|  Pcom-G6    || 35.8   || 0.56   || 4.44 ||       20        |
+|  Pcom-E9    || 45.9   || 0.44   || 4.56     ||      20       |
+|  Pacu-F9    || 34.1   || 0.59   || 4.41  ||        20        |
+|  Mcap-F1    || 17.3   || 1.16   || 3.84  ||       20        |
+|  Pcom-F7    || 43.4   || 0.46   || 4.54   ||       20     |
+|  Mcap-E7    || 57.2   || 0.35   || 4.65     ||    20       |
+|  Mcap-F9    || 16.9   || 1.18   || 3.82      ||       20     |
+|  Pacu-F11   || 19     || 1.05   || 3.95       ||    20       |
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
