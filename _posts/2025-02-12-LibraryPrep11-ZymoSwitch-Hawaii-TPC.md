@@ -30,37 +30,41 @@ I ran the library prep protocol linked above. I used 21 PCR cycles. With 6-8 sam
 Here's a breakdown of input RNA volume and quantity:
 
 | sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
-|      ||        ||   1.54 ||     3.46    ||       20        |
-|      ||        || 1.12  ||     3.88      ||      20       |
-|      ||        ||   1.74  ||   3.26     ||        20        |
-|      ||        ||  1.57 ||   3.43     ||       20        |
-|      ||        ||   1.60  ||    3.40         ||       20     |
-|      ||        ||   1.50 ||   3.50         ||    20       |
-|      ||        ||   1.60  ||    3.40         ||       20     |
-|      ||        ||   1.50 ||   3.50         ||    20       |
+|  Pcom-G6    || 35.8   ||    ||      ||       20        |
+|  Pcom-E9    || 45.9   ||    ||          ||      20       |
+|  Pacu-F9    || 34.1   ||     ||       ||        20        |
+|  Mcap-F1    || 17.3   ||    ||       ||       20        |
+|  Pcom-F7    || 43.4   ||     ||         ||       20     |
+|  Mcap-E7    || 57.2   ||    ||           ||    20       |
+|  Mcap-F9    || 16.9   ||    ||            ||       20     |
+|  Pacu-F11   || 19     ||     ||             ||    20       |
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1: 75.28   
-- Standard 2: 28194.13
+- Standard 1:     
+- Standard 2:  
 
 | QBIT date  || sample_id  ||     Species       || Temp   ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8  ||   0.222     || 0.210      || 0.216          |
-|  20250205 || Pcom-F8   || *Porites compressa* || 25 ||  too low    ||  too low    ||    too low        |
-|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   0.699      ||   0.701  || 0.700          |
-|  20250205  || Pacu-D8  || *Pocillopora acuta* || 25  ||  too low   ||   too low   ||    too low        |
-|  20250205   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
-|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
+|  20250212  || Pcom-G10 || *Porites compressa*  || 26.8  ||   0.222     || 0.210      || 0.216          |
+|  20250212 || Pcom-F8   || *Porites compressa* || 25 ||  too low    ||  too low    ||    too low        |
+|  20250212  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   0.699      ||   0.701  || 0.700          |
+|  20250212  || Pacu-D8  || *Pocillopora acuta* || 25  ||  too low   ||   too low   ||    too low        |
+|  20250212   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
+|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
+|  20250212   || Mcap-G1 || *Montipora capitata*  || 18 ||  0.432      || 0.430      || 0.431          |
+|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8 ||  0.439    ||   0.426     || 0.4325         |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250205  || Pcom-G10 || *Porites compressa*  || 26.8   || 0.208   ||  20   |
-|  20250205 || Pcom-F8   || *Porites compressa* || 25    ||      ||   32    |
-|  20250205  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   1.41     ||   12   |
-|  20250205  || Pacu-D8  || *Pocillopora acuta* || 25   ||      ||    13    |
-|  20250205   || Mcap-G1 || *Montipora capitata*  || 18  ||  0.508   ||  30  |
-|  20250205   || Mcap-F10  || *Montipora capitata* || 26.8  || 0.389   ||  57   |
+|  20250212  || Pcom-G10 || *Porites compressa*  || 26.8   || 0.208   ||  20   |
+|  20250212 || Pcom-F8   || *Porites compressa* || 25    ||      ||   32    |
+|  20250212  || Pacu-H1 || *Pocillopora acuta*  || 18 ||   1.41     ||   12   |
+|  20250212  || Pacu-D8  || *Pocillopora acuta* || 25   ||      ||    13    |
+|  20250212   || Mcap-G1 || *Montipora capitata*  || 18  ||  0.508   ||  30  |
+|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8  || 0.389   ||  57   |
+|  20250212   || Mcap-G1 || *Montipora capitata*  || 18  ||  0.508   ||  30  |
+|  20250212   || Mcap-F10  || *Montipora capitata* || 26.8  || 0.389   ||  57   |
 
 ![LibPrepRun10_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun10_complete.png?raw=true)
