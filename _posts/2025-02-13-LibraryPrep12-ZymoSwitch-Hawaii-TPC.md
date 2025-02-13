@@ -39,32 +39,32 @@ Here's a breakdown of input RNA volume and quantity:
 
 ## Qubit Results
 I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
-- Standard 1:    
-- Standard 2: 
+- Standard 1: 66.40    
+- Standard 2: 28121.89
 
 | QBIT date  || sample_id  ||     Species       || Temp ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
-|  20250213  || Pcom-G6 || *Porites compressa*  || 12 ||    0.098   ||   0.09        || 0.094           |
-|  20250213 || Pcom-E9   || *Porites compressa* || 30 ||    2.90   ||    2.74         || 2.82            |
-|  20250213  || Pacu-F9 || *Pocillopora acuta*  || 30 ||    0.281  ||    0.27         || 0.276           |
-|  20250213  || Mcap-F1  || *Montipora capitata* || 18 ||   0.394  ||  0.362          || 0.378           |
-|  20250213   || Pcom-F7 || *Porites compressa*  || 35 ||   0.134  ||  0.120          || 0.127           |
-|  20250213   || Mcap-E7  || *Montipora capitata* || 35 ||  0.654  || 0.621           || 0.6375          |
-|  20250213   || Mcap-F9 || *Montipora capitata*  || 30 ||  1.56   ||   1.49          || 1.525           |
-|  20250213   || Pacu-F11  || *Pocillopora acuta* || 26.8 ||  0.271||  0.25           || 0.2605          |
+|  20250213  || Mcap-G11 || *Montipora capitata*  || 26.8 || 0.826  ||   0.786   || 0.806           |
+|  20250213 || Pcom-F9   || *Porites compressa* || 30 ||  0.289   ||    0.278      || 0.284         |
+|  20250213  || Pacu-B10 || *Pocillopora acuta*  || 26.8 || 1.52    || 1.43   || 1.475           |
+|  20250213  || Pacu-G6  || *Pocillopora acuta* || 12 ||  0.784    || 0.699    || 0.742         |
+|  20250213   || Mcap-H7 || *Montipora capitata*  || 35 ||  2.68  ||   2.58    || 2.63           |
+|  20250213   || Mcap-E1  || *Montipora capitata* || 18 ||  5.10  || 4.84     || 4.97           |
+|  20250213   || Pacu-G9 || *Pocillopora acuta*  || 30 ||  2.3    ||  2.25    || 2.275          |
+|  20250213   || Pcom-E6  || *Porites compressa* || 12 ||   0.403 ||  0.380    || 0.392        |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250213  || Pcom-G6 || *Porites compressa*  || 12   ||   0    ||  59     |
-|  20250213 || Pcom-E9   || *Porites compressa* || 30    || 4.09      ||  60     |
-|  20250213  || Pacu-F9 || *Pocillopora acuta*  || 30 ||  0.531     ||  61     |
-|  20250213  || Mcap-F1  || *Montipora capitata* || 18 ||  0.686     ||   62    |
-|  20250213   || Pcom-F7 || *Porites compressa*  || 35 ||  0.0547     ||     63  |
-|  20250213   || Mcap-E7  || *Montipora capitata* || 35  ||  1.02     ||   64    |
-|  20250213   || Mcap-F9 || *Montipora capitata*  || 30  || 1.31      ||   65    |
-|  20250213   || Pacu-F11  || *Pocillopora acuta* || 26.8  ||  0.343     ||  66     |
+|  20250213  || Mcap-G11 || *Montipora capitata*  || 26.8   ||       ||  67     |
+|  20250213 || Pcom-F9   || *Porites compressa* || 30    ||       ||  68     |
+|  20250213  || Pacu-B10 || *Pocillopora acuta*  || 26.8 ||       ||  69     |
+|  20250213  || Pacu-G6  || *Pocillopora acuta* || 12 ||       ||  70     |
+|  20250213   || Mcap-H7 || *Montipora capitata*  || 35 ||       ||  71     |
+|  20250213   || Mcap-E1  || *Montipora capitata* || 18  ||       ||   72    |
+|  20250213   || Pacu-G9 || *Pocillopora acuta*  || 30  ||       ||  73     |
+|  20250213   || Pcom-E6  || *Porites compressa* || 12  ||       ||   74    |
 
-![LibPrepRun11_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun11_complete.png?raw=true)
+![LibPrepRun12_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun12_complete.png?raw=true)
 
- - _Things to consider for next time_: this PCR inhibitor removal kit doesn't seem to improve things (I've tried it on 14 samples and none of them worked), so I will go back to the library prep withou using it.
+ - _Things to consider for next time_: increasing the number of PCR cycles to 22 doesn't improve things. Need to re-think about a strategy with these samples.

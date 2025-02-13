@@ -40,6 +40,7 @@ This is the project summary for RNA extractions and library preparation for TagS
   - [Library prep of 2025-01-28](#library-prep-of-2025-01-28)
   - [Library prep of 2025-02-05](#library-prep-of-2025-02-05)
   - [Library prep of 2025-02-12](#library-prep-of-2025-02-12)
+  - [Library prep of 2025-02-13](#library-prep-of-2025-02-13)
   
 ---
 ## Extractions
@@ -873,3 +874,33 @@ This is the project summary for RNA extractions and library preparation for TagS
 |  20250205   || Mcap-F10  || *Montipora capitata* || 26.8  || 0.389   ||  57   |
 
 ![LibraryPrepZymoRun11.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun11.png?raw=true)
+
+### Library prep of 2025-02-13
+
+- Link to [post](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/LibraryPrep12-ZymoSwitch-Hawaii-TPC/)
+
+**Input RNA volumes for each sample**
+
+| sample_id || RNA_QBIT_AVG (ng/uL) || RNA (uL) || Ultrapure water (uL) || Total input RNA (ng) |
+|  Mcap-G11  || 14     || 1.79   || 3.21   ||       25        |
+|  Pcom-F9   || 46.8   || 0.53   || 4.47   ||      25       |
+|  Pacu-B10  || 153.5  || 0.16   || 4.84   ||       25        |
+|  Pacu-G6   || 43.8   || 0.57   || 4.43   ||       25        |
+|  Mcap-H7   || 42.9   || 0.58   || 4.42   ||       25     |
+|  Mcap-E1   || 48.7   || 0.51   || 4.49   ||    25       |
+|  Pacu-G9   || 13.9   || 1.80   || 3.20   ||      25     |
+|  Pcom-E6   || 24.3   || 1.03   || 3.97   ||    25       |
+
+**Qubit**
+
+| QBIT date  || sample_id  ||     Species       || Temp ||  DNA read1 || DNA read2  || DNA_AVG (ng/ul) |
+|  20250213  || Mcap-G11 || *Montipora capitata*  || 26.8 || 0.826  ||   0.786   || 0.806           |
+|  20250213 || Pcom-F9   || *Porites compressa* || 30 ||  0.289   ||    0.278      || 0.284         |
+|  20250213  || Pacu-B10 || *Pocillopora acuta*  || 26.8 || 1.52    || 1.43   || 1.475           |
+|  20250213  || Pacu-G6  || *Pocillopora acuta* || 12 ||  0.784    || 0.699    || 0.742         |
+|  20250213   || Mcap-H7 || *Montipora capitata*  || 35 ||  2.68  ||   2.58    || 2.63           |
+|  20250213   || Mcap-E1  || *Montipora capitata* || 18 ||  5.10  || 4.84     || 4.97           |
+|  20250213   || Pacu-G9 || *Pocillopora acuta*  || 30 ||  2.3    ||  2.25    || 2.275          |
+|  20250213   || Pcom-E6  || *Porites compressa* || 12 ||   0.403 ||  0.380    || 0.392        |
+
+**TapeStation**
