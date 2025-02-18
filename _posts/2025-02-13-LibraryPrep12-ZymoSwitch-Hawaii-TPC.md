@@ -56,14 +56,14 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||     Species       || Temp   || TapeStation conc. ||   Primer set  |
-|  20250213  || Mcap-G11 || *Montipora capitata*  || 26.8   ||       ||  67     |
-|  20250213 || Pcom-F9   || *Porites compressa* || 30    ||       ||  68     |
-|  20250213  || Pacu-B10 || *Pocillopora acuta*  || 26.8 ||       ||  69     |
-|  20250213  || Pacu-G6  || *Pocillopora acuta* || 12 ||       ||  70     |
-|  20250213   || Mcap-H7 || *Montipora capitata*  || 35 ||       ||  71     |
-|  20250213   || Mcap-E1  || *Montipora capitata* || 18  ||       ||   72    |
-|  20250213   || Pacu-G9 || *Pocillopora acuta*  || 30  ||       ||  73     |
-|  20250213   || Pcom-E6  || *Porites compressa* || 12  ||       ||   74    |
+|  20250213  || Mcap-G11 || *Montipora capitata*  || 26.8   ||   1.63    ||  67     |
+|  20250213 || Pcom-F9   || *Porites compressa* || 30    ||  0.198     ||  68     |
+|  20250213  || Pacu-B10 || *Pocillopora acuta*  || 26.8 ||  2.41     ||  69     |
+|  20250213  || Pacu-G6  || *Pocillopora acuta* || 12 ||  1.26     ||  70     |
+|  20250213   || Mcap-H7 || *Montipora capitata*  || 35 ||  4.48      ||  71     |
+|  20250213   || Mcap-E1  || *Montipora capitata* || 18  || 5.67       ||   72    |
+|  20250213   || Pacu-G9 || *Pocillopora acuta*  || 30  || 5.96    ||  73     |
+|  20250213   || Pcom-E6  || *Porites compressa* || 12  ||  0.599     ||   74    |
 
 ![LibPrepRun12_complete.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/LibPrepRun12_complete.png?raw=true)
 
