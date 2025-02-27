@@ -6,7 +6,7 @@ category: [ Physiology ]
 tags: [ Coral, Protein, Algae count, Chlorophyll ]
 ---
 
-#### Preparing Coral Homogenate for Physiological Analyses for the Hawaii TPC samples
+#### Preparing Coral Homogenate for Physiological Analyses for the Hawaii TPC ENCORE project
 
 **Protocols used**
 - [Airbrushing protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Airbrushing-Protocol/)

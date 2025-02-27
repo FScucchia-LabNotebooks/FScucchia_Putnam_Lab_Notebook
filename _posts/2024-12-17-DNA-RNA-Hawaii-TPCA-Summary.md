@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Project Summary - RNA-DNA Extractions and Library Prep - Pacu, Mcap, Pcomp - Hawai TPC Project
+title: Project Summary - RNA-DNA Extractions and Library Prep - Pacu, Mcap, Pcomp - Hawai TPC ENCORE Project
 date: '2024-12-16'
 category: Summary
 tags: [RNA, DNA, Zymo]
 ---
 
-#### Summary RNA-DNA extractions from fragments of _Pocillopora acuta_, _Montipora capitata_, _Porites compressa_ and Library Prep for the Hawaii TPC project
+#### Summary RNA-DNA extractions from fragments of _Pocillopora acuta_, _Montipora capitata_, _Porites compressa_ and Library Prep for the Hawaii TPC ENCORE project
 
 This is the project summary for RNA extractions and library preparation for TagSeq sequencing for gene expression analysis. The samples were collected in September 2023 as part of the ENCORE TPC-PI experiment. Libraries were prepared using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) and sent for sequencing.
 
