@@ -12,7 +12,7 @@ tags: [ Coral, Protein, Algae count, Chlorophyll ]
 - [Airbrushing protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Airbrushing-Protocol/)
 
 I followed the above protocol to separate the tissue from the skeleton, which will then be used for surface area measurements using the wax-dipping method.
-I divided the tissue homogenate into aliquots as follow (aliquots were then stored at -20° or -80°):
+I divided the tissue homogenate into aliquots as follows (aliquots were then stored at -20° or -80°):
 
 - Chlorophyll and Symbiont Density - 1.5 ml
 - Protein - 1.5 ml
