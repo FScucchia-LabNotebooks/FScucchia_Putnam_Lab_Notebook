@@ -21,6 +21,7 @@ I divided the tissue homogenate into aliquots as follows (aliquots were then sto
 - Spare - 1.5 ml + 5 ml (if enough tissue)
 
 **Sample list**
+
 Here is the list of samples that were processed:
 
 | Date || Sample name || Temp Cat || Volum of PBS added (ml) |
