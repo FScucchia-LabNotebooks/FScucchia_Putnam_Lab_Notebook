@@ -11,7 +11,8 @@ tags: [ Coral, Protein, Algae count, Chlorophyll ]
 **Protocols used**
 - [Airbrushing protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Airbrushing-Protocol/)
 
-I followed the above protocol to separate the tissue from the skeleton, which will then be used for surface area measurements using the wax-dipping method.
+I followed the above protocol to separate the tissue from the skeleton, which will then be used for surface area measurements using the wax-dipping method. The fragments belong to the species _Pocillopora acuta_ (Pacu), _Montipora capitata_ (Mcap) and _Porites compressa_ (Pcom).
+
 I divided the tissue homogenate into aliquots as follows (aliquots were then stored at -20° or -80°):
 
 - Chlorophyll and Symbiont Density - 1.5 ml
@@ -25,13 +26,31 @@ I divided the tissue homogenate into aliquots as follows (aliquots were then sto
 Here is the list of samples that were processed:
 
 | Date || Sample name || Temp Cat || Volum of PBS added (ml) |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-|      ||             ||          ||                         |
-
-
+| 20250221    ||  Pacu-C1           ||  18        ||     11                    |
+| 20250221    ||  Pacu-D10           ||  26.8        ||     11                    |
+| 20250223     ||  Pcom-C9           ||  30        ||      26                   |
+| 20250223      || Pcom-E10          ||  26.8        ||    41                     |
+| 20250223      || Mcap-H10           || 26.8         ||   31                      |
+| 20250223      || Mcap-A8            || 25         ||     22                    |
+| 20250223      || Mcap-E1            || 18         ||     32.5                    |
+| 20250223      || Pacu-E8            || 25         ||     6                    |
+| 20250223      || Pacu-E9            ||   30       ||    5                    |
+| 20250224      || Pcom-A1            ||   18       ||    31                     |
+| 20250224      || Pcom-C1            ||   18       ||    32.5                     |
+| 20250224      || Pacu-A8            ||   25       ||    12.5                     |
+| 20250224      || Mcap-H8            ||   25       ||    15                     |
+| 20250224      || Mcap-C8            ||   25       ||    35                     |
+| 20250224      || Pcom-E1            ||   18       ||    54                     |
+| 20250224      || Pacu-D1            ||   18       ||    6.5                     |
+| 20250225      || Pcom-E9           ||  30        ||    67                    |
+| 20250225      || Pacu-D9           ||  30        ||    11                    |
+| 20250225      || Mcap-D9           ||  30        ||    21                    |
+| 20250225      || Mcap-D1           ||  18       ||     17.5                   |
+| 20250225      || Pcom-E8           ||   25      ||     37.5                   |
+| 20250225      || Pacu-C8           ||   25      ||     17.5                   |
+| 20250225      || Pacu-D8           ||   25      ||     8                   |
+| 20250225      || Pcom-C8           ||  25      ||      43                  |
+| 20250225      || Mcap-D8           ||   25      ||     16                   |
+| 20250225      || Pcom-A8           ||  25       ||     65                   |
+| 20250225      || Mcap-E8           || 25        ||     13                   |
+| 20250225      || Pcom-D8           || 25        ||     37.5                   |
