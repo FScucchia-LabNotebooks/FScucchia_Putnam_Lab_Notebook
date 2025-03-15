@@ -33,17 +33,17 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
 1. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge tube with the Vial ID ("A", "B", etc.).  
 
-| Vial || Volume of Diluent (μL) || Volume of Source of BSA (μL) || Final BSA Concentration (μg/mL) ||
-|------|------------------------|------------------------------|---------------------------------|
-| A    | 0                      | 300 of Stock                 | 2000                            |
-| B    | 125                    | 375 of Stock                 | 1500                            |
-| C    | 325                    | 325 of Stock                 | 1000                            |
-| D    | 175                    | 175 of vial B dilution       | 750                             |
-| E    | 325                    | 325 of vial C dilution       | 500                             |
-| F    | 325                    | 325 of vial E dilution       | 250                             |
-| G    | 325                    | 325 of vial F dilution       | 125                             |
-| H    | 400                    | 100 of vial G dilution       | 25                              |
-| I    | 400                    | 0 (Blank)                    | 0                               |
+| Vial || Volume of Diluent (μL) || Volume of Source of BSA (μL) || Final BSA Concentration (μg/mL) |
+|------||------------------------||------------------------------||---------------------------------|
+| A    || 0                      || 300 of Stock                 || 2000                            |
+| B    || 125                    || 375 of Stock                 || 1500                            |
+| C    || 325                    || 325 of Stock                 || 1000                            |
+| D    || 175                    || 175 of vial B dilution       || 750                             |
+| E    || 325                    || 325 of vial C dilution       || 500                             |
+| F    || 325                    || 325 of vial E dilution       || 250                             |
+| G    || 325                    || 325 of vial F dilution       || 125                             |
+| H    || 400                    || 100 of vial G dilution       || 25                              |
+| I    || 400                    || 0 (Blank)                    || 0                               |
 
 **Preparation of the BCA Working Reagent (WR)**   
 1. Use the following formula to determine the total volume of WR required:  
