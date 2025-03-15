@@ -49,10 +49,8 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 1. Use the following formula to determine the total volume of WR required:  
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required  
 I will use here 2 replicates for the standards and 3 replicates for each sample. The Working Reagent (WR) to be added in the plate is 200uL, I'm using 200.5uL in the equation to account volume lost during pipetting.
- 
-> *(18 standards (9*2 rep) + 18 samples (6*3 rep)) x (200.5 μL of Working reagent WR) = total volume of WR required*  
+> *(18 standards (9x2 rep) + 18 samples (6x3 rep)) x (200.5 μL of Working reagent WR) = total volume of WR required*  
 (18 standards + 18 samples) x (200.5 μL of WR) = 7,218 μL WR  
-
 2. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a sterile glass bottle of the appropriate size based on how many samples are going to be run.  
 
 **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**  
