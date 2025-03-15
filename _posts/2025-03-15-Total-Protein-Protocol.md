@@ -33,7 +33,7 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
 1. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge tube with the Vial ID ("A", "B", etc.).  
 
-| Vial | Volume of Diluent (μL) | Volume of Source of BSA (μL) | Final BSA Concentration (μg/mL) |
+| Vial || Volume of Diluent (μL) || Volume of Source of BSA (μL) || Final BSA Concentration (μg/mL) ||
 |------|------------------------|------------------------------|---------------------------------|
 | A    | 0                      | 300 of Stock                 | 2000                            |
 | B    | 125                    | 375 of Stock                 | 1500                            |
