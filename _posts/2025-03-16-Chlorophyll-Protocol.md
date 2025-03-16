@@ -44,10 +44,13 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 
 **Measure the Absorbance**
     1.Open the Gen5 software on your computer.
+
     2.Once Gen5 opens on the computer you can select the pre-made protocol from the drop down menu.
+
     4.The plate loader should automatically open.Once the software is open on the computer.
-    5.Place the 96 quart plate in the plate reader.
-    5.To measure Absorbance, select the pre-made 'Chlorophyll Protocol' option and press the green start protocol button and allow to run through the 630,663 and 750nm.
+
+    5.Place the 96 quart plate in the plate reader. To measure Absorbance, select the pre-made 'Chlorophyll Protocol' option and press the green start protocol button and allow to run through the 630,663 and 750nm.
+
     6.Export the raw GEN5 software data file and a CSV to the Desktop in a designated folder.
 
 **Calculating Chlorophyll Concentration**
@@ -59,7 +62,5 @@ Need to correct for differences in path length of the volume in the 96 well plat
 R code for this analysis can be found at [K. Wong's Github](https://urldefense.proofpoint.com/v2/url?u=https-3A__github.com_kevinhwong1_Thermal-5FTransplant-5F2017-2D2018_blob_master_scripts_ChlorophyllA.R&d=DwMFaQ&c=dWz0sRZOjEnYSN4E4J0dug&r=hzX7Pj5Cn4ufjLQbICvWcOqlrencJyNZMIrmCT00z_o&m=Hpn_SeiBeA7gle40eXLMx3-j3YSrgRHCsOsZ3E5cSGA&s=q5PUrza32gdiEvIa0nI8pMvjeaMw9LFkIDujTh_tGPw&e=).
 
 <a name="References"></a> **References**
- 1.  [Jeffrey and Humphrey 1975](https://reader.elsevier.com/reader/sd/pii/S0015379617307783?token=0937035D38C07F29ADF00F1F2A21F20F221219B1CC11A444A4F84D16B98EC3A6AD941D191BA2135A68C98BA62A0B69FE)
-    2. [Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
-    3. [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf)
-    4. [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf)
+    1. [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf)
+    2. [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf)
