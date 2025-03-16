@@ -43,6 +43,7 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 13. Standardize for path length in 200µl of sample in 96-well quartz plate.
 
 **Measure the Absorbance**
+
     1.Open the Gen5 software on your computer.
 
     2.Once Gen5 opens on the computer you can select the pre-made protocol from the drop down menu.
