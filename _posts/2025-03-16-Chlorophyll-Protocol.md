@@ -28,7 +28,7 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 8. Centrifuge for 5 minutes at 5000rpm at 4°C.
 9. Remove the supernatant thoroughly
 10. Resuspend the algae with 1ml PBS and homogenize.
-11.	Take 100ul for algae count, freeze and store. 
+11.	Take 100ul for algae count (hemocytometer), freeze and store. 
 12.	Centrifuge the rest of the 1mL for 5 minutes at 5000rpm at 4°C.
 13.	Remove the supernatant thoroughly
 14. Add 1 mL of 100% acetone to the pellet in the 1.5 mL microcentrifuge tube and vortex the tubes to mix.
