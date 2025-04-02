@@ -39,28 +39,29 @@ All specific equipment for use can be found in the GUAVA manual.
 _Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
 
 **Measuring symbiont cell density**
-##### System Start-up
+#### System Start-up
 1. Turn on the laptop computer.
 2. When the computer is finished booting up, turn on the guava easyCyte HT System. The power switch is located half-way up on the right side at the back of the instrument.
 3. Start guavaSoft Software by double-clicking the guavaSoft application icon on the desktop.
 
-##### System prime
+#### System prime
 1. Prime the system by performing a complete cleaning procedure.
 2. Click on the “Essential Tools” option and open the “Cleaning” module. Click on “Start clean”: the tray will eject. 
 3. The tubes from the previous procedures will be on the tray
 4. If tubes are one day old-refill the tubes with MilliQ water or ICF in the proper locations. If more than one day old, replace tubes that appear to be contaminated or dirty. 
 5. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for 15mins each). Do this at least once if not enough time or Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
 6. Select the CS tube (position 9) as the “Capillary shutdown” tube, as system won’t be in use immediately.
-![wells.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true)
-<img align="right" width="100" height="100" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
+<img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
 
-##### Capillary Shutdown
+#### Capillary Shutdown
 
 1. The “Capillary Shutdown” procedure is automatically done at the end of the “Clean” procedure.
 2. The capillary is placed into a tube of water and can stay like this until acquisition without any risk of drying particles on the capillary glass wall.
 
-##### Backflushig the Fluid System
+#### Backflushig the Fluid System
 
 1. If the fluid system is suspected as being blocked, click “Backflush” on the easyCheck screen, or any Guava assay screen. A message should appear on the screen with a prompt to select the well/tube to be used for backflushing – the default position is w1, conaining 100ul of bleach 
+
+<img align="right" width="100" height="100" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
 
 
