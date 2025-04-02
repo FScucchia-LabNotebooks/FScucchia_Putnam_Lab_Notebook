@@ -118,7 +118,30 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 1.	Whenever leaving a system ON and NOT IN USE - do quick clean then Capillary Shutdown. 
 2. Before beginning a sample run do a “quick clean”, automatically select quick clean after 12 sample wells in work list edit.
-3. Approximately three Quick Clean cycles can be performed from a single well in a plate containing 250ul and seven Quick Cleans from a 1.5-mL tube containing 1.5 mL of fluid before well or tube runs. 
+3. Approximately three Quick Clean cycles can be performed from a single well in a plate containing 250ul and seven Quick Cleans from a 1.5-mL tube containing 1.5 mL of fluid before well or tube runs.
+dry and reach dead volume. Ensure cleaning tube is filled up during long runs (pause run, eject tray, top up cleaning tube, load tray, restart run).
+
+#### Capillary Shutdown
+
+1. At the end of your sample acquisition, close the “InCyte” module, open the “Cleaning” module and perform a “Capillary Shutdown” procedure, to make sure that the capillary is not getting dry. 
+2. Always use the CS tube in position 9.
+3. Never let the Guava stand overnight without making sure that the capillary has been cleaned and that “Capillary shutdown” procedure has been performed.
+
+#### GUAVA SHUT DOWN 
+1. Quit “InCyte” module and go to the “Cleaning” module. Click on “Start clean”: the tray will eject.
+<img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells3.png?raw=true">
+2. Remove the tubes corresponding to the ‘acquisition clean’ procedure.
+3. Place the cleaning tubes on the tray (prepare a new set every day). Use “short” 0.5mL, free standing Microtubes to spare reagents.
+
+W 	Wash tubes- 1400µL water in 1.5mL tubes
+B 	Backflush - empty 1.5mL tube
+C 	clean/rinse 750µL ICF – short 0.5ml free standing tube for this to save on ICF.
+CS 	Capillary Shutdown 1400 µL water in 1.5mL tubes
+
+4. Run the “Clean” procedure to wash the system TWICE (lasts 15min each run), do this AT LEAST ONCE if no time.
+5. Select the CS tube (position 9) as the “Capillary shutdown” tube. The “Capillary shutdown” procedure is automatically done at the end of the “Clean” procedure.
+
+
 
 
 
