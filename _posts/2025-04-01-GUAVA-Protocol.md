@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Symbiont cell density count protocol - GUAVA
+title: Symbiont cell count protocol - GUAVA
 date: '2025-03-15'
 category: [ Physiology ]
 tags: [ Coral, Chlorophyll]
@@ -11,6 +11,7 @@ tags: [ Coral, Chlorophyll]
 **Instrument details**
 
 This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located at the URI Coastal Institute Building (Bay Campus).
+
 ![GUAVA.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/GUAVA.png?raw=true)
 
 **Equipment for GUAVA**
@@ -52,4 +53,14 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 6. Select the CS tube (position 9) as the “Capillary shutdown” tube, as system won’t be in use immediately.
 ![wells.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true)
 <img align="right" width="100" height="100" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
+
+##### Capillary Shutdown
+
+1. The “Capillary Shutdown” procedure is automatically done at the end of the “Clean” procedure.
+2. The capillary is placed into a tube of water and can stay like this until acquisition without any risk of drying particles on the capillary glass wall.
+
+##### Backflushig the Fluid System
+
+1. If the fluid system is suspected as being blocked, click “Backflush” on the easyCheck screen, or any Guava assay screen. A message should appear on the screen with a prompt to select the well/tube to be used for backflushing – the default position is w1, conaining 100ul of bleach 
+
 
