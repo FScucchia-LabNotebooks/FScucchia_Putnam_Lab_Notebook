@@ -105,7 +105,7 @@ _Note_: If you are using a microplate, make sure well A1 of the plate is in the 
 #### easyCheck Results
 
 The software displays %CVs and averages for particles/mL (bead count), FSC and SSC intensities, and GRN, YLW, RED, NIR, RED2, and NIR2 (if applicable) mean fluorescence intensity (MFI) for three replicates.
-1.	If any result for Particles/mL falls outside ±10% of the expected value, the result is outside the acceptable range and appears in red. For example, if the actual particle count is 50,000, the acceptable Particles/mL range (±10%) is 45,000 to 55,000.
+1. If any result for Particles/mL falls outside ±10% of the expected value, the result is outside the acceptable range and appears in red. For example, if the actual particle count is 50,000, the acceptable Particles/mL range (±10%) is 45,000 to 55,000.
 2. If the %CV for Particles/mL is >10%, it appears in red.
 3. The %CV for FSC and SSC Intensities, and GRN/YLW/RED/NIR/RED2/NIR2 MFI for the three replicates should be <5%.
 4. Refer to the information card that comes with the guava easyCheck Kit for the acceptable intensity ranges for each parameter.
@@ -115,7 +115,7 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 1. Once the worklist is created, the tray will open: you can now place your plate. 
 2. Make sure that the tubes Q (DI water) and C (ICF) are filled up before starting the acquisition. Check these tubes every time you put a new plate, since a cleaning procedure is automatically performed at the end of a plate acquisition.
-3. Settings can only be saved after settings have been adjusted, before running the worklist.
+3. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
 4. For optimal acquisition, use cells at a concentration of 500 cells/µL.
 5. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
 6. If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
@@ -123,7 +123,7 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 #### Quick Clean
 
-1.	Whenever leaving a system ON and NOT IN USE - do quick clean then Capillary Shutdown. 
+1. Whenever leaving a system ON and NOT IN USE - do quick clean then Capillary Shutdown. 
 2. Before beginning a sample run do a “quick clean”, automatically select quick clean after 12 sample wells in work list edit.
 3. Approximately three Quick Clean cycles can be performed from a single well in a plate containing 250ul and seven Quick Cleans from a 1.5-mL tube containing 1.5 mL of fluid before well or tube runs.
 dry and reach dead volume. Ensure cleaning tube is filled up during long runs (pause run, eject tray, top up cleaning tube, load tray, restart run).
