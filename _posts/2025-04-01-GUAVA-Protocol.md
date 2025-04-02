@@ -17,7 +17,7 @@ This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located a
 **Equipment for GUAVA**
 
 All specific equipment for use can be found in the GUAVA manual. 
-- 96 well plates with round bottoms
+- 96 well plates with round bottoms, [like these](https://ecatalog.corning.com/life-sciences/b2c/US/en/Microplates/Assay-Microplates/96-Well-Microplates/Corning%C2%AE-96-well-Clear-Polystyrene-Microplates/p/3797)
 - 1.5mL tubes
 - ICF solution 
 - Bleach (sodium hypochlorite solution) 
