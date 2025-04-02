@@ -73,10 +73,15 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 3. Place the “acquisition” cleaning tubes on the tray.
 
 S 	Spin/dry empty (use regular 1.5mL tubes) 
+
 W 	Mixer wash 1400µL water in 1.5mL tubes
+
 Q 	Quick clean 1400µL water in 1.5mL tubes
+
 B 	Backflush - empty 1.5mL tubes
+
 C 	Clean/Rinse 750µL ICF – short 500uL free standing tube for this to save on ICF.
+
 CS 	Capillary Shutdown 1400µL water in 1.5mL tubes
 
 4. Before doing a Guava easyCheck with beads- perform one “Clean & Rinse” or “Quick clean” in InCyte to clean the system. The system is now ready for sample acquisition.
@@ -137,8 +142,11 @@ dry and reach dead volume. Ensure cleaning tube is filled up during long runs (p
 3. Place the cleaning tubes on the tray (prepare a new set every day). Use “short” 0.5mL, free standing Microtubes to spare reagents.
 
 W 	Wash tubes- 1400µL water in 1.5mL tubes
+
 B 	Backflush - empty 1.5mL tube
+
 C 	clean/rinse 750µL ICF – short 0.5ml free standing tube for this to save on ICF.
+
 CS 	Capillary Shutdown 1400 µL water in 1.5mL tubes
 
 4. Run the “Clean” procedure to wash the system TWICE (lasts 15min each run), do this AT LEAST ONCE if no time.
