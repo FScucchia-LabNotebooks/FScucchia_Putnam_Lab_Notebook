@@ -51,5 +51,5 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 5. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for 15mins each). Do this at least once if not enough time or Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
 6. Select the CS tube (position 9) as the “Capillary shutdown” tube, as system won’t be in use immediately.
 ![wells.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true)
-
+<img align="right" width="100" height="100" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
 
