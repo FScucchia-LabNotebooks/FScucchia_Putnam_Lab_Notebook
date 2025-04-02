@@ -66,10 +66,12 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 4. If a run has been paused in order to perform the the Backflush procedure, click “Resume”.
 
 #### System preparation 
-1. Open the “InCyte” module. Open the tray by clicking on the EJECT button. 	
-2. Remove the old tubes corresponding to the “Cleaning & shutting down” procedure & replace them with new ones.
+1. Open the “InCyte” module. Open the tray by clicking on the EJECT button. 
 <img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells2.png?raw=true">
+
+2. Remove the old tubes corresponding to the “Cleaning & shutting down” procedure & replace them with new ones.
 3. Place the “acquisition” cleaning tubes on the tray.
+
 S 	Spin/dry empty (use regular 1.5mL tubes) 
 W 	Mixer wash 1400µL water in 1.5mL tubes
 Q 	Quick clean 1400µL water in 1.5mL tubes
@@ -130,6 +132,7 @@ dry and reach dead volume. Ensure cleaning tube is filled up during long runs (p
 #### GUAVA SHUT DOWN 
 1. Quit “InCyte” module and go to the “Cleaning” module. Click on “Start clean”: the tray will eject.
 <img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells3.png?raw=true">
+
 2. Remove the tubes corresponding to the ‘acquisition clean’ procedure.
 3. Place the cleaning tubes on the tray (prepare a new set every day). Use “short” 0.5mL, free standing Microtubes to spare reagents.
 
@@ -140,6 +143,7 @@ CS 	Capillary Shutdown 1400 µL water in 1.5mL tubes
 
 4. Run the “Clean” procedure to wash the system TWICE (lasts 15min each run), do this AT LEAST ONCE if no time.
 5. Select the CS tube (position 9) as the “Capillary shutdown” tube. The “Capillary shutdown” procedure is automatically done at the end of the “Clean” procedure.
+6. Once the “Clean” procedure is over, quit GuavaSoft; switch off laptop and Guava system.
 
 
 
