@@ -9,10 +9,21 @@ tags: [ Coral, Chlorophyll]
 #### Measuring concentration of Symbiodiniaceae cells using the GUAVA instrument
 
 **Instrument details**
+
 This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located at the URI Coastal Institute Building (Bay Campus).
 ![GUAVA.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/GUAVA.png?raw=true)
 
+**Equipment for GUAVA**
+
+All specific equipment for use can be found in the GUAVA manual. 
+- 96 well plates with round bottoms
+- 1.5mL tubes
+- ICF solution 
+- Bleach (sodium hypochlorite solution) 
+- GUAVA easyCheck Kit (contains Guava easyCheck Bead Reagent and Guava Check Diluent)
+
 **Sample Preparation**  
+
 1. Thaw coral homogenate aliquot (650uL) and vortex sample for 15 seconds.
 2. To separate host and algae, centrifuge the 1.5 tube for 4 minutes at 5000rpm at 4°C. 
 3. Remove the supernatant (host tissue) work with pellet (algae).
@@ -27,4 +38,14 @@ This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located a
 _Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
 
 **Measuring symbiont cell density**
+##### System Start-up
+1. Turn on the laptop computer.
+2. When the computer is finished booting up, turn on the guava easyCyte HT System. The power switch is located half-way up on the right side at the back of the instrument.
+3. Start guavaSoft Software by double-clicking the guavaSoft application icon on the desktop.
+
+
+5.1.2 System prime
+(i)	Prime the system by performing a complete cleaning procedure.
+(ii)	Click on the “Essential Tools” option and open the “Cleaning” module. Click on “Start clean”: the tray will eject. 
+
 
