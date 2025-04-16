@@ -18,7 +18,7 @@ I divided the tissue homogenate into aliquots as follows (aliquots were then sto
 - [Chlorophyll](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Chlorophyll-Protocol/) and Symbiont Density - 1.5 ml
 - [Protein](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Total-Protein-Protocol/) - 1.5 ml
 - Lipids - 1.5 ml
-- Carbohydrates - 1.5 ml
+- [Carbohydrates](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Carbohydrates-Protocol/) - 1.5 ml
 - Spare - 1.5 ml + 5 ml (if enough tissue)
 
 **Sample list**
