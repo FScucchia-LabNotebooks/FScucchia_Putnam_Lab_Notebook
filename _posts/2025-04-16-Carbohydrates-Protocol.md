@@ -75,7 +75,7 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 8. Vortex (in the hood) for 3 seconds
 9. Immediately add 2.5 mL sulphuric acid to the sample
 10. Incubate the sample at room temperature for 1 minute then transfer to water bath
-11. **Repeat steps 6-10 for all tubes**
+11. **Repeat steps 6-10 for all tubes, standards included**
 12. When the last sample is placed in the water bath, incubate all samples for 30 minutes
 13. Pipette 200 uL of all standards and samples into the bottom of the wells in a 96-well plate
   * Have a printed plate layout with well numbers and sample IDs
