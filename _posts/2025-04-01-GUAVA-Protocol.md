@@ -34,8 +34,9 @@ All specific equipment for use can be found in the GUAVA manual.
 6. Remove the supernatant. 
 7. Resuspend the algae with 650uL PBS and homogenize.
 8. Centrifuge for 5 minutes at 5000rpm at 4°C.
-9. Remove the supernatant thoroughly
+9. Remove the supernatant thoroughly.
 10. Resuspend the algae with 650uL PBS and homogenize. Freeze and store. 
+11. Before measurements or before freezing the samples, make 20% dilutions with PBS (we ran several trials and found that this is the best dilution for the GUAVA). 
 
 _Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA. Samples can be processed using cell strainers (40um)
 
