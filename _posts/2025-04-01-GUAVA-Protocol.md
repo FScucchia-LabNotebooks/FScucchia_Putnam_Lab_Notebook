@@ -19,6 +19,7 @@ This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located a
 All specific equipment for use can be found in the GUAVA manual. 
 - 96 well plates with round bottoms, [like these](https://ecatalog.corning.com/life-sciences/b2c/US/en/Microplates/Assay-Microplates/96-Well-Microplates/Corning%C2%AE-96-well-Clear-Polystyrene-Microplates/p/3797)
 - 1.5mL tubes
+- capillary tubes
 - ICF solution 
 - Bleach (sodium hypochlorite solution) 
 - GUAVA easyCheck Kit (contains Guava easyCheck Bead Reagent and Guava Check Diluent)
@@ -36,10 +37,12 @@ All specific equipment for use can be found in the GUAVA manual.
 9. Remove the supernatant thoroughly
 10. Resuspend the algae with 650uL PBS and homogenize. Freeze and store. 
 
-_Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
+_Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA. Samples can be processed using cell strainers (40um)
 
 **Measuring symbiont cell density**
+
 #### System Start-up
+
 1. Turn on the laptop computer.
 2. When the computer is finished booting up, turn on the guava easyCyte HT System. The power switch is located half-way up on the right side at the back of the instrument.
 3. Start guavaSoft Software by double-clicking the guavaSoft application icon on the desktop.
@@ -50,7 +53,7 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 2. Click on the “Essential Tools” option and open the “Cleaning” module. Click on “Start clean”: the tray will eject. 
 3. The tubes from the previous procedures will be on the tray
 4. If tubes are one day old-refill the tubes with MilliQ water or ICF in the proper locations. If more than one day old, replace tubes that appear to be contaminated or dirty. 
-5. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for 15mins each). Do this at least once if not enough time or Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
+5. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for about 15 mins each). Do this at least once if not enough time or Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
 6. Select the CS tube (position 9) as the “Capillary shutdown” tube, as system won’t be in use immediately.
 
 #### Capillary Shutdown
@@ -66,6 +69,7 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 4. If a run has been paused in order to perform the the Backflush procedure, click “Resume”.
 
 #### System preparation 
+
 1. Open the “InCyte” module. Open the tray by clicking on the EJECT button. 
 <img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells2.png?raw=true">
 
@@ -89,7 +93,7 @@ CS 	Capillary Shutdown 1400µL water in 1.5mL tubes
 #### easyCheck 
 
 At the start of each day (when in use), once the system has been cleaned, run the easyCheck procedure to ensure the system is performing properly before starting sample acquisition. easyCheck averages the results from three acquisitions of a guava easyCheck Bead sample to determine if the results are within the expected range.
-1. Prepare a 1:20 dilution of the guava® easyCheck bead reagent. Refer to the guava easyCheck Kit package insert for information: 10 uL beads + 190 uL diluent minimum
+1. Prepare a 1:20 dilution of the guava® easyCheck bead reagent. Refer to the guava easyCheck Kit package insert for information: 20 uL beads + 380 uL diluent minimum. Beads need to be loaded in a capillary cryo tube.
 2. Click easyCheck from the main menu. Allow the instrument to warm up for 10 minutes before acquiring the beads (also allow bead and diluent to warm to RT).
 3. Make sure the correct Bead Lot # and Bead Expiration Date (found on the guava easyCheck Bead Reagent vial label) and Expected Particles/mL are entered in the appropriate fields. Optionally, you may enter the guava® easyCheck Kit lot number and expiration date (found on the side of the guava easyCheck Kit box). The particles/mL corresponds to the concentration of beads in your prepared sample where the guava easyCheck Bead Reagent is diluted 1:20 with diluent.
 4. Click Start. 
@@ -113,13 +117,22 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 #### SAMPLE ACQUISITION
 
-1. Once the worklist is created, the tray will open: you can now place your plate. 
-2. Make sure that the tubes Q (DI water) and C (ICF) are filled up before starting the acquisition. Check these tubes every time you put a new plate, since a cleaning procedure is automatically performed at the end of a plate acquisition.
-3. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
-4. For optimal acquisition, use cells at a concentration of 500 cells/µL.
-5. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
-6. If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
-7. Empty the waste, wash it and add bleach to the vial when more than half full.
+1. Click "Incyte" from the main menu. 
+2. Click on "Edit worklist", select the wells that are going to be measured in your 96 well plate and click on "acquire the sample".
+3. Add 100,000 as events to acquire, make sure the cleaning is performewd every 24 samples. Select "park capillary" in position number 9.
+4. Once the worklist is created, the tray will open: you can now place your plate. 
+5. Make sure that the tubes Q (DI water) and C (ICF) are filled up before starting the acquisition. Check these tubes every time you put a new plate, since a cleaning procedure is automatically performed at the end of a plate acquisition.
+6. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
+7. For optimal acquisition, dilute your samples (coral symbiont cells) to 20%.
+8. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
+9. If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
+10. Empty the waste, wash it and add bleach to the vial when more than half full.
+11. Click on "Run worklist", create and name the output file, add the setting documents stored in the main directory for the Putnam Lab.
+
+#### DATA ACQUISITION
+
+1. At the end of the run, go to the "Analysis menu" (top left) and click on get current.
+2. Get group stat and export to csv.
 
 #### Quick Clean
 
@@ -135,6 +148,7 @@ dry and reach dead volume. Ensure cleaning tube is filled up during long runs (p
 3. Never let the Guava stand overnight without making sure that the capillary has been cleaned and that “Capillary shutdown” procedure has been performed.
 
 #### GUAVA SHUT DOWN 
+
 1. Quit “InCyte” module and go to the “Cleaning” module. Click on “Start clean”: the tray will eject.
 <img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells3.png?raw=true">
 
