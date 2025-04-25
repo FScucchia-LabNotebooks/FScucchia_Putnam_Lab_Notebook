@@ -95,12 +95,12 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 1. Click "Incyte" from the main menu. 
 2. Click on "Edit worklist", select the wells that are going to be measured in your 96 well plate and click on "acquire the sample".
-![edit_work.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/edit_work.png?raw=true)
+![edit_work.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/edit_work.jpg?raw=true)
 3. Add 5,000 as events to acquire, make sure the cleaning is performewd every 24 samples. Select "park capillary" in position number 9. Select 5 seconds for sample mixing time.
-![acquisition.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/acquisition.png?raw=true)
+![acquisition.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/acquisition.jpg?raw=true)
 4. Once the worklist is created, click on "Run worklist", the tray will open: you can now place your plate. 
 5. Save the output file (FCS file) in the Putnam directory, choose the Analysis method and Settings as shown in the image below and click on "Acquire".
-![setRun.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/setRun.png?raw=true)
+![setRun.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/setRun.jpg?raw=true)
 6. Make sure that the all tubes in the tray are filled or emptied as the software tells you before starting the acquisition. Check these tubes every time you put a new plate.
 7. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
 8. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
@@ -111,7 +111,7 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 #### DATA ACQUISITION
 
 1. At the end of the run, go to the "Analyse" menu (top left) and click on "Current Run Stats". Selecxt the desidered metrics for the output.
-![results.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/results.png?raw=true)
+![results.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/results.jpg?raw=true)
 2. Click on "Get group stat" and export the results to csv.
 
 #### Quick Clean
