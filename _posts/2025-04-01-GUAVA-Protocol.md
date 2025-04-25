@@ -95,11 +95,14 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 1. Click "Incyte" from the main menu. 
 2. Click on "Edit worklist", select the wells that are going to be measured in your 96 well plate and click on "acquire the sample".
-3. Add 100,000 as events to acquire, make sure the cleaning is performewd every 24 samples. Select "park capillary" in position number 9.
-4. Once the worklist is created, the tray will open: you can now place your plate. 
-5. Make sure that the tubes Q (DI water) and C (ICF) are filled up before starting the acquisition. Check these tubes every time you put a new plate, since a cleaning procedure is automatically performed at the end of a plate acquisition.
-6. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
-7. For optimal acquisition, dilute your samples (coral symbiont cells) to 20%.
+![edit_work.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/edit_work.png?raw=true)
+3. Add 5,000 as events to acquire, make sure the cleaning is performewd every 24 samples. Select "park capillary" in position number 9. Select 5 seconds for sample mixing time.
+![acquisition.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/acquisition.png?raw=true)
+4. Once the worklist is created, click on "Run worklist", the tray will open: you can now place your plate. 
+5. Save the output file (FCS file) in the Putnam directory, choose the Analysis method and Settings as shown in the image below and click on "Acquire".
+![setRun.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/setRun.png?raw=true)
+6. Make sure that the all tubes in the tray are filled or emptied as the software tells you before starting the acquisition. Check these tubes every time you put a new plate.
+7. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
 8. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
 9. If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
 10. Empty the waste, wash it and add bleach to the vial when more than half full.
@@ -107,15 +110,14 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 
 #### DATA ACQUISITION
 
-1. At the end of the run, go to the "Analysis menu" (top left) and click on get current.
-2. Get group stat and export to csv.
+1. At the end of the run, go to the "Analyse" menu (top left) and click on "Current Run Stats". Selecxt the desidered metrics for the output.
+![results.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/results.png?raw=true)
+2. Click on "Get group stat" and export the results to csv.
 
 #### Quick Clean
 
 1. Whenever leaving a system ON and NOT IN USE - do quick clean then Capillary Shutdown. 
-2. Before beginning a sample run do a “quick clean”, automatically select quick clean after 12 sample wells in work list edit.
-3. Approximately three Quick Clean cycles can be performed from a single well in a plate containing 250ul and seven Quick Cleans from a 1.5-mL tube containing 1.5 mL of fluid before well or tube runs.
-dry and reach dead volume. Ensure cleaning tube is filled up during long runs (pause run, eject tray, top up cleaning tube, load tray, restart run).
+2. Approximately three Quick Clean cycles can be performed from a single well in a plate containing 250ul and seven Quick Cleans from a 1.5-mL tube containing 1.5 mL of fluid before well or tube runs dry and reach dead volume. Ensure cleaning tube is filled up during long runs (pause run, eject tray, top up cleaning tube, load tray, restart run).
 
 #### Capillary Shutdown
 
@@ -126,22 +128,9 @@ dry and reach dead volume. Ensure cleaning tube is filled up during long runs (p
 #### GUAVA SHUT DOWN 
 
 1. Quit “InCyte” module and go to the “Cleaning” module. Click on “Start clean”: the tray will eject.
-<img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells3.png?raw=true">
-
-2. Remove the tubes corresponding to the ‘acquisition clean’ procedure.
-3. Place the cleaning tubes on the tray (prepare a new set every day). Use “short” 0.5mL, free standing Microtubes to spare reagents.
-
-W 	Wash tubes- 1400µL water in 1.5mL tubes
-
-B 	Backflush - empty 1.5mL tube
-
-C 	clean/rinse 750µL ICF – short 0.5ml free standing tube for this to save on ICF.
-
-CS 	Capillary Shutdown 1400 µL water in 1.5mL tubes
-
-4. Run the “Clean” procedure to wash the system TWICE (lasts 15min each run), do this AT LEAST ONCE if no time.
-5. Select the CS tube (position 9) as the “Capillary shutdown” tube. The “Capillary shutdown” procedure is automatically done at the end of the “Clean” procedure.
-6. Once the “Clean” procedure is over, quit GuavaSoft; switch off laptop and Guava system.
+2. Run the “Clean” procedure to wash the system TWICE (lasts 15min each run), do this AT LEAST ONCE if no time.
+3. Select the CS tube (position 9) as the “Capillary shutdown” tube. The “Capillary shutdown” procedure is automatically done at the end of the “Clean” procedure.
+4. Once the “Clean” procedure is over, quit GuavaSoft; switch off the Guava system.
 
 
 
