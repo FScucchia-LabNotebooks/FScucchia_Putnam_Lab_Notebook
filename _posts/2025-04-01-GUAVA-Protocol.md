@@ -49,53 +49,28 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 3. Start guavaSoft Software by double-clicking the guavaSoft application icon on the desktop.
 
 #### System prime
+
 1. Prime the system by performing a complete cleaning procedure.
 <img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells.png?raw=true">
-2. Click on the “Essential Tools” option and open the “Cleaning” module. Click on “Start clean”: the tray will eject. 
-3. The tubes from the previous procedures will be on the tray
-4. If tubes are one day old-refill the tubes with MilliQ water or ICF in the proper locations. If more than one day old, replace tubes that appear to be contaminated or dirty. 
-5. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for about 15 mins each). Do this at least once if not enough time or Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
-6. Select the CS tube (position 9) as the “Capillary shutdown” tube, as system won’t be in use immediately.
+2. In the main manu, click on “Cleaning” (under Essential Tools). Click on “Start clean”: the tray will eject. 
+3. The tubes from the previous procedures will be on the tray.
+4. If tubes are one day old-refill the tubes with MilliQ water or ICF in the proper locations (a pop-up screen will have the info on which tubes to fill and with what). If more than one day old, replace tubes that appear to be contaminated or dirty.
+5. Select the CS tube (position 9) as the “Capillary shutdown” tube. 
+6. Run the “Clean” procedure to prime/wash the system TWICE (it lasts for about 15 mins each). Do this once if you don't have enough time or if the Guava is in regular use. Do at least TWICE after weekends, or long period of not in use.
+7. Select the CS tube (position 9) as the “Capillary shutdown” tube. The “Capillary Shutdown” procedure is automatically done at the end of the “Clean” procedure. The capillary is placed into a tube of water and can stay like this until acquisition without any risk of drying particles on the capillary glass wall.
 
-#### Capillary Shutdown
-
-1. The “Capillary Shutdown” procedure is automatically done at the end of the “Clean” procedure.
-2. The capillary is placed into a tube of water and can stay like this until acquisition without any risk of drying particles on the capillary glass wall.
-
-#### Backflushig the Fluid System
+#### Backflushig the Fluid System in case of clogs
 
 1. If the fluid system is suspected as being blocked, click “Backflush” on the easyCheck screen, or any Guava assay screen. A message should appear on the screen with a prompt to select the well/tube to be used for backflushing – the default position is w1, conaining 100ul of bleach 
 2. Leave the default position for Backflushing as w1 and click “OK” (w1 must be containing 100ul bleach solution before clicking “OK”).  
 3. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
 4. If a run has been paused in order to perform the the Backflush procedure, click “Resume”.
 
-#### System preparation 
-
-1. Open the “InCyte” module. Open the tray by clicking on the EJECT button. 
-<img align="right" src="https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/wells2.png?raw=true">
-
-2. Remove the old tubes corresponding to the “Cleaning & shutting down” procedure & replace them with new ones.
-3. Place the “acquisition” cleaning tubes on the tray.
-
-S 	Spin/dry empty (use regular 1.5mL tubes) 
-
-W 	Mixer wash 1400µL water in 1.5mL tubes
-
-Q 	Quick clean 1400µL water in 1.5mL tubes
-
-B 	Backflush - empty 1.5mL tubes
-
-C 	Clean/Rinse 750µL ICF – short 500uL free standing tube for this to save on ICF.
-
-CS 	Capillary Shutdown 1400µL water in 1.5mL tubes
-
-4. Before doing a Guava easyCheck with beads- perform one “Clean & Rinse” or “Quick clean” in InCyte to clean the system. The system is now ready for sample acquisition.
-
 #### easyCheck 
 
 At the start of each day (when in use), once the system has been cleaned, run the easyCheck procedure to ensure the system is performing properly before starting sample acquisition. easyCheck averages the results from three acquisitions of a guava easyCheck Bead sample to determine if the results are within the expected range.
 1. Prepare a 1:20 dilution of the guava® easyCheck bead reagent. Refer to the guava easyCheck Kit package insert for information: 20 uL beads + 380 uL diluent minimum. Beads need to be loaded in a capillary cryo tube.
-2. Click easyCheck from the main menu. Allow the instrument to warm up for 10 minutes before acquiring the beads (also allow bead and diluent to warm to RT).
+2. Click "easyCheck" from the main menu. Allow the instrument to warm up for 10 minutes before acquiring the beads (also allow bead and diluent to warm to RT).
 3. Make sure the correct Bead Lot # and Bead Expiration Date (found on the guava easyCheck Bead Reagent vial label) and Expected Particles/mL are entered in the appropriate fields. Optionally, you may enter the guava® easyCheck Kit lot number and expiration date (found on the side of the guava easyCheck Kit box). The particles/mL corresponds to the concentration of beads in your prepared sample where the guava easyCheck Bead Reagent is diluted 1:20 with diluent.
 4. Click Start. 
 5. The sample tray opens and a dialog box appears prompting you to load DI water, and empty tubes, and select the tube/well containing the beads.
