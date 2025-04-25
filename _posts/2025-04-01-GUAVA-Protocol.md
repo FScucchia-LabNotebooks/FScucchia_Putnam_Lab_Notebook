@@ -19,7 +19,7 @@ This protocol refers to the Millipore Guava easyCyte HT Flow Cytometer located a
 All specific equipment for use can be found in the GUAVA manual. 
 - 96 well plates with round bottoms, [like these](https://ecatalog.corning.com/life-sciences/b2c/US/en/Microplates/Assay-Microplates/96-Well-Microplates/Corning%C2%AE-96-well-Clear-Polystyrene-Microplates/p/3797)
 - 1.5mL tubes
-- capillary tubes
+- capillary cryo tubes
 - ICF solution 
 - Bleach (sodium hypochlorite solution) 
 - GUAVA easyCheck Kit (contains Guava easyCheck Bead Reagent and Guava Check Diluent)
@@ -35,10 +35,10 @@ All specific equipment for use can be found in the GUAVA manual.
 7. Resuspend the algae with 650uL PBS and homogenize.
 8. Centrifuge for 5 minutes at 5000rpm at 4°C.
 9. Remove the supernatant thoroughly.
-10. Resuspend the algae with 650uL PBS and homogenize. Freeze and store. 
-11. Before measurements or before freezing the samples, make 20% dilutions with PBS (we ran several trials and found that this is the best dilution for the GUAVA). 
+10. Resuspend the algae with 650uL PBS and homogenize. 
+11. Make a 20% dilution with PBS (we ran several trials and found that this is the best dilution for the GUAVA) of each sample, load in triplicates in a 96 wells plate (round bottom), 240 ul per well.
 
-_Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA. Samples can be processed using cell strainers (40um)
+_Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
 
 **Measuring symbiont cell density**
 
