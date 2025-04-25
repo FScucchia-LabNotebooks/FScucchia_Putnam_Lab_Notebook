@@ -36,7 +36,7 @@ All specific equipment for use can be found in the GUAVA manual.
 8. Centrifuge for 5 minutes at 5000rpm at 4°C.
 9. Remove the supernatant thoroughly.
 10. Resuspend the algae with 650uL PBS and homogenize. 
-11. Make a 20% dilution with PBS (we ran several trials and found that this is the best dilution for the GUAVA) of each sample, load in triplicates in a 96 wells plate (round bottom), 240 ul per well.
+11. Make a 20% dilution with PBS (we ran several trials and found that this is the best dilution for coral samples for the GUAVA, 20% sample and 80% PBS, but dilutions between 20% to 50% also work well) of each sample, load in triplicates in a 96 wells plate (round bottom), 240 ul per well.
 
 _Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
 
