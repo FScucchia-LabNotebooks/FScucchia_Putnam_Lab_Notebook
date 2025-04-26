@@ -98,15 +98,15 @@ The software displays %CVs and averages for particles/mL (bead count), FSC and S
 ![edit_work.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/edit_work.jpg?raw=true)
 3. Add 5,000 as events to acquire, make sure the cleaning is performewd every 24 samples. Select "park capillary" in position number 9. Select 5 seconds for sample mixing time.
 ![acquisition.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/acquisition.jpg?raw=true)
-4. Once the worklist is created, click on "Run worklist", the tray will open: you can now place your plate. 
-5. Save the output file (FCS file) in the Putnam directory, choose the Analysis method and Settings as shown in the image below and click on "Acquire".
+4. Once the worklist is created, click on "Run worklist". 
+5. Name the output file the output file (FCS file) in the Putnam directory, choose the Analysis method and Settings as shown in the image below and click on "Acquire", the tray will open: you can now place your plate.
 ![setRun.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/setRun.jpg?raw=true)
 6. Make sure that the all tubes in the tray are filled or emptied as the software tells you before starting the acquisition. Check these tubes every time you put a new plate.
-7. Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
-8. Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
-9. If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
-10. Empty the waste, wash it and add bleach to the vial when more than half full.
-11. Click on "Run worklist", create and name the output file, add the setting documents stored in the main directory for the Putnam Lab.
+7. After checking the required tubes and having placed the plate, click on "Ok", the run will start.
+8. It takes 4 minutes per well, a full 96 well plate will take about 7 hours (can be done overnight).
+_Note_: Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
+Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
+If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
 
 #### DATA ACQUISITION
 
