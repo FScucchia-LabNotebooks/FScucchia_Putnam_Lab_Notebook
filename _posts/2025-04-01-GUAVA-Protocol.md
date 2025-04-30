@@ -112,6 +112,7 @@ If the acquisition rate slows dramatically, and there is sufficient sample volum
 
 1. At the end of the run, go to the "Analyse" menu (top left).
 2. Select the file for the desired run, data will show up on the screen. Click on each well of the plate to make sure that the red quadrat is located around your cell population (gating). Move the quadrat to better include your cells cluster if needed.
+![gating.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/gating.jpg?raw=true)
 3. Click on "Current Run Stats". Select the desidered metrics for the output. Gate: Phytoplankton.
 ![results.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/results.jpg?raw=true)
 4. Click on "Get group stat" and export the results to csv.
