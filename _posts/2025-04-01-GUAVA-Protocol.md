@@ -46,7 +46,7 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 
 1. Turn on the laptop computer.
 2. When the computer is finished booting up, turn on the guava easyCyte HT System. The power switch is located half-way up on the right side at the back of the instrument.
-3. Start guavaSoft Software by double-clicking the guavaSoft application icon on the desktop.
+3. Start guavaSoft Software (v3.4) by double-clicking the guavaSoft application icon on the desktop.
 
 #### System prime
 
