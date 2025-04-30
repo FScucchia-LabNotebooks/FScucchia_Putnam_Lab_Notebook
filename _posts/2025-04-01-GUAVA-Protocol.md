@@ -110,9 +110,11 @@ If the acquisition rate slows dramatically, and there is sufficient sample volum
 
 #### DATA ACQUISITION
 
-1. At the end of the run, go to the "Analyse" menu (top left) and click on "Current Run Stats". Selecxt the desidered metrics for the output.
+1. At the end of the run, go to the "Analyse" menu (top left).
+2. Select the file for the desired run, data will show up on the screen. Click on each well of the plate to make sure that the red quadrat is located around your cell population. Move the quadrat to better include your cells cluster if needed.
+3. Click on "Current Run Stats". Select the desidered metrics for the output.
 ![results.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/results.jpg?raw=true)
-2. Click on "Get group stat" and export the results to csv.
+4. Click on "Get group stat" and export the results to csv.
 
 #### Quick Clean
 
