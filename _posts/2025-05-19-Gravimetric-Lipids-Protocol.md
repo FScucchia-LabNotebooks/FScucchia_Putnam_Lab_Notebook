@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gravimetric Total Lipid Quantification Protocol
-date: '2025-04-30'
+date: '2025-05-19'
 category: [ Physiology ]
 tags: [ Coral, Lipids]
 ---
