@@ -23,7 +23,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 
 |Extraction date || colony_id || Species || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
 | 20250523 || MD-2-4 || *Madracis decactis*  ||  10.2   ||  10.1    || 10.5 |           
-| 20250523 || MD-2-4 || *Madracis decactis* ||  15.4  || 14.9 || 115.15  |
+| 20250523 || MD-2-4 || *Madracis decactis* ||  15.4  || 14.9 || 15.15  |
 | 20250523 || MD-2-4 || *Madracis decactis*  ||   14.4   || 14.4|| 14.4 |
 | 20250523 || MD-2-4  || *Madracis decactis*  ||  10.2   || 9.8 ||  10.0 |
 
