@@ -25,7 +25,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 | 20250526 || MD-4-13 || *Madracis decactis*  || 16.6   || 16.5     || 16.55  |           
 | 20250526 || MD-4-1 || *Madracis decactis* ||  25.6   || 24.2      ||  24.9 |
 | 20250526 || MD-2-11 || *Madracis decactis*  || 23.0   ||  23.0    || 23.0  |
-| 20250526 || MD-2-5 || *Madracis decactis*  ||  18.8    || 16.4    || 35.2   |
+| 20250526 || MD-2-5 || *Madracis decactis*  ||  18.8    || 16.4    || 17.6   |
 | 20250526 || MD-2 || *Madracis decactis*  ||  19.4    ||   19.4   ||  19.4   |
 | 20250526 || MD-1  || *Madracis decactis*  || 20.8   ||  20.6    || 20.7    |
 
