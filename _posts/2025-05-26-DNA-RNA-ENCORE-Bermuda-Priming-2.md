@@ -32,7 +32,7 @@ I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 12ul of RNA and 9ul of DNA. I added 4ul of gel green to the gel.
 
-![Gel_DNA_RNA_26May2025.png](https://github.com/flofields/Coral_Priming_Experiments_Summer_2024/blob/main/images/RNA_DNA_gels/Gel_DNA_RNA_26May2025.jpg?raw=true)
+![Gel_DNA_RNA_26May2025_FS.png](https://github.com/flofields/Coral_Priming_Experiments_Summer_2024/blob/main/images/RNA_DNA_gels/Gel_DNA_RNA_26May2025_FS.jpg?raw=true)
 
 
 
