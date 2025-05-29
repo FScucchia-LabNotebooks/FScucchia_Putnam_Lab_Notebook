@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Extracting RNA and DNA from Mdec - ENCORE Priming - 052725
-date: '2025-05-27'
+title: Extracting RNA and DNA from Mdec - ENCORE Priming - 052925
+date: '2025-05-29'
 category: Extraction
 tags: [RNA, DNA, Zymo]
 ---
 
-#### Extracting RNA and DNA from fragments of _Madracis decactis_ for the ENCORE priming project of Florence - 052725
+#### Extracting RNA and DNA from fragments of _Madracis decactis_ for the ENCORE priming project of Florence - 052925
 
 **Protocols used**
 - [Dual RNA/DNA extraction](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-extraction-Zymo-kit/)
@@ -18,22 +18,22 @@ I'm extracting RNA and DNA from frozen fragments of using the [Zymo Quick-DNA/RN
 
 **Qubit Results**
 I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
-- Standard 1: 480.39
-- Standard 2: 10061.03
+- Standard 1: 398.44
+- Standard 2: 9037.49
 
 |Extraction date || colony_id || Species || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20250527 || MD-1-3 || *Madracis decactis*  || 17.6  || 15.2    || 16.4  |           
-| 20250527 || MD-5-5 || *Madracis decactis* ||  11.2 || 10.8    || 11.0  |
-| 20250527 || MD-2-23 || *Madracis decactis*  ||    LOW    ||  LOW   || LOW   |
-| 20250527 || MD-1-11 || *Madracis decactis*  ||  LOW  || LOW     || LOW   |
-| 20250527 || MD-1-20 || *Madracis decactis*  ||  10.6    || 10.1   ||  10.35   |
-| 20250527 || MD-4-9  || *Madracis decactis*  ||  16.0  ||  15.8     || 15.9    |
+| 20250527 || MD-2-23 || *Madracis decactis*  || 10.2  || 10.1    || 10.15  |           
+| 20250527 || MD-1-11 || *Madracis decactis* ||  12.3 || 12.4    || 12.35 |
+| 20250527 || MD-2-6 || *Madracis decactis*  ||   16.1    ||  16.0 || 16.05 |
+| 20250527 || MD-5-21 || *Madracis decactis*  ||  17.5 || 17.0 || 17.25  |
+| 20250527 || MD-4-2 || *Madracis decactis*  ||  10.4    || 10.2   ||  10.3   |
+| 20250527 || MD-4-26  || *Madracis decactis*  ||  11.5 ||  11.3    || 11.4   |
 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 12ul of RNA and 9ul of DNA. I added 4ul of gel green to the gel.
-_Note_: I need to re-extract MD-2-23 and MD-1-11
+_Note_: In the picture took with the phone the first sample looks super faint but it is there. The last two samples where extracted from Natalie (1-24 and 9-5)
 
-![Gel_DNA_RNA_27May2025_FS.jpg](https://github.com/flofields/Coral_Priming_Experiments_Summer_2024/blob/main/images/RNA_DNA_gels/Gel_DNA_RNA_27May2025_FS.jpg?raw=true)
+![Gel_DNA_RNA_29May2025_FS.jpg](https://github.com/flofields/Coral_Priming_Experiments_Summer_2024/blob/main/images/RNA_DNA_gels/Gel_DNA_RNA_29May2025_FS.jpg?raw=true)
 
 
 
