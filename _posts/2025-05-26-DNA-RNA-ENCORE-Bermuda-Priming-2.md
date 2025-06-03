@@ -17,7 +17,7 @@ I'm extracting RNA and DNA from frozen fragments of using the [Zymo Quick-DNA/RN
 - I eluted RNA samples in 80ul and DNA samples in 80ul.
 
 **Qubit Results**
-I used Broad range RNA Qubit Protocol inked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
+I used Broad range RNA Qubit Protocol linked above. DNA samples will be measured after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 - Standard 1: 437.26
 - Standard 2: 7967.46
 
