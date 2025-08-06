@@ -21,7 +21,7 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 1. Thaw coral homogenate aliquot and vortex sample for 15 seconds.
 2. To separate host and algae, centrifuge the 1.5 tube for 4 minutes at 5000rpm at 4°C. 
 3. Remove the supernatant (host tissue) work with pellet (algae).
-4. Resuspend the algae with 1ml 1XPBS and homogenize.
+4. Resuspend the algae with 1ml 1XPBS and homogenize (To make the PBS solution, combine PBS (Phosphate-Buffered Saline) tablets and DI water in a bottle. For every 100mL of PBS solution, add one tablets of PBS to 100mL of DI water).
 5. Centrifuge for 5 minutes at 5000rpm at 4°C.
 6. Remove the supernatant. 
 7. Resuspend the algae with 1ml PBS and homogenize.
