@@ -15,7 +15,8 @@ I followed the above protocol to separate the tissue from the skeleton, which wi
 
 I divided the tissue homogenate into aliquots as follows (aliquots were then stored at -20° or -80°):
 
-- [Chlorophyll](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Chlorophyll-Protocol/) and [Symbiont Density](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/GUAVA-Protocol/) - 1.5 ml
+- [Chlorophyll](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Chlorophyll-Protocol/) - 1.5 ml
+- [Symbiont Density](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/GUAVA-Protocol/) - 1.5 ml
 - [Protein](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Total-Protein-Protocol/) - 1.5 ml
 - [Lipids](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Gravimetric-Lipids-Protocol/) - 1.5 ml
 - [Carbohydrates](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/Carbohydrates-Protocol/) - 1.5 ml
