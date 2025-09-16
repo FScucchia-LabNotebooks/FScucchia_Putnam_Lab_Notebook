@@ -26,16 +26,16 @@ All specific equipment for use can be found in the GUAVA manual.
 
 **Sample Preparation**  
 
-1. Thaw coral homogenate aliquot (650uL) and vortex sample for 15 seconds.
+1. Thaw coral homogenate aliquot (1mL) and vortex sample for 15 seconds.
 2. To separate host and algae, centrifuge the 1.5 tube for 4 minutes at 5000rpm at 4°C. 
 3. Remove the supernatant (host tissue) work with pellet (algae).
-4. Resuspend the algae with 650uL 1XPBS and homogenize.
+4. Resuspend the algae with 1mL 1XPBS and homogenize.
 5. Centrifuge for 5 minutes at 5000rpm at 4°C.
 6. Remove the supernatant. 
-7. Resuspend the algae with 650uL PBS and homogenize.
+7. Resuspend the algae with 1mL PBS and homogenize.
 8. Centrifuge for 5 minutes at 5000rpm at 4°C.
 9. Remove the supernatant thoroughly.
-10. Resuspend the algae with 650uL PBS and homogenize. 
+10. Resuspend the algae with 1mL PBS and homogenize. 
 11. Make a 25% dilution with PBS (we ran several trials and found that this is the best dilution for coral samples for the GUAVA, 25% sample and 75% PBS, but dilutions between 20% to 50% also work well, depending on how clear the sample looks - very clear sample might need not to be diluted) of each sample, load in triplicates in a 96 wells plate (round bottom), 240 ul per well.
 
 _Note_: You want to make sure that the samples is free of host remainings and dirt, which may clog the GUAVA.
