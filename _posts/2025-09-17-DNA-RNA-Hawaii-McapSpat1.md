@@ -23,6 +23,9 @@ I took microbiome samples as well, using sterile razor blades, scraping off the 
 ![F2_after.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/F2_after.jpg?raw=true)
 ![B8_after.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B8_after.jpg?raw=true)
 
+This is how the samples in shield looked like before extraction:
+![samples_shield.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/samples_shield.jpg?raw=true)
+
 **Qubit Results**
 
 I used the high sensitivity RNA Qubit Protocol linked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
