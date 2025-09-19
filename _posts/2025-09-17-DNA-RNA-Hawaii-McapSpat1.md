@@ -38,7 +38,7 @@ I used the high sensitivity RNA Qubit Protocol linked above. I will check the DN
 | 20250917 || 20250917 || F2  || *Montipora capitata* || SNAP-TAG treatment  ||  37.6     ||  37.0    || 37.3  |
 
 **Tapestation Results**
-
+![tapeStatio_McapPlug1.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/tapeStatio_McapPlug1.png?raw=true)
 
 **Gel**
 - I used the protocol linked above with few modifications. I ran 3.5ul of RNA and 3.5ul of DNA. I added 4ul of gel green to the gel.
