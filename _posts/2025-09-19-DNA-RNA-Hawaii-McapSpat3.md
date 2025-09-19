@@ -46,7 +46,7 @@ I used the high sensitivity RNA Qubit Protocol linked above. I will check the DN
 **Tapestation Results**
 ![tapeStatio_McapPlug3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/tapeStatio_McapPlug3.png?raw=true)
 
-
+Note: C4 looks weird, I'm not going to do library prep on this one.
 
 
 
