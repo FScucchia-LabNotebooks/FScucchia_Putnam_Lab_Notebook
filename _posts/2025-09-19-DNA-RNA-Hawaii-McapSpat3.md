@@ -44,7 +44,7 @@ I used the high sensitivity RNA Qubit Protocol linked above. I will check the DN
 | 20250919 || 20250919 || C13  || *Montipora capitata* || SLIPS treatment  ||  20.2     ||  20.0    || 20.1  |
 
 **Tapestation Results**
-
+![tapeStatio_McapPlug3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/tapeStatio_McapPlug3.png?raw=true)
 
 
 
