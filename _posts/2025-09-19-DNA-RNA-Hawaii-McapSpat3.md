@@ -39,7 +39,7 @@ I used the high sensitivity RNA Qubit Protocol linked above. I will check the DN
 
 |Scraping date|| Extraction date || sample_id || Species || Treatment || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
 | 20250919 || 20250919 || D8 || *Montipora capitata*  || SLIPS control  || 38.8   || 38.6     || 38.7  |           
-| 20250919 || 20250919 || C9  || *Montipora capitata* || SLIPS control   ||  40.8     ||  40.2   || 40.5  |
+| 20250919 || 20250919 || C9  || *Montipora capitata* || SLIPS treatment   ||  40.8     ||  40.2   || 40.5  |
 | 20250919 || 20250919 || C4 || *Montipora capitata*  || SLIPS treatment   || 13.2   || 13.0     || 13.1  |           
 | 20250919 || 20250919 || C13  || *Montipora capitata* || SLIPS treatment  ||  20.2     ||  20.0    || 20.1  |
 
