@@ -34,14 +34,14 @@ This is how the samples in shield looked like before extraction:
 
 I used the high sensitivity RNA Qubit Protocol linked above. I will check the DNA samples after finishing with all extractions (for all samples). RNA samples were read twice, standard only read once.
 
-- Standard 1: 46.10
-- Standard 2: 936.13
+- Standard 1: 46.66
+- Standard 2: 960.40
 
 |Scraping date|| Extraction date || sample_id || Species || Treatment || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20250919 || 20250919 || D8 || *Montipora capitata*  || SLIPS control  || 38.8   || 38.6     || 38.7  |           
-| 20250919 || 20250919 || C9  || *Montipora capitata* || SLIPS treatment   ||  40.8     ||  40.2   || 40.5  |
-| 20250919 || 20250919 || C4 || *Montipora capitata*  || SLIPS treatment   || 13.2   || 13.0     || 13.1  |           
-| 20250919 || 20250919 || C13  || *Montipora capitata* || SLIPS treatment  ||  20.2     ||  20.0    || 20.1  |
+| 20250919 || 20250919 || D8 || *Montipora capitata*  || SLIPS control  || 46.2   || 45.8     || 46.0  |           
+| 20250919 || 20250919 || C9  || *Montipora capitata* || SLIPS treatment   ||  48.8     ||  49.0   || 48.9  |
+| 20250919 || 20250919 || C4 || *Montipora capitata*  || SLIPS treatment   || 13.9   || 13.9     || 13.9  |           
+| 20250919 || 20250919 || C13  || *Montipora capitata* || SLIPS treatment  ||  21.2     ||  21.2    || 21.2  |
 
 **Tapestation Results**
 ![tapeStatio_McapPlug3.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/tapeStatio_McapPlug3.png?raw=true)
