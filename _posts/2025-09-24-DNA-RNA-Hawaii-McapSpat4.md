@@ -17,7 +17,7 @@ tags: [RNA, DNA, Zymo]
 I followed the extraction protocol linked above exactly, final elution volume for both RNA and DNA samples is 15uL. 
 The plugs were flash frozen and stored in whirlpacks. These are the pictures of the plugs before sampling:
 
-![B6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B6_before.jpg?raw=true)
+![B6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B6_before.jpg)
 ![B11_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B11_before.jpg?raw=true)
 ![A6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/A6_before.jpg?raw=true)
 ![C6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/C6_before.jpg?raw=true)
