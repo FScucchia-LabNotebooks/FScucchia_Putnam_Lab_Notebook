@@ -49,14 +49,14 @@ I used the high sensitivity RNA Qubit Protocol linked above. I will check the DN
 - Standard 2: 919.85
 
 |Scraping date|| Extraction date || sample_id || Species || Treatment || RNA_read1 ||RNA_read2 ||RNA_AVG (ng/ul)|
-| 20250924 || 20250924 || B6 || *Montipora capitata*  || SNAP-TAG treatment ||    ||      ||   |           
-| 20250924 || 20250924 || B11  || *Montipora capitata* || SNAP-TAG treatment   ||     ||     ||   |
-| 20250924 || 20250924 || A6 || *Montipora capitata*  || SNAP-TAG control  ||    ||   ||    |           
-| 20250924 || 20250924 || C6  || *Montipora capitata* || SNAP-TAG control  ||     ||      ||   |
-| 20250924 || 20250924 || D6 || *Montipora capitata*  || SNAP-TAG treatment  ||   ||      ||   |           
-| 20250924 || 20250924 || D11  || *Montipora capitata* ||SNAP-TAG treatment   ||       ||      ||   |
-| 20250924 || 20250924 || D12 || *Montipora capitata*  || SNAP-TAG control  ||    ||    ||  |           
-| 20250924 || 20250924 || A4  || *Montipora capitata* || SLIPS treatment  ||    ||     ||    |
+| 20250924 || 20250924 || B6 || *Montipora capitata*  || SNAP-TAG treatment || 59.4   ||  58.6    || 59.0  |           
+| 20250924 || 20250924 || B11  || *Montipora capitata* || SNAP-TAG treatment   ||  49.0 || 47.4|| 48.2  |
+| 20250924 || 20250924 || A6 || *Montipora capitata*  || SNAP-TAG control  || 46.8 || 46.0  || 46.4   |           
+| 20250924 || 20250924 || C6  || *Montipora capitata* || SNAP-TAG control  || 27.0 || 27.0 || 27.0  |
+| 20250924 || 20250924 || D6 || *Montipora capitata*  || SNAP-TAG treatment  || 61.0  || 60.6  || 60.8  |           
+| 20250924 || 20250924 || D11  || *Montipora capitata* ||SNAP-TAG treatment   || 36.8 || 36.6 || 36.7   |
+| 20250924 || 20250924 || D12 || *Montipora capitata*  || SNAP-TAG control  || 30.4 || 30.4 || 30.4 |           
+| 20250924 || 20250924 || A4  || *Montipora capitata* || SLIPS treatment  || 77.8 || 76.0 || 76.9   |
 
 **Tapestation Results**
 ![tapeStatio_McapPlug4.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/tapeStatio_McapPlug4.png?raw=true)
