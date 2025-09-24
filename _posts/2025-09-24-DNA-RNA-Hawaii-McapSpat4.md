@@ -16,6 +16,7 @@ tags: [RNA, DNA, Zymo]
 
 I followed the extraction protocol linked above exactly, final elution volume for both RNA and DNA samples is 15uL. 
 The plugs were flash frozen and stored in whirlpacks. These are the pictures of the plugs before sampling:
+
 ![B6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B6_before.jpg?raw=true)
 ![B11_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B11_before.jpg?raw=true)
 ![A6_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/A6_before.jpg?raw=true)
@@ -27,6 +28,7 @@ The plugs were flash frozen and stored in whirlpacks. These are the pictures of 
 _Note_: I had already extracted sammple A4, I'm trying again to see if I can get a better RIN.
 
 I took microbiome samples as well, using sterile razor blades, scraping off the surface away from the spat, one sample per plug. These microbiomes samples were named with the sample name and an "X". These are the pictures of the plugs after sampling:
+
 ![B6_after.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B6_after.jpg?raw=true)
 ![B11_after.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/B11_after.jpg?raw=true)
 ![A6_after.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/A6_after.jpg?raw=true)
