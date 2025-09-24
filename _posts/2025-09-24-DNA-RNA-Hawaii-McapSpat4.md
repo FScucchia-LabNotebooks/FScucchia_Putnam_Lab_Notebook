@@ -25,7 +25,7 @@ The plugs were flash frozen and stored in whirlpacks. These are the pictures of 
 ![D11_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/D11_before.jpg?raw=true)
 ![D12_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/D12_before.jpg?raw=true)
 ![A4_before.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/A4_before.jpg?raw=true)
-_Note_: I had already extracted sammple A4, I'm trying again to see if I can get a better RIN.
+_Note_: I had already extracted sample A4, I'm trying again to see if I can get a better RIN.
 
 I took microbiome samples as well, using sterile razor blades, scraping off the surface away from the spat, one sample per plug. These microbiomes samples were named with the sample name and an "X". These are the pictures of the plugs after sampling:
 
