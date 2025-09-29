@@ -68,17 +68,17 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
 
 | TapeStation date  || sample_id  ||  TapeStation conc. ng/uL ||   Primer set  |
-|  20250929  || B8X || *Montipora capitata*  || 49  |
-|  20250929|| C10X   || *Montipora capitata* || too low |
-|  20250929  || C9X || *Montipora capitata*  || too low |
-|  20250929  || POC_R12_C3X  || *Pocillopora acuta* || too low  |
-|  20250929  ||  POC_R1_H1X || *Pocillopora acuta*  || too low |
-|  20250929   || POC_R3_C3X  || *Pocillopora acuta* || too low |
-|  20250929  || B8Y || *Montipora capitata*  || 57   |
-|  20250929|| C10Y   || *Montipora capitata* || too low |
-|  20250929  || C9Y || *Montipora capitata*  || too low |
-|  20250929  || POC_R12_C3Y  || *Pocillopora acuta* || too low  |
-|  20250929  ||  POC_R1_H1Y || *Pocillopora acuta*  || too low |
-|  20250929   || POC_R3_C3Y  || *Pocillopora acuta* || too low|
+|  20250929  || B8X || 0.056  || 49  |
+|  20250929|| C10X   || 0.74|| 50 |
+|  20250929  || C9X || 0.05 || 51 |
+|  20250929  || POC_R12_C3X  || / || 52  |
+|  20250929  ||  POC_R1_H1X || /  || 53 |
+|  20250929   || POC_R3_C3X  || 0.06 || 54 |
+|  20250929  || B8Y || 0.46  || 57   |
+|  20250929|| C10Y   || 0.68 || 58|
+|  20250929  || C9Y || 1.14  || 59 |
+|  20250929  || POC_R12_C3Y  || 0.03 || 60  |
+|  20250929  ||  POC_R1_H1Y || 0.04  || 61 |
+|  20250929   || POC_R3_C3Y  || 0.02 || 62|
 
 ![NEB_compare_library.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/NEB_compare_library.png?raw=true)
