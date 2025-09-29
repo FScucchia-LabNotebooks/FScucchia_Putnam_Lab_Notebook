@@ -66,6 +66,7 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (D5000), protocol linked above.
+Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-09-29%20-%20NEB_regular_trial.pdf)
 
 | TapeStation date  || sample_id  ||  TapeStation conc. ng/uL ||   Primer set  |
 |  20250929  || B8X || 0.056  || 49  |
