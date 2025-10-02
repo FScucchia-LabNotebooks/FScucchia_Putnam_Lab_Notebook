@@ -21,13 +21,12 @@ Coral homogenate prep can be found in my [previous post](https://fscucchia-labno
 
 **Adult Tissue Sample Preparation**
 1. Thaw homogenate aliquot labeled with the coral ID and "protein".
-2. Pipette 650uL from the 1.5mL aliquot into a new labeled 1.5 mL microcentrifuge tube and vortex (put back the rest in the freezer as spare)
-3. Centrife at 13000 rpm for 4 minutes at 4°C to separate host from the algae.
-4. Take 500uL of the supernatant into a new tube lables "HOST protein".
-5. Add 10 μL of 1M NaOH to the tube.  
-6. Pipette a very small amount of sample onto pH paper to confirm the pH ~10.  
-7. Incubate the tube at 50°C for 4 hours, shaking at 300 rpm.  
-8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps. _Take note of how much volume of HCL was added!_.  
+2. Vortex the tube and then centrife at 13000 rpm for 4 minutes at 4°C to separate host from the algae.
+3. Take 500uL of the supernatant into a new tube lables "HOST protein" (put back the rest in the freezer as spare).
+4. Add 10 μL of 1M NaOH to the tube.  
+5. Pipette a very small amount of sample onto pH paper to confirm the pH ~10.  
+6. Incubate the tube at 50°C for 4 hours, shaking at 300 rpm.  
+7. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps. _Take note of how much volume of HCL was added!_.  
 
 **Preparation of Diluted Albumin (BSA) Standards**  
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
