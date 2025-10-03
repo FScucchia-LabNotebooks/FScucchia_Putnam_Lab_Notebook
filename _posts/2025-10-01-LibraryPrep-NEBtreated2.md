@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Library prep using Zymo SwitchFree kit on samples with PolyA isolation - 100125
+title: Library prep using Zymo SwitchFree kit on samples with PolyA isolation and pooling - 100125
 date: '2025-10-01'
 category: Protocol
 tags: [DNA, Zymo, RNA, library]
 ---
 
-#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of samples treated for PolyA isolation - 100125
+#### Using the Zymo-Seq SwitchFree 3′ mRNA Library Kit for in-house library prep of samples treated for PolyA isolation and pooling - 100125
 
 **Protocols used**
 - [Zymo-Seq SwitchFree 3′ mRNA Library Kit protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/_r3008_r3009__zymo_seq_switchfree_3_mrna_library_kit.pdf)
@@ -85,3 +85,24 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 |  20251001  || POC_R3_C3Y2  || / || 14 |
 
 ![NEB_compare_library2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/NEB_compare_library2.png?raw=true)
+
+## Libraries pooling
+
+Pooling calculations were done following [Zoe's protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Switch-Free-TimeSeries-Library-Prep-Test/).
+
+| Library_prep_date || Species || Sample.ID || Library_ID || NEB treated or not || Primer || TubeID || Average_Qubit_Conc || TS_Peak_Size || Molarity_nM_Qubit || Amount_Library_0.67nM - POOL 1 || Amount_H20_0.67nM - POOL 1 || Amount_Library_0.55nM - POOL 2 || Amount_H20_0.55nM  - POOL 2 |
+| 20250929 || Mcap || B8 || B8X || yes || 49 || B8X || 0.54 || 465 || 1.76 || 2.67 || 4.33 ||  ||  |
+| 20250929 || Mcap || C10 || C10X || yes || 50 || C10X || 0.46 || 522 || 1.33 || 3.54 || 3.46 || 2.49 || 3.51 |
+| 20250929 || Mcap || C9 || C9X || yes || 51 || C9X || 0.98 || 525 || 2.83 || 1.65 || 5.35 || 1.16 || 4.84 |
+| 20250929 || Mcap || B8 || B8Y || no || 57 || B8Y || 0.18 || 397 || 0.67 || 7.00 || 0.00 ||  ||  |
+| 20250929 || Mcap || C10 || C10Y || no || 58 || C10Y || 0.60 || 349 || 2.58 || 1.82 || 5.18 || 1.28 || 4.72 |
+| 20250929 || Mcap || C9 || C9Y || no || 59 || C9Y || 0.23 || 384 || 0.92 || 5.08 || 1.92 || 3.57 || 2.43 |
+| 20250929 || Pact || R3 || R3_C3Y || no || 62 || R3Y || 0.13 || 359 || 0.55 ||  ||  || 6.00 || 0.00 |
+| 20251001 || Pact || R3 || R3_C3X2 || yes || 6 || R3X2 || 0.20 || 538 || 0.55 ||  ||  || 6.00 || 0.00 |
+
+- I normalized the libraries into 2 pools, one with 0.67nM concentration and one with 0.55nM concentration. Total volume for pool 1 is 7uL*6samples = 42uL, pool 2 is 6uL *6samples = 36uL
+- For each library, I added calcucated amount of DNA elution buffer (“Amount_H20”) and the library (“Amount_Library”) to a new PCR tube and mixed well
+- I then combined all of these tubes into one LoBind 1.5 mL tube
+- I quantified the pooled libraries with Qubit dsDNA HS Assay Kit and tapestation analysis with the D5000 ScreenTape. Then froze until shipping next week
+
+
