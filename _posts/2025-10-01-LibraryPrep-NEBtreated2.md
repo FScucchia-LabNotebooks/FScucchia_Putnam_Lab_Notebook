@@ -105,4 +105,5 @@ Pooling calculations were done following [Zoe's protocol](https://zdellaert.gith
 - I then combined all of these tubes into one LoBind 1.5 mL tube
 - I quantified the pooled libraries with Qubit dsDNA HS Assay Kit and tapestation analysis with the D5000 ScreenTape. Then froze until shipping next week
 
+# Final pool, sent on 10/06/25 to Oklahoma
 
