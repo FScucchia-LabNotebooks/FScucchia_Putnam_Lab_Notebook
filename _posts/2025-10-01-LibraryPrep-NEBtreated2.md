@@ -105,5 +105,20 @@ Pooling calculations were done following [Zoe's protocol](https://zdellaert.gith
 - I then combined all of these tubes into one LoBind 1.5 mL tube
 - I quantified the pooled libraries with Qubit dsDNA HS Assay Kit and tapestation analysis with the D5000 ScreenTape. Then froze until shipping next week
 
-# Final pool, sent on 10/06/25 to Oklahoma
+##### Final pool, sent on 10/06/25 to Oklahoma
+
+## Qubit Results
+I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were read twice, standard only read once.
+- Standard 1: 59.05
+- Standard 2: 26461.56
+
+| QBIT date  || sample_id  ||  Library read1 || Library read2  || Library_AVG (ng/ul) |
+|  20251006 || POOL1 || 0.220  || 0.202 || 0.211       |
+|  20251006 || POOL2   || 0.160   || 0.152     || 0.156         |
+
+## TapeStation
+After pooling, I run samples on the tapestation (D5000), protocol linked above.
+Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-10-06%20-%20NEB_regular_POOLS.pdf)
+
+I only got a peak for POOL1, 468 bp. Next time I'll run a high sensitivity screentape.
 
