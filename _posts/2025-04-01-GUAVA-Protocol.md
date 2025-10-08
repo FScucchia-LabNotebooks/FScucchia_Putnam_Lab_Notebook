@@ -47,6 +47,7 @@ _Note_: You want to make sure that the samples is free of host remainings and di
 1. Turn on the laptop computer.
 2. When the computer is finished booting up, turn on the guava easyCyte HT System. The power switch is located half-way up on the right side at the back of the instrument.
 3. Start guavaSoft Software (v3.4) by double-clicking the guavaSoft application icon on the desktop.
+4. SIGN the logbook next to the computer, adding the date, user name and steps performed (calibration, cleaning, running coral samples)
 
 #### System prime
 
@@ -94,8 +95,9 @@ At the start of each day (when in use), once the system has been cleaned, run th
 5. Name the output file the output file (FCS file) in the Putnam directory, choose the Analysis method and Settings as shown in the image below and click on "Acquire", the tray will open: you can now place your plate.
 ![setRun.jpg](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/setRun.jpg?raw=true)
 6. Make sure that the all tubes in the tray are filled or emptied as the software tells you before starting the acquisition. Check these tubes every time you put a new plate.
-7. After checking the required tubes and having placed the plate, click on "Ok", the run will start.
-8. It takes 4 minutes per well, a full 96 well plate will take about 7 hours (can be done overnight).
+7. Also make sure that the waste tube to the right of the guava is empty or half empty, and that the water container is full or at least half full.
+8. After checking the required tubes and having placed the plate, click on "Ok", the run will start.
+9. It takes 4 minutes per well, a full 96 well plate will take about 7 hours (can be done overnight).
 _Note_: Settings can only be saved after settings have been adjusted, before running the worklist. For setting adjustment, see the [Insturment manual](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/Millipore-Guava-easyCyte-Manual.pdf) from page 60. 
 Beware of dead volumes: round bottom w96: 50µL; flat-bottom w96: 75µL; 0.5mL Microtubes: 70µL; 1.5mL tubes: >1mL.
 If the acquisition rate slows dramatically, and there is sufficient sample volume, the fluid pathway may be blocked. Click “Stop”, wait for the system to stop, and then click “Backflush”. Once the Backflush procedure is complete, click “Quick Clean” to rinse any bleach from the capillary.
