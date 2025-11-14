@@ -47,7 +47,7 @@ I used High Sensitivity RNA Qubit Protocol linked above. RNA samples were read t
 - Standard 1: 52.910
 - Standard 2: 1077.43
 
-| QBIT date  || sample_id  || Species || RNA_read1 || RNA_read2 | RNA_AVG |
+| QBIT date  || sample_id  || Species || RNA_read1 || RNA_read2 || RNA_AVG |
 | 20251114 || B8  || *Montipora capitata* || 0.484 || 0.483 || 0.484 |
 | 20251114 || C10 || *Montipora capitata* || 0.432 || 0.43  || 0.431 |
 | 20251114 || D1  || *Montipora capitata* || 0.321 || 0.319 || 0.320 |
