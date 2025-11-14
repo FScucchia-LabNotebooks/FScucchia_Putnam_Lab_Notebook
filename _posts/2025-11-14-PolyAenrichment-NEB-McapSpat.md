@@ -66,7 +66,7 @@ I used High Sensitivity RNA Qubit Protocol linked above. RNA samples were read t
 
 ## TapeStation
 After the isolation, I run some of the samples on the tapestation, protocol linked above for high sensitivity.
-See full report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-09-25_NEB_PolyA_trial.pdf).
+See full report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-11-14%20-%20Hawaii_Mcap_spat_NEB_polyA.pdf).
 
 | TapeStation date  || sample_id  ||  TapeStation conc. ng/uL |
 |  20251114 || B8 ||  0.590  |
