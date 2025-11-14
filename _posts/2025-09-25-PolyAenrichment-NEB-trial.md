@@ -57,5 +57,3 @@ See full report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putna
 |  20250925  || R12 ||  0.42  |
 |  20250925  || R1 ||   0.389  |
 |  20250925   || R3 || 0.473 |
-
-
