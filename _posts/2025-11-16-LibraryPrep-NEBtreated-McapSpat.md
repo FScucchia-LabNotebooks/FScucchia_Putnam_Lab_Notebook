@@ -54,9 +54,20 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 
 | QBIT date  || sample_id  || Species ||  Library read1 || Library read2  || Library_AVG (ng/ul) |
 |  20251116 || B8 || *Montipora capitata*  || LOW  || LOW  || LOW        |
-|  20251116 || C10   || *Montipora capitata* || 3.98  || 3.88     ||        |
-|  20251116 || D1 || *Montipora capitata*  || 4.58  || 4.48   ||        |
-
+|  20251116 || C10   || *Montipora capitata* || 3.98  || 3.88     || 3.93       |
+|  20251116 || D1 || *Montipora capitata*  || 4.58  || 4.48   || 4.53       |
+|  20251116 || A4 || *Montipora capitata*  || 5.08  || 5.00   || 5.04       |
+|  20251116 || A9 || *Montipora capitata*  ||  9.88 ||  9.66  || 9.77       |
+|  20251116 || D8 || *Montipora capitata*  || 9.30  ||  9.18  || 9.24       |
+|  20251116 || C9 || *Montipora capitata*  ||  3.16 || 3.10   || 3.13       |
+|  20251116 || C13 || *Montipora capitata*  || 12.5  || 12.0   || 12.25      |
+|  20251116 || B6 || *Montipora capitata*  || 1.75  || 1.76   || 1.755      |
+|  20251116 || B11 || *Montipora capitata*  || 14.1  || 13.9   || 14.0       |
+|  20251116 || D6 || *Montipora capitata*  || 18.9  || 18.7   || 18.8       |
+|  20251116 || D11 || *Montipora capitata*  ||21.8   ||  21.2  || 21.5       |
+|  20251116 || A6 || *Montipora capitata*  || 14.7  || 14.6   || 14.65      |
+|  20251116 || C6 || *Montipora capitata*  || 12.2  || 12.0   || 12.1       |
+|  20251116 || D12 || *Montipora capitata*  ||  15.5 || 15.2   || 15.35      |
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (HS D1000), protocol linked above.
@@ -64,7 +75,7 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 
 | TapeStation date  || sample_id  ||  TapeStation conc. ng/uL ||   Primer set  |
 |  20251116 || B8X2 || 0.249  || 1  |
-|  20250929|| C10X2   || 0.756|| 2 |
+
 
 
 
