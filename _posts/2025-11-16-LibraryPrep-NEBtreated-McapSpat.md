@@ -71,9 +71,9 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library samples were 
 
 ## TapeStation
 After the library prep, I run samples on the tapestation (HS D1000), protocol linked above.
-Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-11-16%20-%20Hawaii_Mcap_spat_polyA_LIBRARIES.pdf)
+Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-11-16%20-%20Hawaii_Mcap_spat_polyA_LIBRARIES.pdf).
 
-| TapeStation date  || sample_id  ||  TapeStation conc. ng/uL ||   Primer set  |
+| TapeStation date  || sample_id  ||  TapeStation conc. pg/uL ||   Primer set  |
 |  20251116 || B8 || 2.59  || 17 |
 |  20251116 || C10 || 2410  || 18 |
 |  20251116 || D1 || 2320  || 19 |
@@ -96,8 +96,7 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 
 Pooling calculations were done following [Zoe's protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Switch-Free-TimeSeries-Library-Prep-Test/).
 
-| Library_prep_date || Species || Sample.ID || Library_ID || NEB treated or not || Primer || TubeID || Average_Qubit_Conc || TS_Peak_Size || Molarity_nM_Qubit || Amount_Library_0.67nM - POOL 1 || Amount_H20_0.67nM - POOL 1 || Amount_Library_0.55nM - POOL 2 || Amount_H20_0.55nM  - POOL 2 |
-
+| Library_prep_date || Species || Sample.ID || Library_ID || Primer || TubeID || Average_Qubit_Conc || TS_Peak_Size || Molarity_nM_Qubit || Amount_Library_0.67nM - POOL 1 |
 
 
 
