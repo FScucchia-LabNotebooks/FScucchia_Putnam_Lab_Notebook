@@ -92,6 +92,8 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 
 - it is weird that D8 has 9.24ng/ul from the qbit and nothing from the tapestation, I will re-run this sample.
 
+![vacuum.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Mcap_spat_libraries.png?raw=true)
+
 ## Libraries pooling
 
 Pooling calculations were done following [Zoe's protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Switch-Free-TimeSeries-Library-Prep-Test/).
