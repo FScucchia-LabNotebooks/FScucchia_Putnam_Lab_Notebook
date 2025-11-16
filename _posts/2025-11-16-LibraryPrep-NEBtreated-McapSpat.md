@@ -14,7 +14,7 @@ tags: [DNA, Zymo, RNA, library]
 - [TapeStation protocol high sensitivity DNA D1000](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md)
 - [High Sensitivity dsDNA QBIT protocol](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/protocols/MAN0017455_Qubit_1X2_dsDNA_HS_Assay_Kit_UG.pdf)
 
-Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit)(CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from coral spat of _Montipora capitata_. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat2/), [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat3/) and [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat1/).
+Using the [Zymo-Seq SwitchFree 3′ mRNA Library Kit](https://www.zymoresearch.com/products/zymo-seq-switchfree-3-mrna-library-kit) (CAT.  R3009-A, LOT. 252649) to prepare libraries starting from RNA samples exctracted from coral spat of _Montipora capitata_. RNA extraction posts can be found [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat2/), [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat3/) and [here](https://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/DNA-RNA-Hawaii-McapSpat1/).
 NEB PolyA treatment post can be found [here](hhttps://fscucchia-labnotebooks.github.io/FScucchia_Putnam_Lab_Notebook/PolyAenrichment-NEB-McapSpat/).
 
 The idea is to use the NEB kit before performing the library prep to reduce the amount of rRNA present in the libraries.
@@ -74,11 +74,23 @@ After the library prep, I run samples on the tapestation (HS D1000), protocol li
 Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-11-16%20-%20Hawaii_Mcap_spat_polyA_LIBRARIES.pdf)
 
 | TapeStation date  || sample_id  ||  TapeStation conc. ng/uL ||   Primer set  |
-|  20251116 || B8X2 || 0.249  || 1  |
+|  20251116 || B8 || 2.59  || 17 |
+|  20251116 || C10 || 2410  || 18 |
+|  20251116 || D1 || 2320  || 19 |
+|  20251116 || A4 || 293  || 20 |
+|  20251116 || A9 || 4500  || 21 |
+|  20251116 || D8 ||  / || 22 |
+|  20251116 || C9 || 1520  || 23 |
+|  20251116 || C13 || 4890  || 24 |
+|  20251116 || B6 || 424  ||  25|
+|  20251116 || B11 || 6610  ||  26|
+|  20251116 || D6 || 7000  ||  27|
+|  20251116 || D11 || 8660  ||  28|
+|  20251116 || A6 || 7640  ||  29|
+|  20251116 || C6 || 5730  ||  30|
+|  20251116 || D12 || 7130  ||  31|
 
-
-
-
+- it is weird that D8 has 9.24ng/ul from the qbit and nothing from the tapestation, I will re-run this sample.
 
 ## Libraries pooling
 
