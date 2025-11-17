@@ -90,9 +90,12 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 |  20251116 || C6 || 5730  ||  30|
 |  20251116 || D12 || 7130  ||  31|
 
-- it is weird that D8 has 9.24ng/ul from the qbit and nothing from the tapestation, I will re-run this sample.
+![tapeS.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Mcap_spat_libraries.png?raw=true)
 
-![vacuum.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/Mcap_spat_libraries.png?raw=true)
+
+- It is weird that D8 has 9.24ng/ul from the qbit and nothing from the tapestation, I re-ran this sample and it worked.
+
+![tapeS2.png](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/images/D8_2_Mcap_spat.png?raw=true)
 
 ## Libraries pooling
 
