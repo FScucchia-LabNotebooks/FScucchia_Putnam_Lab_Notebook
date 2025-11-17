@@ -101,15 +101,38 @@ Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucch
 
 Pooling calculations were done following [Zoe's protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Switch-Free-TimeSeries-Library-Prep-Test/).
 
-| Library_prep_date || Species || Sample.ID || Library_ID || Primer || TubeID || Average_Qubit_Conc || TS_Peak_Size || Molarity_nM_Qubit || Amount_Library_0.67nM - POOL 1 |
-
-
-
+| Library_prep_date || Species || Sample.ID || Library_ID || Primer || TubeID || Average_Qubit_Conc || TS_Peak_Size || Molarity_nM_Qubit || Amount_Library_uL || Amount_Buffer_uL |
+| 20251116 || Mcap || C10 || C10 || 18 || C10 || 3.93  || 514 || 11.58 || 2.59 || 7.41 ||
+| 20251116 || Mcap || D1  || D1  || 19 || D1  || 4.53  || 518 || 13.25 || 2.26 || 7.74 ||
+| 20251116 || Mcap || A4  || A4  || 20 || A4  || 5.04  || 513 || 14.89 || 2.02 || 7.98 ||
+| 20251116 || Mcap || A9  || A9  || 21 || A9  || 9.77  || 399 || 37.1  || 0.81 || 9.19 ||
+| 20251116 || Mcap || D8  || D8  || 22 || D8  || 9.24  || 447 || 31.32 || 0.96 || 9.04 ||
+| 20251116 || Mcap || C9  || C9  || 23 || C9  || 3.13  || 458 || 10.35 || 2.9  || 7.1  ||
+| 20251116 || Mcap || C13 || C13 || 24 || C13 || 12.25 || 453 || 40.97 || 0.73 || 9.27 ||
+| 20251116 || Mcap || B6  || B6  || 25 || B6  || 1.755 || 496 || 5.36  || 5.6  || 4.4  ||
+| 20251116 || Mcap || B11 || B11 || 26 || B11 || 14    || 437 || 48.54 || 0.62 || 9.38 ||
+| 20251116 || Mcap || D6  || D6  || 27 || D6  || 18.8  || 426 || 66.87 || 0.45 || 9.55 ||
+| 20251116 || Mcap || D11 || D11 || 28 || D11 || 21.5  || 402 || 81.03 || 0.37 || 9.63 ||
+| 20251116 || Mcap || A6  || A6  || 29 || A6  || 14.65 || 389 || 57.06 || 0.53 || 9.47 ||
+| 20251116 || Mcap || C6  || C6  || 30 || C6  || 12.1  || 425 || 43.14 || 0.7  || 9.3  ||
+| 20251116 || Mcap || D12 || D12 || 31 || D12 || 15.35 || 399 || 58.29 || 0.51 || 9.49 ||
 
 - I normalized the libraries into 1 pool with 4nM concentration. Total volume for pool 1 is 140uL, I will send only 35uL (the minumum volume they need is 30uL).
 - For each library, I added calcucated amount of DNA elution buffer (“Amount_H20”) and the library (“Amount_Library”) to a new PCR tube and mixed well
 - I then combined all of these tubes into one LoBind 1.5 mL tube
 - I quantified the pooled libraries with Qubit dsDNA HS Assay Kit and tapestation analysis with the HS D1000 ScreenTape. Then froze until shipping.
 
+##### Final pool, sent on 11/18/25 to Oklahoma
 
+## Qubit Results
+I used High Sensitivity dsDNA Qubit Protocol linked above. Library sample was read twice, standard only read once.
+- Standard 1: 73.95
+- Standard 2: 26285.98
+
+| QBIT date  || sample_id  ||  Library read1 || Library read2  || Library_AVG (ng/ul) |
+|  20251117 || POOL_F || 0.878  || 0.844 || 0.861       |
+
+## TapeStation
+After pooling, I ran the library on the tapestation (D1000 HS), protocol linked above.
+Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-10-06%20-%20NEB_regular_POOLS.pdf)
 
