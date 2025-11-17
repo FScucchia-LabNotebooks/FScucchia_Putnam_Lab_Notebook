@@ -105,3 +105,11 @@ Pooling calculations were done following [Zoe's protocol](https://zdellaert.gith
 
 
 
+
+- I normalized the libraries into 1 pool with 4nM concentration. Total volume for pool 1 is 140uL, I will send only 35uL (the minumum volume they need is 30uL).
+- For each library, I added calcucated amount of DNA elution buffer (“Amount_H20”) and the library (“Amount_Library”) to a new PCR tube and mixed well
+- I then combined all of these tubes into one LoBind 1.5 mL tube
+- I quantified the pooled libraries with Qubit dsDNA HS Assay Kit and tapestation analysis with the HS D1000 ScreenTape. Then froze until shipping.
+
+
+
