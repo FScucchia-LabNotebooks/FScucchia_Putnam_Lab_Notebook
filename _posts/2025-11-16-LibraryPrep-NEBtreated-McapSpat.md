@@ -134,5 +134,5 @@ I used High Sensitivity dsDNA Qubit Protocol linked above. Library sample was re
 
 ## TapeStation
 After pooling, I ran the library on the tapestation (D1000 HS), protocol linked above.
-Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-10-06%20-%20NEB_regular_POOLS.pdf)
+Full tapestation report [here](https://github.com/FScucchia-LabNotebooks/FScucchia_Putnam_Lab_Notebook/blob/master/docs/2025-11-17%20-%20Hawaii_Mcap_spat_polyA_FinalPool.pdf)
 
